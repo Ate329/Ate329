@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ate329&show_icons=true&theme=tokyonight)
+![IamProgrammer](https://github.com/SAWARATSUKI/ServiceLogos/blob/main/IamSeries/IamProgrammerEnglish.png)
+Nice and cute logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI)
