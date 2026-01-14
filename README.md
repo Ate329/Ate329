@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **1954**: The Hudson Motor Car Company merges with Nash-Kelvinator Corporation forming the American Motors Corporation.
-- **1953**: Josip Broz Tito is elected the first President of Yugoslavia.
-- **1952**: NBC's long-running morning news program Today debuts, with host Dave Garroway.
+- **2024**: Queen Margrethe II abdicates as Queen of Denmark and is succeeded by her son, Frederik X.
+- **2010**: Yemen declares an open war against the terrorist group al-Qaeda.
+- **1967**: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
 
 <br>
 
 **💬 Quote**<br>
-> "While some of us act without thinking, too many of us think without acting."<br>
-> — **Dan Millman**
+> "All human wisdom is contained in these two words - Wait and Hope"<br>
+> — **Alexandre Dumas**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*Why do C# and Java developers keep breaking their keyboards?*<br>
+**Because they use a strongly typed language.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A healthy cat has a temperature between 38 and 39 degrees Celcius.*
+*Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.*
 
 <br>
 
@@ -49,9 +49,9 @@
 - [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-- [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
+- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
+- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 
 <br>
 </td>
