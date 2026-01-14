@@ -6,28 +6,39 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<br>
 
-### 🌤️ Eindhoven Weather
-**8.9°C - 🌧️ Drizzle**
+**🌤️ Eindhoven Weather**<br>
+8.9°C - 🌧️ Drizzle
 
-### 🤣 Daily Joke
-*Why was the JavaScript developer sad?*
-**He didn't know how to null his feelings.**
+<br>
 
-### 💬 Quote
-> "Don't live the same year 75 times and call it a life."
-> — **Robin Sharma**
+**🤣 Daily Joke**<br>
+*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
+**the rest of them will write Perl**
 
+<br>
+
+**💬 Quote**<br>
+> "Our happiness depends on the habit of mind we cultivate."<br>
+> — **Norman Vincent Peale**
+
+<br>
 </td>
 <td width="50%" valign="top">
+<br>
 
-### 📰 Top 5 Tech News
+**📰 Daily Tech News**
 - [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
+- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
+- [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)
 
+<br>
 </td>
 </tr>
 </table>

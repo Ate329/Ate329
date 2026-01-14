@@ -74,11 +74,11 @@ def get_joke():
         return "Why do programmers prefer dark mode?", "Because light attracts bugs."
 
 def get_tech_news():
-    """Fetch top 5 tech stories from Hacker News."""
+    """Fetch top 8 tech stories from Hacker News."""
     try:
         # Get top stories IDs
         response = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json", timeout=10)
-        ids = response.json()[:5]
+        ids = response.json()[:8]
         
         stories = []
         for id in ids:
@@ -114,24 +114,32 @@ def update_readme():
 <table>
 <tr>
 <td width="50%" valign="top">
+<br>
 
-### 🌤️ Eindhoven Weather
-**{weather_info}**
+**🌤️ Eindhoven Weather**<br>
+{weather_info}
 
-### 🤣 Daily Joke
-*{joke_setup}*
+<br>
+
+**🤣 Daily Joke**<br>
+*{joke_setup}*<br>
 **{joke_punchline}**
 
-### 💬 Quote
-> "{quote}"
+<br>
+
+**💬 Quote**<br>
+> "{quote}"<br>
 > — **{author}**
 
+<br>
 </td>
 <td width="50%" valign="top">
+<br>
 
-### 📰 Top 5 Tech News
+**📰 Daily Tech News**
 {news_content}
 
+<br>
 </td>
 </tr>
 </table>
