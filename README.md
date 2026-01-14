@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- **1957**: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
-- **1953**: Josip Broz Tito is elected the first President of Yugoslavia.
+- **2010**: Yemen declares an open war against the terrorist group al-Qaeda.
+- **1973**: Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
+- **1967**: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
 
 <br>
 
 **💬 Quote**<br>
-> "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."<br>
-> — **Ralph Marston**
+> "Keep smiling, because life is a beautiful thing and there's so much to smile about."<br>
+> — **Marilyn Monroe**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats must have fat in their diet because they can't produce it on their own.*
+*Cats only use their meows to talk to humans, not each other. The only time they meow to communicate with other felines is when they are kittens to signal to their mother.*
 
 <br>
 
@@ -48,10 +48,10 @@
 - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
+- [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 - [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
-- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 
 <br>
 </td>
@@ -60,13 +60,11 @@
 
 <br>
 
-### 🌌 Annular Eclipse over Patagonia
+### 🌌 Shadows Across Jupiter
 
-*Source: 
-Alexis
-Trigo
-*<br>
-<img src='https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Damian Peach
+<br>
+<img src='https://apod.nasa.gov/apod/image/1302/Jup2013_01_03peach900.jpg' width='100%' style='border-radius: 8px;'>
 
 
 <!-- DAILY_CONTENT_END -->
