@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<!-- DAILY_CONTENT_START -->
+### 📅 Today is **Wednesday, January 14, 2026**
+
+> 💬 *"You are the average of the five people you spend most time with."*
+> 
+> — **Jim Rohn**
+
+<sub>🔄 Auto-updated daily by GitHub Actions</sub>
+<!-- DAILY_CONTENT_END -->
+
 <!--
 **Ate329/Ate329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ate329&show_icons=true&theme=tokyonight)
 
 ![IamProgrammer](https://github.com/Ate329/ServiceLogos/blob/main/IamSeries/IamProgrammerEnglish.png)
 
