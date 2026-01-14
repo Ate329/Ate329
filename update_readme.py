@@ -97,19 +97,19 @@ def get_nasa_apod():
         title = data.get("title", "Space Image")
         url = data.get("url")
         media_type = data.get("media_type", "")
-        copyright_text = data.get("copyright", "NASA / APOD")
+        copyright_text = data.get("copyright", "NASA / APOD").strip().replace("\n", " ")
         
         if not url: 
             return None
         
         # Format: Title as Header, Source line, then Media
         header = f"### 🌌 {title}"
-        source = f"*Source: {copyright_text}*"
+        source = f"> Source: {copyright_text}"
         
         if media_type == "image":
-            return f"{header}\n\n{source}<br>\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
+            return f"{header}\n\n{source}\n<br>\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
         elif media_type == "video":
-            return f"{header}\n\n{source}<br>\n[Watch Video]({url})"
+            return f"{header}\n\n{source}\n<br>\n[Watch Video]({url})"
         return None
 
     # 1. Try Today's Picture
@@ -273,7 +273,6 @@ def update_readme():
 </table>
 {nasa_section}
 
-<sub>Auto-updated daily by GitHub Actions</sub>
 <!-- DAILY_CONTENT_END -->"""
 
     # Read the current README
