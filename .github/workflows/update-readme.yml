@@ -35,7 +35,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto-update: Daily content refresh" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Daily content refresh" && git push)
 
   generate-snake:
     permissions:

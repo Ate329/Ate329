@@ -1,5 +1,5 @@
 """
-Update README.md with current day, date, weather, joke, and tech news.
+Update README.md with current day, date, weather, joke, tech news, NASA APOD, history, and facts.
 Runs via GitHub Actions daily.
 """
 
@@ -41,7 +41,7 @@ def get_weather():
         temp = current.get("temperature_2m", "N/A")
         code = current.get("weather_code", 0)
         
-        # WMO Weather interpretation codes (http://www.nodc.noaa.gov/archive/arc0021/0002199/1.1/data/0-data/HTML/WMO-CODE/WMO4677.HTM)
+        # WMO Weather interpretation codes
         weather_icons = {
             0: "☀️ Clear sky",
             1: "🌤️ Mainly clear",
@@ -49,7 +49,7 @@ def get_weather():
             3: "☁️ Overcast",
             45: "🌫️ Fog", 48: "🌫️ Depositing rime fog",
             51: "🌧️ Drizzle", 53: "🌧️ Drizzle", 55: "🌧️ Drizzle",
-            61: "️ Rain", 63: "🌧️ Rain", 65: "🌧️ Rain",
+            61: "🌧️ Rain", 63: "🌧️ Rain", 65: "🌧️ Rain",
             71: "🌨️ Snow", 73: "🌨️ Snow", 75: "🌨️ Snow",
             80: "🌧️ Rain showers", 81: "🌧️ Rain showers", 82: "🌧️ Rain showers",
             95: "⛈️ Thunderstorm", 96: "⛈️ Thunderstorm", 99: "⛈️ Thunderstorm"
@@ -76,7 +76,6 @@ def get_joke():
 def get_tech_news():
     """Fetch top 8 tech stories from Hacker News."""
     try:
-        # Get top stories IDs
         response = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json", timeout=10)
         ids = response.json()[:8]
         
@@ -91,6 +90,74 @@ def get_tech_news():
     except Exception as e:
         print(f"Error fetching news: {e}")
         return "- Failed to fetch news"
+
+def get_nasa_apod():
+    """Fetch NASA Astronomy Picture of the Day."""
+    try:
+        # Using DEMO_KEY which has rate limits (30/hour, 50/day)
+        response = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY", timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        
+        title = data.get("title", "Space Image")
+        url = data.get("url")
+        media_type = data.get("media_type", "")
+        
+        # Only show if it's an image or video
+        if not url:
+            return ""
+            
+        if media_type == "image":
+            return f"**🌌 {title}**<br><img src='{url}' width='100%' style='border-radius: 8px;'>"
+        elif media_type == "video":
+            return f"**🌌 {title}**<br>[Watch Video]({url})"
+        else:
+            return ""
+    except Exception as e:
+        print(f"Error fetching NASA APOD: {e}")
+        return ""
+
+def get_on_this_day():
+    """Fetch historical events for today."""
+    try:
+        now = datetime.datetime.now()
+        month = now.month
+        day = now.day
+        url = f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}"
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (compatible; GitHubReadmeBot/1.0; +https://github.com/)'
+        }
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        
+        events = data.get("events", [])
+        # Get 3 random events from the top 15 most recent/relevant
+        selected_events = random.sample(events[:15], min(3, len(events)))
+        sorted_events = sorted(selected_events, key=lambda x: x.get("year", 0), reverse=True)
+        
+        formatted_events = []
+        for event in sorted_events:
+            year = event.get("year")
+            text = event.get("text")
+            formatted_events.append(f"- **{year}**: {text}")
+            
+        return "\n".join(formatted_events)
+    except Exception as e:
+        print(f"Error fetching history: {e}")
+        return "- History data unavailable"
+
+def get_useless_fact():
+    """Fetch a random cat fact (since useless facts API is flaky)."""
+    try:
+        response = requests.get("https://catfact.ninja/fact", timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        return data.get("fact", "Cats are amazing.")
+    except Exception as e:
+        print(f"Error fetching fact: {e}")
+        return "Did you know? Python is named after Monty Python."
 
 def get_current_datetime():
     """Get current day name and formatted date."""
@@ -120,8 +187,21 @@ def update_readme():
     joke_setup, joke_punchline = get_joke()
     news_content = get_tech_news()
     daily_message = get_daily_message(day_name)
+    nasa_content = get_nasa_apod()
+    history_content = get_on_this_day()
+    useless_fact = get_useless_fact()
 
-    # Create the dynamic dashboard
+    # Format NASA content as a separate section if it exists
+    nasa_section = ""
+    if nasa_content:
+        nasa_section = f"""
+<br>
+
+### 🌌 Cosmic View
+{nasa_content}
+"""
+
+    # Create the dynamic dashboard - SPLIT LAYOUT
     dynamic_content = f"""<!-- DAILY_CONTENT_START -->
 ### 📅 Today is **{day_name}, {date_str}**
 *{daily_message}*
@@ -129,6 +209,7 @@ def update_readme():
 <table>
 <tr>
 <td width="50%" valign="top">
+<!-- LEFT COLUMN -->
 <br>
 
 **🌤️ Eindhoven Weather**<br>
@@ -136,9 +217,8 @@ def update_readme():
 
 <br>
 
-**🤣 Daily Joke**<br>
-*{joke_setup}*<br>
-**{joke_punchline}**
+**💥 On This Day**<br>
+{history_content}
 
 <br>
 
@@ -149,6 +229,18 @@ def update_readme():
 <br>
 </td>
 <td width="50%" valign="top">
+<!-- RIGHT COLUMN -->
+<br>
+
+**🤣 Daily Joke**<br>
+*{joke_setup}*<br>
+**{joke_punchline}**
+
+<br>
+
+**🧠 Random Fact**<br>
+*{useless_fact}*
+
 <br>
 
 **📰 Daily Tech News**
@@ -158,6 +250,7 @@ def update_readme():
 </td>
 </tr>
 </table>
+{nasa_section}
 
 <sub>Auto-updated daily by GitHub Actions</sub>
 <!-- DAILY_CONTENT_END -->"""
@@ -176,7 +269,7 @@ def update_readme():
         new_content = re.sub(pattern, dynamic_content, readme_content, flags=re.DOTALL)
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
-        print(f"✅ README updated successfully with new dashboard!")
+        print(f"✅ README updated successfully with new layout!")
     else:
         print("❌ Could not find content markers in README.md")
 
