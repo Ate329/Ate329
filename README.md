@@ -3,9 +3,11 @@
 <!-- DAILY_CONTENT_START -->
 ### 📅 Today is **Wednesday, January 14, 2026**
 
-> 💬 *"Men go to far greater lengths to avoid what they fear than to obtain what they desire."*
+> 💬 *"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."*
 > 
-> — **Dan Brown**
+> — **Gilbert Chesterton**
+
+<sub>🔄 Auto-updated daily by GitHub Actions</sub>
 <!-- DAILY_CONTENT_END -->
 
 <sub> Auto-updated daily by GitHub Actions</sub>
