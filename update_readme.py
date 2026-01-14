@@ -216,7 +216,7 @@ def update_readme():
     # Format NASA content as a separate section if it exists
     nasa_section = ""
     if nasa_content:
-        nasa_section = f"\n<br>\n{nasa_content}"
+        nasa_section = f"<br>\n\n{nasa_content}"
 
     # Create the dynamic dashboard - SPLIT LAYOUT
     dynamic_content = f"""<!-- DAILY_CONTENT_START -->
