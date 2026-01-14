@@ -2,6 +2,7 @@
 
 <!-- DAILY_CONTENT_START -->
 ### 📅 Today is **Wednesday, January 14, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -9,19 +10,19 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.9°C - 🌧️ Drizzle
+9.1°C - ☁️ Overcast
 
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*Why was the designer always cold?*<br>
+**Because they always used too much ice-olation.**
 
 <br>
 
 **💬 Quote**<br>
-> "I am thankful to all those who said no. It's because of them, I did it myself.  "<br>
-> — **Wayne Dyer**
+> "All our knowledge has its origins in our perceptions."<br>
+> — **Leonardo da Vinci**
 
 <br>
 </td>
@@ -33,10 +34,10 @@
 - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
-- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 - [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
+- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
+- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 
 <br>
 </td>
