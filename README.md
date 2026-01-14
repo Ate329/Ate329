@@ -15,13 +15,13 @@
 **He didn't know how to null his feelings.**
 
 ### 💬 Quote
-> "What's the point in being smart enough to read, if everything you read makes you dumb?"
-> — **C. Sean McGee**
+> "Don't live the same year 75 times and call it a life."
+> — **Robin Sharma**
 
 </td>
 <td width="50%" valign="top">
 
-### 📰 Daily Tech News
+### 📰 Top 5 Tech News
 - [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
