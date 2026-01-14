@@ -3,9 +3,9 @@
 <!-- DAILY_CONTENT_START -->
 ### 📅 Today is **Wednesday, January 14, 2026**
 
-> 💬 *"You are the average of the five people you spend most time with."*
+> 💬 *"Men go to far greater lengths to avoid what they fear than to obtain what they desire."*
 > 
-> — **Jim Rohn**
+> — **Dan Brown**
 
 <sub>🔄 Auto-updated daily by GitHub Actions</sub>
 <!-- DAILY_CONTENT_END -->
