@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Queen Margrethe II abdicates as Queen of Denmark and is succeeded by her son, Frederik X.
+- **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
 - **1972**: Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.
-- **1954**: The Hudson Motor Car Company merges with Nash-Kelvinator Corporation forming the American Motors Corporation.
+- **1957**: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
 
 <br>
 
 **💬 Quote**<br>
-> "I do not exist to impress the world. I exist to live my life in a way that will make me happy."<br>
-> — **Richard Bach**
+> "I like the dreams of the future better than the history of the past."<br>
+> — **Thomas Jefferson**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Lady: How do I spread love in this cruel world?*<br>
-**Random Dude: [...💘]**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.*
+*A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.*
 
 <br>
 
 **📰 Daily Tech News**
 - [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 - [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
-- [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
+- [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
 - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
+- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
 
 <br>
 </td>
@@ -59,9 +59,9 @@
 </table>
 
 <br>
-
-### 🌌 Cosmic View
-**🌌 Total Eclipse of the Active Sun**<br><img src='https://apod.nasa.gov/apod/image/0106/tse1999_kobusch.jpg' width='100%' style='border-radius: 8px;'>
+### 🌌 The Center of Centaurus A<br>
+*Source: NASA / APOD*<br>
+<img src='https://apod.nasa.gov/apod/image/9805/cena_wfpc2.jpg' width='100%' style='border-radius: 8px;'>
 
 
 <sub>Auto-updated daily by GitHub Actions</sub>
