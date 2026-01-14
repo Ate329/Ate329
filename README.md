@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **1973**: Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
+- **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
+- **1972**: Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.
 - **1967**: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
-- **1952**: NBC's long-running morning news program Today debuts, with host Dave Garroway.
 
 <br>
 
 **💬 Quote**<br>
-> "Success is stumbling from failure to failure with no loss of enthusiasm."<br>
-> — **Winston Churchill**
+> "The quality of your life is determined by the quality of questions you ask."<br>
+> — **Tony Robbins**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*There are 10 types of people in this world...*<br>
-**Those who understand binary and those who don't**
+*Which song would an exception sing?*<br>
+**Can't catch me - Avicii**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The ability of a cat to find its way home is called “psi-traveling.” Experts think cats either use the angle of the sunlight to find their way or that cats have magnetized cells in their brains that act as compasses.*
+*The average litter of kittens is between 2 - 6 kittens.*
 
 <br>
 
@@ -57,12 +57,12 @@
 </td>
 </tr>
 </table>
-
 <br>
-### 🌌 Comet Hale-Bopp Over Indian Cove
 
-> Source: Wally Pacholka  (Astropics, TWAN)
-<img src='https://apod.nasa.gov/apod/image/1311/halebopp3_pacholka_960.jpg' width='100%' style='border-radius: 8px;'>
+### 🌌 The Elephant's Trunk in IC 1396
+
+> Source: Rolf Geissinger
+<img src='https://apod.nasa.gov/apod/image/1011/IC1396RolfGeissinger_900c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
