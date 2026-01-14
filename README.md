@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
 ### 📅 Today is **Wednesday, January 14, 2026**
@@ -6,9 +6,9 @@
 > 💬 *"Men go to far greater lengths to avoid what they fear than to obtain what they desire."*
 > 
 > — **Dan Brown**
-
-<sub>🔄 Auto-updated daily by GitHub Actions</sub>
 <!-- DAILY_CONTENT_END -->
+
+<sub> Auto-updated daily by GitHub Actions</sub>
 
 <!--
 **Ate329/Ate329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
