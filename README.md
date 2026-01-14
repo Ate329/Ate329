@@ -17,14 +17,14 @@
 
 **💥 On This Day**<br>
 - **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- **1972**: Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.
 - **1957**: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
+- **1953**: Josip Broz Tito is elected the first President of Yugoslavia.
 
 <br>
 
 **💬 Quote**<br>
-> "I like the dreams of the future better than the history of the past."<br>
-> — **Thomas Jefferson**
+> "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.*
+*Cats must have fat in their diet because they can't produce it on their own.*
 
 <br>
 
@@ -59,9 +59,14 @@
 </table>
 
 <br>
-### 🌌 The Center of Centaurus A<br>
-*Source: NASA / APOD*<br>
-<img src='https://apod.nasa.gov/apod/image/9805/cena_wfpc2.jpg' width='100%' style='border-radius: 8px;'>
+
+### 🌌 Annular Eclipse over Patagonia
+
+*Source: 
+Alexis
+Trigo
+*<br>
+<img src='https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 
 <sub>Auto-updated daily by GitHub Actions</sub>
