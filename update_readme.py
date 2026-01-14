@@ -92,30 +92,47 @@ def get_tech_news():
         return "- Failed to fetch news"
 
 def get_nasa_apod():
-    """Fetch NASA Astronomy Picture of the Day."""
-    try:
-        # Using DEMO_KEY which has rate limits (30/hour, 50/day)
-        response = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY", timeout=10)
-        response.raise_for_status()
-        data = response.json()
-        
+    """Fetch NASA Astronomy Picture of the Day (with random fallback)."""
+    def format_apod(data):
         title = data.get("title", "Space Image")
         url = data.get("url")
         media_type = data.get("media_type", "")
         
-        # Only show if it's an image or video
-        if not url:
-            return ""
-            
+        if not url: 
+            return None
+        
         if media_type == "image":
             return f"**🌌 {title}**<br><img src='{url}' width='100%' style='border-radius: 8px;'>"
         elif media_type == "video":
             return f"**🌌 {title}**<br>[Watch Video]({url})"
-        else:
-            return ""
+        return None
+
+    # 1. Try Today's Picture
+    try:
+        response = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY", timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        content = format_apod(data)
+        if content and "img" in content: # Prefer images for the dashboard
+            return content
     except Exception as e:
-        print(f"Error fetching NASA APOD: {e}")
-        return ""
+        print(f"Error fetching today's APOD: {e}")
+
+    # 2. Fallback to Random Image if today is not an image or failed
+    try:
+        print("Falling back to random APOD...")
+        response = requests.get("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=1", timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        if isinstance(data, list):
+            data = data[0]
+        content = format_apod(data)
+        if content:
+            return content
+    except Exception as e:
+        print(f"Error fetching random APOD: {e}")
+
+    return ""
 
 def get_on_this_day():
     """Fetch historical events for today."""
