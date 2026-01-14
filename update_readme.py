@@ -107,9 +107,9 @@ def get_nasa_apod():
         source = f"> Source: {copyright_text}"
         
         if media_type == "image":
-            return f"{header}\n\n{source}\n<br>\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
+            return f"{header}\n\n{source}\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
         elif media_type == "video":
-            return f"{header}\n\n{source}\n<br>\n[Watch Video]({url})"
+            return f"{header}\n\n{source}\n[Watch Video]({url})"
         return None
 
     # 1. Try Today's Picture
@@ -216,11 +216,7 @@ def update_readme():
     # Format NASA content as a separate section if it exists
     nasa_section = ""
     if nasa_content:
-        nasa_section = f"""
-<br>
-
-{nasa_content}
-"""
+        nasa_section = f"{nasa_content}"
 
     # Create the dynamic dashboard - SPLIT LAYOUT
     dynamic_content = f"""<!-- DAILY_CONTENT_START -->
