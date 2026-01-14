@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2010**: Yemen declares an open war against the terrorist group al-Qaeda.
-- **1957**: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
+- **1973**: Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
+- **1967**: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
 - **1952**: NBC's long-running morning news program Today debuts, with host Dave Garroway.
 
 <br>
 
 **💬 Quote**<br>
-> "I try more and more to be myself, caring relatively little whether people approve or disapprove."<br>
-> — **Vincent van Gogh**
+> "Success is stumbling from failure to failure with no loss of enthusiasm."<br>
+> — **Winston Churchill**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A user interface is like a joke.*<br>
-**If you have to explain it then it is not that good.**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.*
+*The ability of a cat to find its way home is called “psi-traveling.” Experts think cats either use the angle of the sunlight to find their way or that cats have magnetized cells in their brains that act as compasses.*
 
 <br>
 
@@ -51,7 +51,7 @@
 - [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 - [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
-- [The Emacs Widget Library: A Critique and Case Study](https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library)
+- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 
 <br>
 </td>
@@ -59,11 +59,10 @@
 </table>
 
 <br>
+### 🌌 Comet Hale-Bopp Over Indian Cove
 
-### 🌌 Portrait of the Eagle Nebula
-
-> Source: Charles Bonafilia
-<img src='https://apod.nasa.gov/apod/image/2208/M16_final_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Wally Pacholka  (Astropics, TWAN)
+<img src='https://apod.nasa.gov/apod/image/1311/halebopp3_pacholka_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
