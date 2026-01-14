@@ -107,9 +107,9 @@ def get_nasa_apod():
         source = f"*Source: {copyright_text}*"
         
         if media_type == "image":
-            return f"{header}<br>\n{source}<br>\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
+            return f"{header}\n\n{source}<br>\n<img src='{url}' width='100%' style='border-radius: 8px;'>"
         elif media_type == "video":
-            return f"{header}<br>\n{source}<br>\n[Watch Video]({url})"
+            return f"{header}\n\n{source}<br>\n[Watch Video]({url})"
         return None
 
     # 1. Try Today's Picture
@@ -218,6 +218,7 @@ def update_readme():
     if nasa_content:
         nasa_section = f"""
 <br>
+
 {nasa_content}
 """
 
