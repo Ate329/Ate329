@@ -14,14 +14,14 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
-**the rest of them will write Perl**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **💬 Quote**<br>
-> "Our happiness depends on the habit of mind we cultivate."<br>
-> — **Norman Vincent Peale**
+> "I am thankful to all those who said no. It's because of them, I did it myself.  "<br>
+> — **Wayne Dyer**
 
 <br>
 </td>
@@ -36,7 +36,7 @@
 - [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 - [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
-- [Japan's Skyscraper Factories (2021)](https://www.construction-physics.com/p/japans-skyscraper-factories)
+- [Why IRC is better than Real Life](https://everything2.com/node/e2node/Why%20IRC%20is%20better%20than%20Real%20Life)
 
 <br>
 </td>
