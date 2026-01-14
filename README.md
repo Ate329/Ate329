@@ -63,8 +63,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![IamProgrammer](https://github.com/Ate329/ServiceLogos/blob/main/IamSeries/IamProgrammerEnglish.png)
-
 ![Snake animation](https://github.com/Ate329/Ate329/raw/output/github-contribution-grid-snake.svg)
-
-Nice and cute logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI)
