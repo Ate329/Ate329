@@ -49,7 +49,7 @@ def get_weather():
             3: "☁️ Overcast",
             45: "🌫️ Fog", 48: "🌫️ Depositing rime fog",
             51: "🌧️ Drizzle", 53: "🌧️ Drizzle", 55: "🌧️ Drizzle",
-            61: "🌧️ Rain", 63: "🌧️ Rain", 65: "🌧️ Rain",
+            61: "️ Rain", 63: "🌧️ Rain", 65: "🌧️ Rain",
             71: "🌨️ Snow", 73: "🌨️ Snow", 75: "🌨️ Snow",
             80: "🌧️ Rain showers", 81: "🌧️ Rain showers", 82: "🌧️ Rain showers",
             95: "⛈️ Thunderstorm", 96: "⛈️ Thunderstorm", 99: "⛈️ Thunderstorm"
@@ -99,6 +99,19 @@ def get_current_datetime():
     date_str = now.strftime("%B %d, %Y")
     return day_name, date_str
 
+def get_daily_message(day_name):
+    """Return a specific message based on the day of the week."""
+    messages = {
+        "Monday": "Monday again. Coffee is mandatory. ☕",
+        "Tuesday": "It's barely Tuesday? Okay. 😑",
+        "Wednesday": "Wednesday. Halfway there, I guess. 🐫",
+        "Thursday": "Thursday is just Friday Jr. 🤷‍♂️",
+        "Friday": "Friday. We made it. 🎉",
+        "Saturday": "Saturday. Do not disturb. 😴",
+        "Sunday": "Sunday. Trying not to think about Monday. 🌅"
+    }
+    return messages.get(day_name, "Have a good one.")
+
 def update_readme():
     """Update README.md with dynamic dashboard content."""
     day_name, date_str = get_current_datetime()
@@ -106,10 +119,12 @@ def update_readme():
     weather_info = get_weather()
     joke_setup, joke_punchline = get_joke()
     news_content = get_tech_news()
+    daily_message = get_daily_message(day_name)
 
     # Create the dynamic dashboard
     dynamic_content = f"""<!-- DAILY_CONTENT_START -->
 ### 📅 Today is **{day_name}, {date_str}**
+*{daily_message}*
 
 <table>
 <tr>
