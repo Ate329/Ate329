@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.0°C - 🌧️ Drizzle
+8.9°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- **1969**: USS Enterprise fire: An accidental explosion aboard the USS Enterprise near Hawaii kills 28 people.
-- **1951**: National Airlines Flight 83 crashes during landing at Philadelphia International Airport, killing seven passengers and crew.
+- **2010**: Yemen declares an open war against the terrorist group al-Qaeda.
+- **1957**: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
+- **1952**: NBC's long-running morning news program Today debuts, with host Dave Garroway.
 
 <br>
 
 **💬 Quote**<br>
-> "Sometimes out of your biggest misery, comes your greatest gain."<br>
-> — **Steve Harvey**
+> "I try more and more to be myself, caring relatively little whether people approve or disapprove."<br>
+> — **Vincent van Gogh**
 
 <br>
 </td>
@@ -33,13 +33,13 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why don't programmers like nature?*<br>
-**There's too many bugs.**
+*A user interface is like a joke.*<br>
+**If you have to explain it then it is not that good.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Relative to its body size, the clouded leopard has the biggest canines of all animals’ canines. Its dagger-like teeth can be as long as 1.8 inches (4.5 cm).*
+*The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.*
 
 <br>
 
@@ -57,10 +57,13 @@
 </td>
 </tr>
 </table>
-### 🌌 NGC 2264: Stars, Dust, and Gas
 
-> Source: Michael Bessell  (RSAA, ANU),  MSO
-<img src='https://apod.nasa.gov/apod/image/0104/n2264n_bessell_big.jpg' width='100%' style='border-radius: 8px;'>
+<br>
+
+### 🌌 Portrait of the Eagle Nebula
+
+> Source: Charles Bonafilia
+<img src='https://apod.nasa.gov/apod/image/2208/M16_final_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
