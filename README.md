@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, January 14, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, January 15, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.9°C - 🌧️ Drizzle
+8.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- **1972**: Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.
-- **1967**: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
+- **2019**: Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
+- **2015**: The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.
+- **2001**: Wikipedia, a free wiki content encyclopedia, is launched (Wikipedia Day).
 
 <br>
 
 **💬 Quote**<br>
-> "The quality of your life is determined by the quality of questions you ask."<br>
-> — **Tony Robbins**
+> "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."<br>
+> — **Alan Watts**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Which song would an exception sing?*<br>
-**Can't catch me - Avicii**
+*Why would a guitarist become a good programmer?*<br>
+**He's adept at riffing in C#.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The average litter of kittens is between 2 - 6 kittens.*
+*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
 
 <br>
 
 **📰 Daily Tech News**
-- [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
-- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-- [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
-- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
-- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-- [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
-- [Are two heads better than one?](https://eieio.games/blog/two-heads-arent-better-than-one/)
+- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+- [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
+- [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
+- [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
+- [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
+- [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Elephant's Trunk in IC 1396
+### 🌌 M51: The Whirlpool Galaxy
 
-> Source: Rolf Geissinger
-<img src='https://apod.nasa.gov/apod/image/1011/IC1396RolfGeissinger_900c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Michael Sleeman
+<img src='https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
