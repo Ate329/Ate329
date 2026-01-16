@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, January 15, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, January 16, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.5°C - ☁️ Overcast
+9.9°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
-- **2015**: The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.
-- **2001**: Wikipedia, a free wiki content encyclopedia, is launched (Wikipedia Day).
+- **2020**: The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
+- **2018**: Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
+- **1992**: El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives.
 
 <br>
 
 **💬 Quote**<br>
-> "It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."<br>
-> — **Alan Watts**
+> "We have no more right to consume happiness without producing it than to consume wealth without producing it."<br>
+> — **George Bernard Shaw**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why would a guitarist become a good programmer?*<br>
-**He's adept at riffing in C#.**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
+*The claws on the cat’s back paws aren’t as sharp as the claws on the front paws because the claws in the back don’t retract and, consequently, become worn.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
-- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-- [Show HN: WebTiles – create a tiny 250x250 website with neighbors around you](https://webtiles.kicya.net/)
-- [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
-- [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
-- [Generate QR Codes with Pure SQL in PostgreSQL](https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/)
-- [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/)
+- [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
+- [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
+- [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
+- [AWS European Sovereign Cloud](https://aws.eu/)
+- [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
+- [CVEs affecting the Svelte ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)
+- [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
+- [Go-legacy-winxp: Compile Golang 1.24 code for Windows XP](https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 M51: The Whirlpool Galaxy
+### 🌌 Plato and the Lunar Alps
 
-> Source: Michael Sleeman
-<img src='https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Luigi Morrone
+<img src='https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
