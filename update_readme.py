@@ -282,7 +282,7 @@ def update_readme():
     # Replace content between markers
     pattern = r"<!-- DAILY_CONTENT_START -->.*?<!-- DAILY_CONTENT_END -->"
     if re.search(pattern, readme_content, re.DOTALL):
-        new_content = re.sub(pattern, dynamic_content, readme_content, flags=re.DOTALL)
+        new_content = re.sub(pattern, lambda m: dynamic_content, readme_content, flags=re.DOTALL)
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
         print(f"✅ README updated successfully with new layout!")
