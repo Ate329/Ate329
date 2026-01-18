@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, January 17, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, January 18, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.0°C - ☀️ Clear sky
+3.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: An avalanche strikes Nyingchi, Tibet, killing 28 people.
-- **2010**: Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths.
-- **1994**: The 6.7 Mw  Northridge earthquake shakes the Greater Los Angeles Area with a maximum Mercalli intensity of IX (Violent), leaving 57 people dead and more than 8,700 injured.
+- **2023**: A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
+- **2019**: An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
+- **2007**: The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe.
 
 <br>
 
 **💬 Quote**<br>
-> "Listen to the secret sound, the real sound, which is inside you."<br>
-> — **Kabir**
+> "If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."<br>
+> — **Deepak Chopra**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke?*<br>
-**They kept spending all their cache.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Egyptian Mau is probably the oldest breed of cat. In fact, the breed is so ancient that its name is the Egyptian word for “cat.”*
+*A happy cat holds her tail high and steady.*
 
 <br>
 
 **📰 Daily Tech News**
+- [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-- [We Put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
-- [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
-- [Eight European countries face 10% tariff for opposing US control of Greenland](https://apnews.com/article/denmark-greenland-us-trump-4ad99ea3975a8b62d37bd04961feda55)
-- [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
-- [Map To Poster – Create Art of your favourite city](https://github.com/originalankur/maptoposter)
-- [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
-- [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
+- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
+- [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
+- [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+- [Xous Operating System](https://xous.dev/)
+- [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
+- [The Olivetti Company](https://www.abortretry.fail/p/the-olivetti-company)
 
 <br>
 </td>
