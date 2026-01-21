@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, January 20, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, January 21, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.
-- **2009**: A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
-- **1992**: Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board.
+- **2025**: A fire at the Grand Kartal Hotel in the Kartalkaya ski resort in Bolu Province, Turkey, results in 78 people dead and 51 injured.
+- **1997**: The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
+- **1985**: Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
 
 <br>
 
 **💬 Quote**<br>
-> "If you do not push the boundaries, you will never know where they are."<br>
-> — **T.S. Eliot**
+> "One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."<br>
+> — **Tony Robbins**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*How do you check if a webpage is HTML5?*<br>
+**Try it out on Internet Explorer**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's normal pulse is 140-240 beats per minute, with an average of 195.*
+*Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
-- [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
-- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-- [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
-- [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
-- [British redcoat's lost memoir reveals harsh realities of life as a disabled vet](https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html)
-- [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
-- [From Nevada to Kansas by Glider](https://www.weglide.org/flight/978820)
+- [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+- [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
+- [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+- [Cloudflare zero-day: Accessing any host globally](https://fearsoff.org/research/cloudflare-acme)
+- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
+- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+- [Ask HN: Is Linux Safe to Daily drive in 2026?](https://news.ycombinator.com/item?id=46699507)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 CTB 1: The Medulla Nebula
+### 🌌 Io in True Color
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2601/Ctb1_Konzelmann_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
