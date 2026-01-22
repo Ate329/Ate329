@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, January 21, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, January 22, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.8°C - ☁️ Overcast
+2.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: A fire at the Grand Kartal Hotel in the Kartalkaya ski resort in Bolu Province, Turkey, results in 78 people dead and 51 injured.
-- **1997**: The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
-- **1985**: Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
+- **2009**: U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
+- **2006**: Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
+- **1973**: In a bout for the world heavyweight boxing championship in Kingston, Jamaica, challenger George Foreman knocks down champion Joe Frazier six times in the first two rounds before the fight is stopped by referee Arthur Mercante Sr..
 
 <br>
 
 **💬 Quote**<br>
-> "One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."<br>
-> — **Tony Robbins**
+> "To seek greatness is the only righteous vengeance."<br>
+> — **Criss Jami**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you check if a webpage is HTML5?*<br>
-**Try it out on Internet Explorer**
+*Why do C# and Java developers keep breaking their keyboards?*<br>
+**Because they use a strongly typed language.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.*
+*Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs.*
 
 <br>
 
 **📰 Daily Tech News**
-- [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
-- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
-- [The challenges of soft delete](https://atlas9.dev/blog/soft-delete.html)
-- [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
-- [Cloudflare zero-day: Accessing any host globally](https://fearsoff.org/research/cloudflare-acme)
-- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
-- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
-- [Ask HN: Is Linux Safe to Daily drive in 2026?](https://news.ycombinator.com/item?id=46699507)
+- [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
+- [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
+- [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
+- [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
+- [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
+- [Skip is now free and open source](https://skip.dev/blog/skip-is-free/)
+- [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
+- [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Io in True Color
+### 🌌 Barred Spiral Galaxy NGC 1365 from Webb
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
