@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, January 22, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, January 23, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.8°C - ☁️ Overcast
+4.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
-- **2006**: Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
-- **1973**: In a bout for the world heavyweight boxing championship in Kingston, Jamaica, challenger George Foreman knocks down champion Joe Frazier six times in the first two rounds before the fight is stopped by referee Arthur Mercante Sr..
+- **2018**: A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
+- **2002**: U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered.
+- **1967**: Diplomatic relations between the Soviet Union and Ivory Coast are established.
 
 <br>
 
 **💬 Quote**<br>
-> "To seek greatness is the only righteous vengeance."<br>
-> — **Criss Jami**
+> "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."<br>
+> — **Roy T. Bennett**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do C# and Java developers keep breaking their keyboards?*<br>
-**Because they use a strongly typed language.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs.*
+*Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
-- [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
-- [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
-- [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
-- [Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby](https://www.ratatui-ruby.dev/)
-- [Skip is now free and open source](https://skip.dev/blog/skip-is-free/)
-- [Letting Claude play text adventures](https://borretti.me/article/letting-claude-play-text-adventures)
-- [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
+- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
+- [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
+- [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
+- [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
+- [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
+- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Barred Spiral Galaxy NGC 1365 from Webb
+### 🌌 LDN 1622: Dark Nebula in Orion
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png' width='100%' style='border-radius: 8px;'>
+> Source: Chris Fellows
+<img src='https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
