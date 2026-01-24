@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, January 23, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, January 24, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-4.5°C - ☁️ Overcast
+3.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
-- **2002**: U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered.
-- **1967**: Diplomatic relations between the Soviet Union and Ivory Coast are established.
+- **2018**: Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
+- **2003**: The United States Department of Homeland Security officially begins operation.
+- **1968**: Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa.
 
 <br>
 
 **💬 Quote**<br>
-> "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."<br>
-> — **Roy T. Bennett**
+> "Circumstances do not make the man, they reveal him."<br>
+> — **James Allen**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*What's the object-oriented way to become wealthy?*<br>
+**Inheritance**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.*
+*The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”*
 
 <br>
 
 **📰 Daily Tech News**
-- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
-- [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
-- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
-- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
-- [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
-- [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
-- [Qwen3-TTS family is now open sourced: Voice design, clone, and generation](https://qwen.ai/blog?id=qwen3tts-0115)
-- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+- [New YC homepage](https://www.ycombinator.com/)
+- [Banned C++ Features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
+- [Proof of Corn](https://proofofcorn.com/)
+- [Gas Town's agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
+- [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
+- [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
+- [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 LDN 1622: Dark Nebula in Orion
+### 🌌 Planetary Nebula Abell 7
 
-> Source: Chris Fellows
-<img src='https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Martin Pugh
+<img src='https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
