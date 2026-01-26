@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, January 25, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, January 26, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.0°C - ☁️ Overcast
+-1.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: The first wave of the Egyptian revolution begins throughout the country, marked by street demonstrations, rallies, acts of civil disobedience, riots, labour strikes, and violent clashes.
-- **2010**: Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.
-- **2003**: Invasion of Iraq: A group of people leave London, England, for Baghdad, Iraq, to serve as human shields, intending to prevent the U.S.-led coalition troops from bombing certain locations.
+- **2021**: Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
+- **2001**: Diane Whipple, a lacrosse coach, is killed in a dog attack in San Francisco. The resulting court case clarified the meaning of implied malice murder.
+- **1966**: The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations.
 
 <br>
 
 **💬 Quote**<br>
-> "If you want to make God laugh, tell him about your plans. "<br>
-> — **Woody Allen**
+> "Words are the clothing of our thoughts."<br>
+> — **Jonathan Swift**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).*
+*The biggest wildcat today is the Siberian Tiger. It can be more than 12 feet (3.6 m) long (about the size of a small car) and weigh up to 700 pounds (317 kg).*
 
 <br>
 
 **📰 Daily Tech News**
-- [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
-- [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
-- [Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)
-- [Memory layout in Zig with formulas](https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html)
-- [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
-- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
-- [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
-- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
+- [First, make me care](https://gwern.net/blog/2026/make-me-care)
+- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+- [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
+- [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
+- [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
+- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
+- [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
+- [Doom has been ported to an earbud](https://doombuds.com)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Earthset from Orion
+### 🌌 Phobos: Doomed Moon of Mars
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2601/earthset-snap01.png' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
