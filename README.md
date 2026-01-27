@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, January 26, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, January 27, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--1.4°C - ☁️ Overcast
+-0.6°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
-- **2001**: Diane Whipple, a lacrosse coach, is killed in a dog attack in San Francisco. The resulting court case clarified the meaning of implied malice murder.
-- **1966**: The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations.
+- **2013**: Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
+- **1996**: In a military coup, Colonel Ibrahim Baré Maïnassara deposes the first democratically elected president of Niger, Mahamane Ousmane.
+- **1983**: The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through.
 
 <br>
 
 **💬 Quote**<br>
-> "Words are the clothing of our thoughts."<br>
-> — **Jonathan Swift**
+> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."<br>
+> — **T.S. Eliot**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*Lady: How do I spread love in this cruel world?*<br>
+**Random Dude: [...💘]**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The biggest wildcat today is the Siberian Tiger. It can be more than 12 feet (3.6 m) long (about the size of a small car) and weigh up to 700 pounds (317 kg).*
+*The average litter of kittens is between 2 - 6 kittens.*
 
 <br>
 
 **📰 Daily Tech News**
-- [First, make me care](https://gwern.net/blog/2026/make-me-care)
-- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-- [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
-- [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
-- [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
-- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
-- [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
-- [Doom has been ported to an earbud](https://doombuds.com)
+- [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
+- [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
+- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
+- [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
+- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
+- [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Phobos: Doomed Moon of Mars
+### 🌌 NGC 55: A Galaxy of Nebulas
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Wolfgang Promper;  Text: Ogetay Kayali  (MTU)
+<img src='https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
