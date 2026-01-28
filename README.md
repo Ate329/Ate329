@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, January 27, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, January 28, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--0.6°C - 🌤️ Mainly clear
+3.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
-- **1996**: In a military coup, Colonel Ibrahim Baré Maïnassara deposes the first democratically elected president of Niger, Mahamane Ousmane.
-- **1983**: The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through.
+- **1988**: In R v Morgentaler the Supreme Court of Canada strikes down all anti-abortion laws.
+- **1977**: The first day of the Great Lakes Blizzard of 1977, which dumps 3 metres (10 ft) of snow in one day in Upstate New York. Buffalo, Syracuse, Watertown, and surrounding areas are most affected.
+- **1960**: The National Football League announces expansion teams for Dallas to start in the 1960 NFL season and Minneapolis-St. Paul for the 1961 NFL season.
 
 <br>
 
 **💬 Quote**<br>
-> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."<br>
-> — **T.S. Eliot**
+> "No grand idea was ever born in a conference, but a lot of foolish ideas have died there."<br>
+> — **F. Scott Fitzgerald**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Lady: How do I spread love in this cruel world?*<br>
-**Random Dude: [...💘]**
+*Why do programmers always get Christmas and Halloween mixed up?*<br>
+**Because DEC 25 = OCT 31**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The average litter of kittens is between 2 - 6 kittens.*
+*Cats make about 100 different sounds. Dogs make only about 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
-- [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
-- [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
-- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
-- [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/)
+- [Prism](https://openai.com/index/introducing-prism)
+- [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
+- [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
+- [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
+- [Time Station Emulator](https://github.com/kangtastic/timestation)
+- [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
+- [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
+- [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 55: A Galaxy of Nebulas
+### 🌌 Orion's Treasures over Snowy Mountains
 
-> Source: Wolfgang Promper;  Text: Ogetay Kayali  (MTU)
-<img src='https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Włodzimierz Bubak;  Text: Ogetay Kayali  (MTU)
+<img src='https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
