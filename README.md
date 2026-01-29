@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, January 28, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, January 29, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-3.4°C - ☁️ Overcast
+0.6°C - 🌨️ Snow
 
 <br>
 
 **💥 On This Day**<br>
-- **1988**: In R v Morgentaler the Supreme Court of Canada strikes down all anti-abortion laws.
-- **1977**: The first day of the Great Lakes Blizzard of 1977, which dumps 3 metres (10 ft) of snow in one day in Upstate New York. Buffalo, Syracuse, Watertown, and surrounding areas are most affected.
-- **1960**: The National Football League announces expansion teams for Dallas to start in the 1960 NFL season and Minneapolis-St. Paul for the 1961 NFL season.
+- **2025**: American Eagle Flight 5342 collided mid-air with a Sikorsky UH-60 Black Hawk operated by the United States Army and crashed into the Potomac River, killing all 67 people onboard both aircraft.
+- **2009**: Governor of Illinois Rod Blagojevich is removed from office following his conviction of several corruption charges, including solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for then-U.S. president-elect Barack Obama.
+- **2001**: Thousands of student protesters in Indonesia storm parliament and demand that President Abdurrahman Wahid resign due to alleged involvement in corruption scandals.
 
 <br>
 
 **💬 Quote**<br>
-> "No grand idea was ever born in a conference, but a lot of foolish ideas have died there."<br>
-> — **F. Scott Fitzgerald**
+> "The only way to make sense out of change is to plunge into it, move with it, and join the dance."<br>
+> — **Alan Watts**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do programmers always get Christmas and Halloween mixed up?*<br>
-**Because DEC 25 = OCT 31**
+*How many programmers does it take to change a lightbulb?*<br>
+**None that's a hardware problem**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats make about 100 different sounds. Dogs make only about 10.*
+*People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Prism](https://openai.com/index/introducing-prism)
-- [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
-- [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
-- [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
-- [Time Station Emulator](https://github.com/kangtastic/timestation)
-- [Rust's Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
-- [Try text scaling support in Chrome Canary](https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/)
-- [SoundCloud Data Breach Now on HaveIBeenPwned](https://haveibeenpwned.com/Breach/SoundCloud)
+- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
+- [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
+- [I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)
+- [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+- [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
+- [Airfoil (2024)](https://ciechanow.ski/airfoil/)
+- [Did a celebrated researcher obscure a baby's poisoning?](https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning)
+- [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Orion's Treasures over Snowy Mountains
+### 🌌 M78: Reflecting Blue in a Sea of Red
 
-> Source: Włodzimierz Bubak;  Text: Ogetay Kayali  (MTU)
-<img src='https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Daniel McCauley
+<img src='https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
