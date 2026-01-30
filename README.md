@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, January 29, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, January 30, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-0.6°C - 🌨️ Snow
+-0.4°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: American Eagle Flight 5342 collided mid-air with a Sikorsky UH-60 Black Hawk operated by the United States Army and crashed into the Potomac River, killing all 67 people onboard both aircraft.
-- **2009**: Governor of Illinois Rod Blagojevich is removed from office following his conviction of several corruption charges, including solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for then-U.S. president-elect Barack Obama.
-- **2001**: Thousands of student protesters in Indonesia storm parliament and demand that President Abdurrahman Wahid resign due to alleged involvement in corruption scandals.
+- **2007**: Microsoft Corporation releases Windows Vista, a major release of the operating system Microsoft Windows and the NT based kernel.
+- **2006**: The Goleta postal facility shootings occur, killing seven people before the perpetrator took her own life.
+- **1975**: Turkish Airlines Flight 345 crashes into the Sea of Marmara near Istanbul Yeşilköy Airport, killing 42.
 
 <br>
 
 **💬 Quote**<br>
-> "The only way to make sense out of change is to plunge into it, move with it, and join the dance."<br>
-> — **Alan Watts**
+> "To bear trials with a calm mind robs misfortune of its strength and burden."<br>
+> — **Seneca**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many programmers does it take to change a lightbulb?*<br>
-**None that's a hardware problem**
+*['hip', 'hip']*<br>
+**(hip hip array)**
 
 <br>
 
 **🧠 Random Fact**<br>
-*People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.*
+*Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
-- [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
-- [I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)
-- [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
-- [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
-- [Airfoil (2024)](https://ciechanow.ski/airfoil/)
-- [Did a celebrated researcher obscure a baby's poisoning?](https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning)
-- [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
+- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
+- [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+- [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
+- [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
+- [Where to Sleep in LAX](https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax)
+- [Flameshot](https://github.com/flameshot-org/flameshot)
+- [Compressed Agents.md > Agent Skills](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 M78: Reflecting Blue in a Sea of Red
+### 🌌 NGC 2442: Galaxy in Volans
 
-> Source: Daniel McCauley
-<img src='https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Mike Selby
+<img src='https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
