@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, January 30, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, January 31, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--0.4°C - 🌤️ Mainly clear
+2.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2007**: Microsoft Corporation releases Windows Vista, a major release of the operating system Microsoft Windows and the NT based kernel.
-- **2006**: The Goleta postal facility shootings occur, killing seven people before the perpetrator took her own life.
-- **1975**: Turkish Airlines Flight 345 crashes into the Sea of Marmara near Istanbul Yeşilköy Airport, killing 42.
+- **2022**: Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
+- **2001**: Two Japan Airlines planes nearly collide over Suruga Bay in Japan.
+- **1971**: Apollo program: Apollo 14: Astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell, aboard a Saturn V, lift off for a mission to the Fra Mauro Highlands on the Moon.
 
 <br>
 
 **💬 Quote**<br>
-> "To bear trials with a calm mind robs misfortune of its strength and burden."<br>
-> — **Seneca**
+> "Ideas do not reach perfection in a day, no matter how much study is put upon them."<br>
+> — **Alexander Graham Bell**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*['hip', 'hip']*<br>
-**(hip hip array)**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.*
+*The name "jaguar" comes from a Native American word meaning "he who kills with one leap".*
 
 <br>
 
 **📰 Daily Tech News**
-- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-- [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
-- [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
-- [Where to Sleep in LAX](https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax)
-- [Flameshot](https://github.com/flameshot-org/flameshot)
-- [Compressed Agents.md > Agent Skills](https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals)
+- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
+- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+- [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
+- [Disrupting the largest residential proxy network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
+- [Moltbook](https://www.moltbook.com/)
+- [HTTP Cats](https://http.cat/)
+- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 2442: Galaxy in Volans
+### 🌌 NGC 1333: Stellar Nursery in Perseus
 
-> Source: Mike Selby
-<img src='https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Robert Eder
+<img src='https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
