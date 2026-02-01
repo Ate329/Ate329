@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, January 31, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, February 01, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.6°C - ☁️ Overcast
+3.8°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
-- **2001**: Two Japan Airlines planes nearly collide over Suruga Bay in Japan.
-- **1971**: Apollo program: Apollo 14: Astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell, aboard a Saturn V, lift off for a mission to the Fra Mauro Highlands on the Moon.
+- **2021**: A coup d'état in Myanmar removes Aung San Suu Kyi from power and restores military rule.
+- **2004**: Double suicide attack in Erbil on the offices of Iraqi Kurdish political parties by members of Jama'at al-Tawhid wal-Jihad
+- **2002**: Daniel Pearl, American journalist and South Asia Bureau Chief of The Wall Street Journal, kidnapped on January 23, is beheaded and mutilated by his captors.
 
 <br>
 
 **💬 Quote**<br>
-> "Ideas do not reach perfection in a day, no matter how much study is put upon them."<br>
-> — **Alexander Graham Bell**
+> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."<br>
+> — **Steve Jobs**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*There are 10 types of people in this world...*<br>
-**Those who understand binary and those who don't**
+*Hey, wanna hear a joke?*<br>
+**Parsing HTML with regex.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The name "jaguar" comes from a Native American word meaning "he who kills with one leap".*
+*Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
-- [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
-- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
-- [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
-- [Disrupting the largest residential proxy network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
-- [Moltbook](https://www.moltbook.com/)
-- [HTTP Cats](https://http.cat/)
-- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
+- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
+- [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
+- [Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)
+- [Wikipedia: Sandbox](https://en.wikipedia.org/wiki/Wikipedia:Sandbox)
+- [Ferrari vs. Markets](https://ferrari-imports.enigmatechnologies.dev/)
+- [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 1333: Stellar Nursery in Perseus
+### 🌌 Artemis I: Flight Day 13
 
-> Source: Robert Eder
-<img src='https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
