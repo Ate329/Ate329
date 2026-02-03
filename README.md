@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, February 02, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, February 03, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.5°C - ☁️ Overcast
+0.6°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2000**: First digital cinema projection in Europe (Paris) realized by Philippe Binant with the DLP CINEMA technology developed by Texas Instruments.
-- **1998**: Cebu Pacific Flight 387 crashes into Mount Sumagaya in the Philippines, killing all 104 people on board.
-- **1982**: Hama massacre: The government of Syria attacks the town of Hama.
+- **2014**: A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded.
+- **2007**: A Baghdad market bombing kills at least 135 people and injures a further 339.
+- **1972**: The first day of the seven-day 1972 Iran blizzard, which would kill at least 4,000 people, making it the deadliest snowstorm in history.
 
 <br>
 
 **💬 Quote**<br>
-> "May you find grace as you surrender to life. May you find happiness, as you stop seeking it."<br>
-> — **Dan Millman**
+> "Unless you change how you are, you will always have what you got."<br>
+> — **Jim Rohn**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I was gonna tell you a joke about UDP...*<br>
-**...but you might not get it.**
+*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
+**the rest of them will write Perl**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.*
+*A cat can jump up to five times its own height in a single bound.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
-- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
-- [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
-- [My thousand dollar iPhone can't do math](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
-- [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
-- [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
-- [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
-- [Typechecking is undecidable when 'type' is a type (1989) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
+- [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
+- [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
+- [The Codex App](https://openai.com/index/introducing-the-codex-app/)
+- [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
+- [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
+- [Hacking Moltbook](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
+- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
+- [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Galle: Happy Face Crater on Mars
+### 🌌 Orion: The Running Man Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Robert G. Lyons   (Robservatory)
+<img src='https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
