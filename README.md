@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, February 03, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, February 04, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-0.6°C - 🌤️ Mainly clear
+4.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded.
-- **2007**: A Baghdad market bombing kills at least 135 people and injures a further 339.
-- **1972**: The first day of the seven-day 1972 Iran blizzard, which would kill at least 4,000 people, making it the deadliest snowstorm in history.
+- **1999**: Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
+- **1992**: A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.
+- **1976**: In Guatemala and Honduras an earthquake kills more than 22,000.
 
 <br>
 
 **💬 Quote**<br>
-> "Unless you change how you are, you will always have what you got."<br>
-> — **Jim Rohn**
+> "The only time you run out of chances is when you stop taking them."<br>
+> — **Unknown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
-**the rest of them will write Perl**
+*Why did the programmer bring a ladder to work?*<br>
+**They heard the code needed to be debugged from a higher level.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat can jump up to five times its own height in a single bound.*
+*Cats sleep 16 to 18 hours per day. When cats are asleep, they are still alert to incoming stimuli. If you poke the tail of a sleeping cat, it will respond accordingly.*
 
 <br>
 
 **📰 Daily Tech News**
-- [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
-- [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
-- [The Codex App](https://openai.com/index/introducing-the-codex-app/)
-- [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
-- [Ask HN: Who is hiring? (February 2026)](https://news.ycombinator.com/item?id=46857488)
-- [Hacking Moltbook](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
-- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
-- [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
+- [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
+- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+- [Illinois joins WHO global outbreak network after U.S. withdraws](https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/)
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+- [Xcode 26.3 – Developers can leverage coding agents directly in Xcode](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
+- [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
+- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Orion: The Running Man Nebula
+### 🌌 Red Spider Planetary Nebula from Webb
 
-> Source: Robert G. Lyons   (Robservatory)
-<img src='https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
