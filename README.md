@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, February 05, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, February 06, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.6°C - ☁️ Overcast
+3.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest.
-- **1997**: The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families.
-- **1981**: Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.
+- **2018**: SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
+- **2012**: A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
+- **1989**: The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe.
 
 <br>
 
 **💬 Quote**<br>
-> "A day wasted on others is not wasted on one's self."<br>
-> — **Charles Dickens**
+> "All has not been said and never will be."<br>
+> — **Samuel Beckett**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*To understand what recursion is...*<br>
-**You must first understand what recursion is**
+*Why did the programmer's wife leave him?*<br>
+**He didn't know how to commit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In Holland’s embassy in Moscow, Russia, the staff noticed that the two Siamese cats kept meowing and clawing at the walls of the building. Their owners finally investigated, thinking they would find mice. Instead, they discovered microphones hidden by Russian spies. The cats heard the microphones when they turned on.*
+*In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
-- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
-- [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
-- [Claude Code for Infrastructure](https://www.fluid.sh/)
-- [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
-- [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
-- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
-- [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
+- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+- [It's 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
+- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
+- [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
+- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
+- [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Spiral Galaxy NGC 1512: Wide Field
+### 🌌 NGC 1275 in the Perseus Cluster
 
-> Source: Daniel Stern
-<img src='https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Michal Wierzbinski
+<img src='https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
