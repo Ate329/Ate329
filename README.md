@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, February 06, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, February 07, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-3.2°C - ☁️ Overcast
+6.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
-- **2012**: A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
-- **1989**: The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe.
+- **1999**: Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein.
+- **1992**: The Maastricht Treaty is signed, leading to the creation of the European Union.
+- **1991**: Haiti's first democratically elected president, Jean-Bertrand Aristide, is sworn in.
 
 <br>
 
 **💬 Quote**<br>
-> "All has not been said and never will be."<br>
-> — **Samuel Beckett**
+> "You have a brain and mind of your own. Use it, and reach your own decisions."<br>
+> — **Napoleon Hill**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.*
+*Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
-- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
-- [It's 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
-- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
-- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
-- [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
-- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
-- [MenuetOS – a GUI OS that boots from a single floppy disk](https://www.menuetos.net/)
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+- [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
+- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
+- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
+- [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+- [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 1275 in the Perseus Cluster
+### 🌌 Supernova Remnant Cassiopeia A
 
-> Source: Michal Wierzbinski
-<img src='https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
