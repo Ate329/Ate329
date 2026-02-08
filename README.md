@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, February 07, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, February 08, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.4°C - ☁️ Overcast
+5.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1999**: Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein.
-- **1992**: The Maastricht Treaty is signed, leading to the creation of the European Union.
-- **1991**: Haiti's first democratically elected president, Jean-Bertrand Aristide, is sworn in.
+- **2013**: A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+- **1989**: Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
+- **1986**: Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
 
 <br>
 
 **💬 Quote**<br>
-> "You have a brain and mind of your own. Use it, and reach your own decisions."<br>
-> — **Napoleon Hill**
+> "We learn to walk by falling down. If we never fell down, we would never walk."<br>
+> — **Robert Kiyosaki**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where do programmers like to hangout?*<br>
-**The Foo Bar.**
+*A user interface is like a joke.*<br>
+**If you have to explain it then it is not that good.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.*
+*A cat has the power to sometimes heal themselves by purring. A domestic cat's purr has a frequency of between 25 and 150 Hertz, which happens to be the frequency at which muscles and bones best grow and repair themselves. *
 
 <br>
 
 **📰 Daily Tech News**
+- [Tiny C Compiler](https://bellard.org/tcc/)
+- [The silent death of Good Code](https://amit.prasad.me/blog/rip-good-code)
+- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
+- [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+- [The F Word](http://muratbuffalo.blogspot.com/2026/02/friction.html)
+- [Software factories and the agentic moment](https://factory.strongdm.ai/)
 - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
-- [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
-- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
-- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
-- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
-- [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
-- [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Supernova Remnant Cassiopeia A
+### 🌌 Crescent Enceladus
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
