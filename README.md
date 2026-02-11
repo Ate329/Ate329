@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, February 10, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, February 11, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.8°C - ⛅ Partly cloudy
+7.1°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
-- **2004**: Forty-three people are killed and three are injured when a Fokker 50 crashes near Sharjah International Airport.
-- **1964**: Melbourne–Voyager collision: The aircraft carrier HMAS Melbourne collides with and sinks the destroyer HMAS Voyager off the south coast of New South Wales, Australia, killing 82.
+- **2020**: COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2.
+- **2018**: Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors.
+- **2013**: The Vatican confirmed that Pope Benedict XVI would resign the papacy as a result of his advanced age.
 
 <br>
 
 **💬 Quote**<br>
-> "A man that flies from his fear may find that he has only taken a short cut to meet it."<br>
-> — **J.R.R. Tolkien**
+> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "<br>
+> — **Herodotus**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*3 SQL statements walk into a NoSQL bar. Soon, they walk out*<br>
-**They couldn't find a table.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.*
+*A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-- [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
-- [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
-- [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
-- [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
-- [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
-- [Stop Using Icons in Data Tables](https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d)
-- [How I've run major projects (2025)](https://www.benkuhn.net/pjm/)
+- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+- [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+- [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
+- [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
+- [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
+- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
+- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
+- [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Miranda Revisited
+### 🌌 In Green Company: Aurora over Norway
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Max Rive
+<img src='https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
