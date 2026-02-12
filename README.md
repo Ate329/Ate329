@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, February 11, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, February 12, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.1°C - 🌧️ Drizzle
+8.2°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2.
-- **2018**: Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors.
-- **2013**: The Vatican confirmed that Pope Benedict XVI would resign the papacy as a result of his advanced age.
+- **2009**: Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all on board and one on the ground.
+- **2002**: The trial of Slobodan Milošević, the former President of the Federal Republic of Yugoslavia, begins at the United Nations International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. He dies four years later before its conclusion.
+- **1994**: Four thieves break into the National Gallery of Norway and steal Edvard Munch's iconic painting The Scream.
 
 <br>
 
 **💬 Quote**<br>
-> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "<br>
-> — **Herodotus**
+> "If you do not push the boundaries, you will never know where they are."<br>
+> — **T.S. Eliot**
 
 <br>
 </td>
@@ -33,25 +33,18 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.*
+*A cat's normal pulse is 140-240 beats per minute, with an average of 195.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-- [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
-- [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
-- [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
-- [The Little Learner: A Straight Line to Deep Learning](https://mitpress.mit.edu/9780262546379/the-little-learner/)
-- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
-- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
-- [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
+- Failed to fetch news
 
 <br>
 </td>
@@ -59,10 +52,10 @@
 </table>
 <br>
 
-### 🌌 In Green Company: Aurora over Norway
+### 🌌 A Year of Sunspots
 
-> Source: Max Rive
-<img src='https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
