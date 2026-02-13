@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, February 12, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, February 13, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.2°C - 🌧️ Drizzle
+5.3°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all on board and one on the ground.
-- **2002**: The trial of Slobodan Milošević, the former President of the Federal Republic of Yugoslavia, begins at the United Nations International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. He dies four years later before its conclusion.
-- **1994**: Four thieves break into the National Gallery of Norway and steal Edvard Munch's iconic painting The Scream.
+- **2021**: Former U.S. President Donald Trump is acquitted in his second impeachment trial.
+- **2017**: Kim Jong-nam, brother of North Korean dictator Kim Jong-un, is assassinated at Kuala Lumpur International Airport.
+- **2011**: For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855.
 
 <br>
 
 **💬 Quote**<br>
-> "If you do not push the boundaries, you will never know where they are."<br>
-> — **T.S. Eliot**
+> "You cannot find peace avoiding life."<br>
+> — **Virginia Woolf**
 
 <br>
 </td>
@@ -33,18 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where do programmers like to hangout?*<br>
-**The Foo Bar.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's normal pulse is 140-240 beats per minute, with an average of 195.*
+*A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.*
 
 <br>
 
 **📰 Daily Tech News**
-- Failed to fetch news
+- [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+- [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
+- [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+- [Polis: Open-source platform for large-scale civic deliberation](https://pol.is/home2)
+- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
+- [Major European payment processor can't send email to Google Workspace users](https://atha.io/blog/2026-02-12-viva)
+- [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
+- [Rari – Rust-powered React framework](https://rari.build/)
 
 <br>
 </td>
@@ -52,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Year of Sunspots
+### 🌌 The Bay of Rainbows
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Olaf Filzinger
+<img src='https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
