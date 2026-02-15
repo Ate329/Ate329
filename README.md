@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, February 14, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, February 15, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.1°C - ☁️ Overcast
+-1.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: As a part of Arab Spring, the Bahraini uprising begins with a 'Day of Rage'.
-- **2008**: Northern Illinois University shooting: A gunman opens fire in a lecture hall of Northern Illinois University in DeKalb County, Illinois, resulting in six fatalities (including the gunman) and 21 injuries.
-- **1990**: Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.
+- **2021**: Sixty people drown and hundreds are missing after a boat sinks on the Congo River near the village of Longola Ekoti, Mai-Ndombe Province, Democratic Republic of the Congo.
+- **1989**: Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan.
+- **1982**: The drilling rig Ocean Ranger sinks during a storm off the coast of Newfoundland, killing 84 workers.
 
 <br>
 
 **💬 Quote**<br>
-> "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."<br>
-> — **Buddha**
+> "There is nothing in the world so irresistibly contagious as laughter and good humor."<br>
+> — **Charles Dickens**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*What is the most used language in programming?*<br>
+**Profanity.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's normal pulse is 140-240 beats per minute, with an average of 195.*
+*The Maine Coone is the only native American long haired breed.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts](https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html)
-- [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)
-- [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
-- [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
-- [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
-- [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
-- [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
-- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
+- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
+- [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
+- [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
+- [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+- [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664)
+- [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+- [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 147 and NGC 185
+### 🌌 Roses are Red
 
-> Source: Chuck Ayoub
-<img src='https://apod.nasa.gov/apod/image/2602/N147N1851024.png' width='100%' style='border-radius: 8px;'>
+> Source: Keighley Rockcliffe
+<img src='https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
