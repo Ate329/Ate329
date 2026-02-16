@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, February 15, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, February 16, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--1.8°C - ☁️ Overcast
+2.2°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Sixty people drown and hundreds are missing after a boat sinks on the Congo River near the village of Longola Ekoti, Mai-Ndombe Province, Democratic Republic of the Congo.
-- **1989**: Soviet–Afghan War: The Soviet Union officially announces that all of its troops have left Afghanistan.
-- **1982**: The drilling rig Ocean Ranger sinks during a storm off the coast of Newfoundland, killing 84 workers.
+- **2013**: A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.
+- **1984**: Iran launches Operation Dawn 5, a major offensive during the Iran–Iraq War targeting the Basra–Baghdad highway, resulting in heavy casualties on both sides.
+- **1983**: The Ash Wednesday bushfires in Victoria and South Australia kill 75.
 
 <br>
 
 **💬 Quote**<br>
-> "There is nothing in the world so irresistibly contagious as laughter and good humor."<br>
-> — **Charles Dickens**
+> "No one can hurt you without your consent."<br>
+> — **Eleanor Roosevelt**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What is the most used language in programming?*<br>
-**Profanity.**
+*What's the best part about TCP jokes?*<br>
+**I get to keep telling them until you get them.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Maine Coone is the only native American long haired breed.*
+*A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.*
 
 <br>
 
 **📰 Daily Tech News**
-- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
-- [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
-- [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
-- [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
-- [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664)
-- [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
-- [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/)
+- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
+- [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
+- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+- [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)
+- [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
+- [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
+- [I Gave Claude Access to My Pen Plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter)
+- [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Roses are Red
+### 🌌 To Fly Free in Space
 
-> Source: Keighley Rockcliffe
-<img src='https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
