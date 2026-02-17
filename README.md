@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, February 16, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, February 17, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.2°C - 🌧️ Drizzle
+2.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.
-- **1984**: Iran launches Operation Dawn 5, a major offensive during the Iran–Iraq War targeting the Basra–Baghdad highway, resulting in heavy casualties on both sides.
-- **1983**: The Ash Wednesday bushfires in Victoria and South Australia kill 75.
+- **2011**: Arab Spring: Libyan protests against Muammar Gaddafi's regime begin.
+- **1995**: The Cenepa War between Peru and Ecuador ends on a ceasefire brokered by the UN.
+- **1992**: First Nagorno-Karabakh War: Armenian troops massacre more than 20 Azerbaijani civilians during the Capture of Garadaghly.
 
 <br>
 
 **💬 Quote**<br>
-> "No one can hurt you without your consent."<br>
-> — **Eleanor Roosevelt**
+> "Opportunity is missed by most people because it is dressed in overalls and looks like work."<br>
+> — **Thomas Edison**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best part about TCP jokes?*<br>
-**I get to keep telling them until you get them.**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.*
+*A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-- [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
-- [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)
-- [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
-- [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
-- [I Gave Claude Access to My Pen Plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter)
-- [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/)
+- [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+- [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
+- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
+- [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow)
+- [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+- [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
+- [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
+- [Visual Introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 To Fly Free in Space
+### 🌌 Unexplained Shocks Around a White Dwarf Star
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
