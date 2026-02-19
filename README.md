@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, February 18, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, February 19, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran, Resulting in 66 Deaths
-- **1983**: Thirteen people die and one is seriously injured in the Wah Mee massacre in Seattle. It is said to be the largest robbery-motivated mass-murder in U.S. history.
-- **1977**: The Space Shuttle Enterprise test vehicle is carried on its maiden "flight" on top of a Boeing 747.
+- **2012**: Forty-four people are killed in a prison brawl in Apodaca, Nuevo León, Mexico.
+- **1985**: A Boeing 727 operating as Iberia Flight 610 crashes Mount Oiz in Spain, killing 148; it is the deadliest accident to occur in Iberia's history and the deadliest in Basque County to occur.
+- **1978**: Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.
 
 <br>
 
 **💬 Quote**<br>
-> "Showing off is the fool's idea of glory. "<br>
-> — **Bruce Lee**
+> "Reading should be a pleasure, not a chore."<br>
+> — **Joan Rivers**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*['hip', 'hip']*<br>
-**(hip hip array)**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Blue-eyed, white cats are often prone to deafness.*
+*A domestic cat can run at speeds of 30 mph.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
-- [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
-- [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
-- [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
-- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
-- [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
-- [Using go fix to modernize Go code](https://go.dev/blog/gofix)
-- [So you want to build a tunnel](https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel)
+- [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+- [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
+- [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
+- [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
+- [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
+- [All Look Same?](https://alllooksame.com/)
+- [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Tails of Comet Wierzchoś
+### 🌌 Orion's Cradle
 
-> Source: José J. Chambó;   Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Piotr Czerski
+<img src='https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
