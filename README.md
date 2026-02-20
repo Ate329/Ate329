@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, February 19, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, February 20, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.8°C - ☁️ Overcast
+1.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: Forty-four people are killed in a prison brawl in Apodaca, Nuevo León, Mexico.
-- **1985**: A Boeing 727 operating as Iberia Flight 610 crashes Mount Oiz in Spain, killing 148; it is the deadliest accident to occur in Iberia's history and the deadliest in Basque County to occur.
-- **1978**: Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.
+- **2003**: During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
+- **1991**: In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
+- **1988**: The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
 
 <br>
 
 **💬 Quote**<br>
-> "Reading should be a pleasure, not a chore."<br>
-> — **Joan Rivers**
+> "Words used to attract the dull of wit are not to be relied on."<br>
+> — **Huang Po**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit their job?*<br>
-**They didn't get arrays.**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A domestic cat can run at speeds of 30 mph.*
+*Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
-- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
-- [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-- [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
-- [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
-- [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
-- [All Look Same?](https://alllooksame.com/)
-- [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
+- [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+- [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
+- [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
+- [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
+- [America vs. Singapore: You can't save your way out of economic shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
+- [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
+- [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Orion's Cradle
+### 🌌 IC 2574: Coddington's Nebula
 
-> Source: Piotr Czerski
-<img src='https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Dane Vetter
+<img src='https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
