@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, February 20, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, February 21, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.2°C - ☀️ Clear sky
+8.8°C - 🌧️ Rain
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
-- **1991**: In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
-- **1988**: The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
+- **2013**: At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
+- **1995**: Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
+- **1972**: The Soviet uncrewed spaceship Luna 20 lands on the Moon.
 
 <br>
 
 **💬 Quote**<br>
-> "Words used to attract the dull of wit are not to be relied on."<br>
-> — **Huang Po**
+> "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."<br>
+> — **Billie Jean King**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*Hey, wanna hear a joke?*<br>
+**Parsing HTML with regex.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.*
+*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
-- [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
-- [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
-- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
-- [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
-- [America vs. Singapore: You can't save your way out of economic shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
-- [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/)
-- [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/)
+- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
+- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
+- [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
+- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
+- [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
+- [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
+- [Wikipedia deprecates Archive.today, starts removing archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
+- [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 IC 2574: Coddington's Nebula
+### 🌌 B93: A Dark Interstellar Ghost
 
-> Source: Dane Vetter
-<img src='https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Christian Bertincourt;  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
