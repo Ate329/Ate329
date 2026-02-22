@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, February 21, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, February 22, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.8°C - 🌧️ Rain
+11.5°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
-- **1995**: Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
-- **1972**: The Soviet uncrewed spaceship Luna 20 lands on the Moon.
+- **2006**: At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
+- **2005**: The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
+- **1995**: The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
 
 <br>
 
 **💬 Quote**<br>
-> "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."<br>
-> — **Billie Jean King**
+> "Often in the real world, it's not the smart that get ahead, but the bold."<br>
+> — **Robert Kiyosaki**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Hey, wanna hear a joke?*<br>
-**Parsing HTML with regex.**
+*Why do programmers prefer dark chocolate?*<br>
+**Because it's bitter like their code.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
+*Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
-- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-- [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
-- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
-- [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked)
-- [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
-- [Wikipedia deprecates Archive.today, starts removing archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/)
-- [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
+- [Why is Claude an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
+- [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
+- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
+- [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
+- [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+- [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw)
+- [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 B93: A Dark Interstellar Ghost
+### 🌌 Twilight with Moon and Planets
 
-> Source: Christian Bertincourt;  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Tunc Tezel
+<img src='https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
