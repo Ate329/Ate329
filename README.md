@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, February 22, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, February 23, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.5°C - 🌧️ Drizzle
+10.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2006**: At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
-- **2005**: The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
-- **1995**: The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
+- **2025**: A snap election is held in Germany.
+- **2010**: Unknown criminals pour more than 2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
+- **2008**: The Japanese WINDS satellite is launched.
 
 <br>
 
 **💬 Quote**<br>
-> "Often in the real world, it's not the smart that get ahead, but the bold."<br>
-> — **Robert Kiyosaki**
+> "Words are the clothes thoughts wear."<br>
+> — **Samuel Beckett**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do programmers prefer dark chocolate?*<br>
-**Because it's bitter like their code.**
+*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
+**the rest of them will write Perl**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.*
+*The first cartoon cat was Felix the Cat in 1919. In 1940, Tom and Jerry starred in the first theatrical cartoon “Puss Gets the Boot.” In 1981 Andrew Lloyd Weber created the musical Cats, based on T.S. Eliot’s Old Possum’s Book of Practical Cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Why is Claude an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
-- [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
-- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
-- [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
-- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
-- [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
-- [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw)
-- [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
+- [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+- [Loops is a federated, open-source TikTok](https://joinloops.org/)
+- [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+- [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
+- [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
+- [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
+- [Keybee: A Keyboard Designed for Smartphones](https://keybeekeyboard.com/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Twilight with Moon and Planets
+### 🌌 Shadow of a Martian Robot
 
-> Source: Tunc Tezel
-<img src='https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
