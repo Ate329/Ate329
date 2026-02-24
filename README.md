@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, February 23, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, February 24, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.7°C - ☁️ Overcast
+10.1°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: A snap election is held in Germany.
-- **2010**: Unknown criminals pour more than 2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
-- **2008**: The Japanese WINDS satellite is launched.
+- **2022**: Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders the 2022 Russian invasion of Ukraine.
+- **2020**: Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
+- **1996**: Two civilian airplanes operated by the Miami-based group Brothers to the Rescue are shot down in international waters by the Cuban Air Force.
 
 <br>
 
 **💬 Quote**<br>
-> "Words are the clothes thoughts wear."<br>
-> — **Samuel Beckett**
+> "Be not afraid of growing slowly, be afraid only of standing still. "<br>
+> — **Chinese Proverb**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
-**the rest of them will write Perl**
+*What's the best part about TCP jokes?*<br>
+**I get to keep telling them until you get them.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The first cartoon cat was Felix the Cat in 1919. In 1940, Tom and Jerry starred in the first theatrical cartoon “Puss Gets the Boot.” In 1981 Andrew Lloyd Weber created the musical Cats, based on T.S. Eliot’s Old Possum’s Book of Practical Cats.*
+*Cats see six times better in the dark and at night than humans.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
-- [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
-- [Loops is a federated, open-source TikTok](https://joinloops.org/)
-- [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-- [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
-- [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
-- [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
-- [Keybee: A Keyboard Designed for Smartphones](https://keybeekeyboard.com/)
+- [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
+- [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+- [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+- [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/)
+- [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/)
+- [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog)
+- [Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)](https://github.com/vignesh07/babyshark)
+- [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Shadow of a Martian Robot
+### 🌌 Pleiades: The Seven Sisters Star Cluster
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Kamil Fiedosiuk
+<img src='https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
