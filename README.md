@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, February 24, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, February 25, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,19 +11,19 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.1°C - 🌧️ Drizzle
+11.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders the 2022 Russian invasion of Ukraine.
-- **2020**: Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
-- **1996**: Two civilian airplanes operated by the Miami-based group Brothers to the Rescue are shot down in international waters by the Cuban Air Force.
+- **1980**: The government of Suriname is overthrown by a military coup led by Dési Bouterse.
+- **1951**: The first Pan American Games are officially opened in Buenos Aires by Argentine President Juan Perón.
+- **1941**: The outlawed Communist Party of the Netherlands organises a general strike in German-occupied Amsterdam to protest against Nazi persecution of Dutch Jews.
 
 <br>
 
 **💬 Quote**<br>
-> "Be not afraid of growing slowly, be afraid only of standing still. "<br>
+> "Teachers open the door. You enter by yourself. "<br>
 > — **Chinese Proverb**
 
 <br>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best part about TCP jokes?*<br>
-**I get to keep telling them until you get them.**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats see six times better in the dark and at night than humans.*
+*Fossil records from two million years ago show evidence of jaguars.*
 
 <br>
 
 **📰 Daily Tech News**
-- [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
-- [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-- [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
-- [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/)
-- [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/)
-- [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog)
-- [Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)](https://github.com/vignesh07/babyshark)
-- [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/)
+- [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+- [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+- [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
+- [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
+- [Cell Service for the Fairly Paranoid](https://www.cape.co/)
+- [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+- [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash)
+- [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Pleiades: The Seven Sisters Star Cluster
+### 🌌 Planet Parade over Sydney Opera House
 
-> Source: Kamil Fiedosiuk
-<img src='https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Prasun Agrawal
+<img src='https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
