@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, February 25, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, February 26, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.9°C - ☁️ Overcast
+10.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1980**: The government of Suriname is overthrown by a military coup led by Dési Bouterse.
-- **1951**: The first Pan American Games are officially opened in Buenos Aires by Argentine President Juan Perón.
-- **1941**: The outlawed Communist Party of the Netherlands organises a general strike in German-occupied Amsterdam to protest against Nazi persecution of Dutch Jews.
+- **1992**: First Nagorno-Karabakh War: Khojaly Massacre: Armenian armed forces open fire on Azeri civilians at a military post outside the town of Khojaly leaving hundreds dead.
+- **1987**: Iran–Contra affair: The Tower Commission rebukes President Ronald Reagan for not controlling his national security staff.
+- **1971**: U.N. Secretary-General U Thant signs United Nations proclamation of the vernal equinox as Earth Day.
 
 <br>
 
 **💬 Quote**<br>
-> "Teachers open the door. You enter by yourself. "<br>
-> — **Chinese Proverb**
+> "Do not fight with pigs - you will be smeared in mud but the pig will like it."<br>
+> — **George Bernard Shaw**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*Why did the developer go to therapy?*<br>
+**They had too many unresolved issues.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Fossil records from two million years ago show evidence of jaguars.*
+*Foods that should not be given to cats include onions, garlic, green tomatoes, raw potatoes, chocolate, grapes, and raisins. Though milk is not toxic, it can cause an upset stomach and gas. Tylenol and aspirin are extremely toxic to cats, as are many common houseplants. Feeding cats dog food or canned tuna that’s for human consumption can cause malnutrition.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
-- [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
-- [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
-- [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
-- [Cell Service for the Fairly Paranoid](https://www.cape.co/)
-- [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
-- [Show HN: Emdash – Open-source agentic development environment](https://github.com/generalaction/emdash)
-- [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
+- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+- [First Website](https://info.cern.ch)
+- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
+- [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
+- [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
+- [The Om Programming Language](https://www.om-language.com/)
+- [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/)
+- [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Planet Parade over Sydney Opera House
+### 🌌 The Egg Nebula from the Hubble Telescope
 
-> Source: Prasun Agrawal
-<img src='https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg' width='100%' style='border-radius: 8px;'>
+> Source: ESA/Hubble & NASA, B. Balick (U. Washington)
+<img src='https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
