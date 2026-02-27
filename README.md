@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, February 26, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, February 27, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.9°C - ☀️ Clear sky
+12.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1992**: First Nagorno-Karabakh War: Khojaly Massacre: Armenian armed forces open fire on Azeri civilians at a military post outside the town of Khojaly leaving hundreds dead.
-- **1987**: Iran–Contra affair: The Tower Commission rebukes President Ronald Reagan for not controlling his national security staff.
-- **1971**: U.N. Secretary-General U Thant signs United Nations proclamation of the vernal equinox as Earth Day.
+- **2015**: Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend.
+- **2013**: A shooting takes place at a factory in Menznau, Switzerland, in which five people (including the perpetrator) are killed and five others injured.
+- **2010**: An earthquake measuring 8.8 on the moment magnitude scale strikes central parts of Chile leaving over 500 victims, and thousands injured. The quake triggers a tsunami which strikes Hawaii shortly after.
 
 <br>
 
 **💬 Quote**<br>
-> "Do not fight with pigs - you will be smeared in mud but the pig will like it."<br>
-> — **George Bernard Shaw**
+> "I put my heart and soul into my work, and I have lost my mind in the process."<br>
+> — **Vincent van Gogh**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go to therapy?*<br>
-**They had too many unresolved issues.**
+*The punchline often arrives before the set-up.*<br>
+**Do you know the problem with UDP jokes?**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Foods that should not be given to cats include onions, garlic, green tomatoes, raw potatoes, chocolate, grapes, and raisins. Though milk is not toxic, it can cause an upset stomach and gas. Tylenol and aspirin are extremely toxic to cats, as are many common houseplants. Feeding cats dog food or canned tuna that’s for human consumption can cause malnutrition.*
+*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-- [First Website](https://info.cern.ch)
-- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
-- [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
-- [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
-- [The Om Programming Language](https://www.om-language.com/)
-- [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/)
-- [Large-Scale Online Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
+- [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+- [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+- [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+- [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
+- [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
+- [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
+- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Egg Nebula from the Hubble Telescope
+### 🌌 The Rosette Nebula
 
-> Source: ESA/Hubble & NASA, B. Balick (U. Washington)
-<img src='https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0102/rosette_gendler.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
