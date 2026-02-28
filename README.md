@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, February 27, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, February 28, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.2°C - ☁️ Overcast
+12.5°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend.
-- **2013**: A shooting takes place at a factory in Menznau, Switzerland, in which five people (including the perpetrator) are killed and five others injured.
-- **2010**: An earthquake measuring 8.8 on the moment magnitude scale strikes central parts of Chile leaving over 500 victims, and thousands injured. The quake triggers a tsunami which strikes Hawaii shortly after.
+- **1997**: A Turkish military memorandum resulted in the collapse of the coalition government in Turkey.
+- **1990**: Space Shuttle Atlantis is launched on STS-36.
+- **1973**: Aeroflot Flight X-167 crashes during takeoff from Semey Airport, killing 32 people.
 
 <br>
 
 **💬 Quote**<br>
-> "I put my heart and soul into my work, and I have lost my mind in the process."<br>
-> — **Vincent van Gogh**
+> "The deeper the truth in a creative work, the longer it will live.  "<br>
+> — **Charlie Chaplin**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*The punchline often arrives before the set-up.*<br>
-**Do you know the problem with UDP jokes?**
+*Why did the functions stop calling each other?*<br>
+**Because they had constant arguments.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
+*Cats have the largest eyes of any mammal.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
-- [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
-- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
-- [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
-- [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
-- [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
-- [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
-- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/)
+- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+- [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
+- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
+- [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
+- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
+- [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
+- [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
+- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Rosette Nebula
+### 🌌 Sharpless 249 and the Jellyfish Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0102/rosette_gendler.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Katelyn Beecroft
+<img src='https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
