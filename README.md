@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, February 28, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, March 01, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.5°C - 🌧️ Drizzle
+6.0°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **1997**: A Turkish military memorandum resulted in the collapse of the coalition government in Turkey.
-- **1990**: Space Shuttle Atlantis is launched on STS-36.
-- **1973**: Aeroflot Flight X-167 crashes during takeoff from Semey Airport, killing 32 people.
+- **1998**: Titanic becomes the first film to gross over $1 billion worldwide.
+- **1992**: Bosnia and Herzegovina declares its independence from Socialist Federal Republic of Yugoslavia.
+- **1991**: Uprisings against Saddam Hussein begin in Iraq, leading to the deaths of more than 25,000 people, mostly civilians.
 
 <br>
 
 **💬 Quote**<br>
-> "The deeper the truth in a creative work, the longer it will live.  "<br>
-> — **Charlie Chaplin**
+> "Rather than love, than money, than fame, give me truth."<br>
+> — **Henry David Thoreau**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the functions stop calling each other?*<br>
-**Because they had constant arguments.**
+*Knock-knock.*<br>
+**A race condition. Who is there?**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have the largest eyes of any mammal.*
+*About 37% of American homes today have at least 1 cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
-- [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
-- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
-- [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/)
-- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
-- [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
-- [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
-- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
+- [Claude surpasses ChatGPT to become the #1 app on the US App Store](https://apps.apple.com/us/iphone/charts)
+- [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
+- [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
+- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
+- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
+- [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
+- [The war against PDFs is heating up](https://www.economist.com/business/2026/02/24/the-war-against-pdfs-is-heating-up)
+- [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sharpless 249 and the Jellyfish Nebula
+### 🌌 Lunar Occultation of Mercury
 
-> Source: Katelyn Beecroft
-<img src='https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Fabrizio Melandri
+<img src='https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
