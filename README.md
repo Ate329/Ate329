@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, March 02, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, March 03, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.1°C - ☁️ Overcast
+8.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: A tornado outbreak occurs over a large section of the Southern United States and into the Ohio Valley region, resulting in 40 tornado-related fatalities.
-- **1995**: Space Shuttle Endeavour launches from the Kennedy Space Center on STS-67, carrying the ASTRO-2 spacelab observatory.
-- **1991**: Establishment of Kuwait Democratic Forum, center-left political organization in Kuwait.
+- **1972**: Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
+- **1969**: Apollo program: NASA launches Apollo 9 to test the lunar module.
+- **1945**: World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
 
 <br>
 
 **💬 Quote**<br>
-> "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."<br>
-> — **Simon Sinek**
+> "Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."<br>
+> — **Amelia Earhart**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A programmer puts two glasses on his bedside table before going to sleep.*<br>
-**A full one, in case he gets thirsty, and an empty one, in case he doesn’t.**
+*The punchline often arrives before the set-up.*<br>
+**Do you know the problem with UDP jokes?**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The ancestor of all domestic cats is the African Wild Cat which still exists today.*
+*It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses.*
 
 <br>
 
 **📰 Daily Tech News**
-- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
-- [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
-- [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/)
-- [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
-- [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-- [Little Free Library Books](https://littlefreelibrary.org/)
-- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
-- [Big Breakfast Alters Appetite, Gut Health](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA)
+- [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
+- [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+- [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
+- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
+- [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Hartley 2 Star Cluster Tour
+### 🌌 The Dusty Surroundings of Orion and the Pleiades
 
-> Source: CARA Project
-<img src='https://apod.nasa.gov/apod/image/1012/103P_101127ligustri900c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Ignacio Fernández
+<img src='https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
