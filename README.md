@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, March 03, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, March 04, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.8°C - ☀️ Clear sky
+8.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1972**: Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
-- **1969**: Apollo program: NASA launches Apollo 9 to test the lunar module.
-- **1945**: World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
+- **2018**: Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.
+- **1990**: American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
+- **1986**: The Soviet Vega 1 begins returning images of Halley's Comet and the first images of its nucleus.
 
 <br>
 
 **💬 Quote**<br>
-> "Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."<br>
-> — **Amelia Earhart**
+> "Whatever your mind can conceive and believe, it can achieve."<br>
+> — **Napoleon Hill**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*The punchline often arrives before the set-up.*<br>
-**Do you know the problem with UDP jokes?**
+*Why was the designer always cold?*<br>
+**Because they always used too much ice-olation.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses.*
+*A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
-- [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
-- [Dragon Ball Color Correction Process [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
-- [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
-- [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
-- [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
-- [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
-- [First in-utero stem cell therapy for fetal spina bifida repair is safe: study](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02)
+- [Don't Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
+- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
+- [MacBook Pro with new M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
+- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
+- [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
+- [Textadept](https://orbitalquark.github.io/textadept/)
+- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
+- [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Dusty Surroundings of Orion and the Pleiades
+### 🌌 Real Time Perseid
 
-> Source: Ignacio Fernández
-<img src='https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Till Credner, AlltheSky.com
+<img src='https://apod.nasa.gov/apod/image/1809/perseid11aug18-p.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
