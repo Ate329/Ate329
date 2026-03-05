@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, March 04, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, March 05, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.1°C - ☀️ Clear sky
+8.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.
-- **1990**: American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
-- **1986**: The Soviet Vega 1 begins returning images of Halley's Comet and the first images of its nucleus.
+- **2012**: Two people are killed and six more are injured in a shooting at a hair salon in Bucharest, Romania.
+- **2001**: In Mina, Saudi Arabia, 35 pilgrims are killed in a stampede on the Jamaraat Bridge during the Hajj.
+- **1991**: Aeropostal Alas de Venezuela Flight 109 crashes in Venezuela, killing 45.
 
 <br>
 
 **💬 Quote**<br>
-> "Whatever your mind can conceive and believe, it can achieve."<br>
-> — **Napoleon Hill**
+> "Dreams have only one owner at a time. That's why dreamers are lonely."<br>
+> — **William Faulkner**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the designer always cold?*<br>
-**Because they always used too much ice-olation.**
+*Why did the developer go broke?*<br>
+**They kept spending all their cache.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.*
+*The richest cat is Blackie who was left £15 million by his owner, Ben Rea.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Don't Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
-- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
-- [MacBook Pro with new M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
-- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
-- [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
-- [Textadept](https://orbitalquark.github.io/textadept/)
-- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
-- [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
+- [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+- [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
+- [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
+- [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123)
+- [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
+- [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
+- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
+- [An interactive map of Flock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Real Time Perseid
+### 🌌 Shapley 1: An Annular Planetary Nebula
 
-> Source: Till Credner, AlltheSky.com
-<img src='https://apod.nasa.gov/apod/image/1809/perseid11aug18-p.gif' width='100%' style='border-radius: 8px;'>
+> Source: Peter Bresseler; Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
