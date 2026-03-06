@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, March 05, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, March 06, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.3°C - ☀️ Clear sky
+8.8°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: Two people are killed and six more are injured in a shooting at a hair salon in Bucharest, Romania.
-- **2001**: In Mina, Saudi Arabia, 35 pilgrims are killed in a stampede on the Jamaraat Bridge during the Hajj.
-- **1991**: Aeropostal Alas de Venezuela Flight 109 crashes in Venezuela, killing 45.
+- **2008**: A suicide bomber kills 68 people (including first responders) in Baghdad on the same day that a gunman kills eight students in Jerusalem.
+- **1987**: The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.
+- **1975**: Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
 
 <br>
 
 **💬 Quote**<br>
-> "Dreams have only one owner at a time. That's why dreamers are lonely."<br>
-> — **William Faulkner**
+> "I do not seek. I find."<br>
+> — **Pablo Picasso**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke?*<br>
-**They kept spending all their cache.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The richest cat is Blackie who was left £15 million by his owner, Ben Rea.*
+*Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.*
 
 <br>
 
 **📰 Daily Tech News**
-- [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
-- [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
-- [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
-- [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123)
-- [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/)
-- [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun)
-- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
-- [An interactive map of Flock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
+- [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
+- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
+- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
+- [The Brand Age](https://paulgraham.com/brandage.html)
+- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+- [A ternary plot of citrus geneology](https://www.jlauf.com/writing/citrus/)
+- [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
+- [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Shapley 1: An Annular Planetary Nebula
+### 🌌 Total Lunar Eclipse over Tsé Bit'a'í
 
-> Source: Peter Bresseler; Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Satoru Murata;  Text:  Keighley Rockcliffe  (NASA GSFC,  UMCP,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
