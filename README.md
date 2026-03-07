@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, March 06, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, March 07, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.8°C - 🌤️ Mainly clear
+11.3°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: A suicide bomber kills 68 people (including first responders) in Baghdad on the same day that a gunman kills eight students in Jerusalem.
-- **1987**: The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.
-- **1975**: Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
+- **2024**: Sweden officially joins NATO, becoming its 32nd member.
+- **2021**: At least 108 die and 615 are injured in the 2021 Bata explosions in Bata, Equatorial Guinea.
+- **1941**: Günther Prien and the crew of German submarine U-47, one of the most successful U-boats of World War II, disappear without a trace.
 
 <br>
 
 **💬 Quote**<br>
-> "I do not seek. I find."<br>
-> — **Pablo Picasso**
+> "The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."<br>
+> — **Tony Robbins**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.*
+*Florence Nightingale owned more than 60 cats in her lifetime.*
 
 <br>
 
 **📰 Daily Tech News**
-- [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
-- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
-- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-- [The Brand Age](https://paulgraham.com/brandage.html)
-- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
-- [A ternary plot of citrus geneology](https://www.jlauf.com/writing/citrus/)
-- [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
-- [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
+- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
+- [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
+- [Math Notepad](https://mathnotepad.com)
+- [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
+- [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
+- [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Total Lunar Eclipse over Tsé Bit'a'í
+### 🌌 The Astrosphere of HD 61005
 
-> Source: Satoru Murata;  Text:  Keighley Rockcliffe  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
