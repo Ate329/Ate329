@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, March 07, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, March 08, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.3°C - ☁️ Overcast
+7.9°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Sweden officially joins NATO, becoming its 32nd member.
-- **2021**: At least 108 die and 615 are injured in the 2021 Bata explosions in Bata, Equatorial Guinea.
-- **1941**: Günther Prien and the crew of German submarine U-47, one of the most successful U-boats of World War II, disappear without a trace.
+- **2004**: A new constitution is signed by Iraq's Governing Council.
+- **1985**: A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon kills 80 and injures 200 others.
+- **1966**: Nelson's Pillar in Dublin, Ireland, is destroyed by a bomb.
 
 <br>
 
 **💬 Quote**<br>
-> "The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."<br>
-> — **Tony Robbins**
+> "Being wrong brings the opportunity for growth."<br>
+> — **Mark Manson**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*['hip', 'hip']*<br>
+**(hip hip array)**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Florence Nightingale owned more than 60 cats in her lifetime.*
+*Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.*
 
 <br>
 
 **📰 Daily Tech News**
-- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
-- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
-- [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
-- [Math Notepad](https://mathnotepad.com)
-- [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
-- [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
-- [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
+- [Put the zip code first](https://zipcodefirst.com)
+- [CasNum](https://github.com/0x0mer/CasNum)
+- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
+- [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
+- [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
+- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
+- [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
+- [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Astrosphere of HD 61005
+### 🌌 Two Eclipses of Saros 133
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Tunc Tezel
+<img src='https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
