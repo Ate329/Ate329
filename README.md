@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, March 08, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, March 09, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.9°C - 🌤️ Mainly clear
+7.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: A new constitution is signed by Iraq's Governing Council.
-- **1985**: A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon kills 80 and injures 200 others.
-- **1966**: Nelson's Pillar in Dublin, Ireland, is destroyed by a bomb.
+- **2015**: Two Eurocopter AS350 Écureuil helicopters collide in mid-air over Villa Castelli, Argentina, killing all 10 people on board both aircraft, including French athletes Florence Arthaud, Camille Muffat and Alexis Vastine, as well as producers and guests for the French TV show Dropped.
+- **1987**: Chrysler announces its acquisition of American Motors Corporation.
+- **1976**: Forty-two people die in the Cavalese cable car disaster, the deadliest cable car accident in history.
 
 <br>
 
 **💬 Quote**<br>
-> "Being wrong brings the opportunity for growth."<br>
-> — **Mark Manson**
+> "The Art of Peace begins with you."<br>
+> — **Morihei Ueshiba**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*['hip', 'hip']*<br>
-**(hip hip array)**
+*Why was the JavaScript developer sad?*<br>
+**He didn't know how to null his feelings.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.*
+*A cat has more bones than a human being; humans have 206 and the cat has 230 bones.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Put the zip code first](https://zipcodefirst.com)
-- [CasNum](https://github.com/0x0mer/CasNum)
-- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
-- [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-- [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
-- [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
-- [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
-- [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/)
+- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
+- [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
+- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
+- [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+- [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
+- [FrameBook](https://fb.edoo.gg)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Two Eclipses of Saros 133
+### 🌌 The Aurora Tree
 
-> Source: Tunc Tezel
-<img src='https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Alyn Wallace
+<img src='https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
