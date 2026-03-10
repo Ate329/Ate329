@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, March 09, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, March 10, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.9°C - ☁️ Overcast
+10.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Two Eurocopter AS350 Écureuil helicopters collide in mid-air over Villa Castelli, Argentina, killing all 10 people on board both aircraft, including French athletes Florence Arthaud, Camille Muffat and Alexis Vastine, as well as producers and guests for the French TV show Dropped.
-- **1987**: Chrysler announces its acquisition of American Motors Corporation.
-- **1976**: Forty-two people die in the Cavalese cable car disaster, the deadliest cable car accident in history.
+- **2022**: 2022 Hungarian presidential election: The National Assembly of Hungary elects former minister for Family Affairs, Katalin Novák, as president of Hungary in a 137–51 vote, becoming the first female president in the country's history.
+- **1991**: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
+- **1982**: Syzygy: All nine planets recognized at this time — Mercury to Pluto — align on the same side of the Sun.
 
 <br>
 
 **💬 Quote**<br>
-> "The Art of Peace begins with you."<br>
-> — **Morihei Ueshiba**
+> "We must accept finite disappointment, but never lose infinite hope."<br>
+> — **Martin Luther King, Jr.**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the JavaScript developer sad?*<br>
-**He didn't know how to null his feelings.**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat has more bones than a human being; humans have 206 and the cat has 230 bones.*
+*According to Hebrew legend, Noah prayed to God for help protecting all the food he stored on the ark from being eaten by rats. In reply, God made the lion sneeze, and out popped a cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
-- [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
-- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
-- [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/)
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
-- [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
-- [FrameBook](https://fb.edoo.gg)
+- [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
+- [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
+- [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
+- [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
+- [Show HN: The Mog Programming Language](https://moglang.org)
+- [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Aurora Tree
+### 🌌 The Cranium Nebula from the Webb Telescope
 
-> Source: Alyn Wallace
-<img src='https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
