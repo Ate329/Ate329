@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, March 10, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, March 11, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.3°C - ☀️ Clear sky
+9.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: 2022 Hungarian presidential election: The National Assembly of Hungary elects former minister for Family Affairs, Katalin Novák, as president of Hungary in a 137–51 vote, becoming the first female president in the country's history.
-- **1991**: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
-- **1982**: Syzygy: All nine planets recognized at this time — Mercury to Pluto — align on the same side of the Sun.
+- **2023**: The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.
+- **2021**: US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.
+- **1990**: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
 
 <br>
 
 **💬 Quote**<br>
-> "We must accept finite disappointment, but never lose infinite hope."<br>
-> — **Martin Luther King, Jr.**
+> "If you're afraid - don't do it, - if you're doing it - don't be afraid! "<br>
+> — **Genghis Khan**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit their job?*<br>
-**They didn't get arrays.**
+*How do you check if a webpage is HTML5?*<br>
+**Try it out on Internet Explorer**
 
 <br>
 
 **🧠 Random Fact**<br>
-*According to Hebrew legend, Noah prayed to God for help protecting all the food he stored on the ark from being eaten by rats. In reply, God made the lion sneeze, and out popped a cat.*
+*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
-- [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
-- [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
-- [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
-- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
-- [Show HN: The Mog Programming Language](https://moglang.org)
-- [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter)
+- [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+- [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
+- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
+- [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
+- [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
+- [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Cranium Nebula from the Webb Telescope
+### 🌌 Sky Glows over Paranal Observatory
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Julien Looten
+<img src='https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
