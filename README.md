@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, March 11, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, March 12, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.2°C - ☀️ Clear sky
+7.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.
-- **2021**: US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.
-- **1990**: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
+- **1999**: Former Warsaw Pact members the Czech Republic, Hungary and Poland join NATO.
+- **1993**: North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.
+- **1993**: Several bombs explode in Mumbai, India, killing about 300 people and injuring hundreds more.
 
 <br>
 
 **💬 Quote**<br>
-> "If you're afraid - don't do it, - if you're doing it - don't be afraid! "<br>
-> — **Genghis Khan**
+> "There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."<br>
+> — **Albert Einstein**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you check if a webpage is HTML5?*<br>
-**Try it out on Internet Explorer**
+*How many programmers does it take to change a lightbulb?*<br>
+**None that's a hardware problem**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
+*The Maine Coone is the only native American long haired breed.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
-- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
-- [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-- [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
-- [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
-- [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli)
-- [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+- [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
+- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
+- [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
+- [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
+- [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
+- [Show HN: I built a tool that watches webpages and exposes changes as RSS](https://sitespy.app)
+- [Google closes deal to acquire Wiz](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
+- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sky Glows over Paranal Observatory
+### 🌌 CG 4: The Globule and the Galaxy
 
-> Source: Julien Looten
-<img src='https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: William Vrbasso
+<img src='https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
