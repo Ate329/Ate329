@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, March 14, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, March 15, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.1°C - ☁️ Overcast
+2.7°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Burmese security forces kill at least 65 civilians in the Hlaingthaya massacre.
-- **2008**: A series of riots, protests, and demonstrations erupt in Lhasa and subsequently spread elsewhere in Tibet.
-- **1988**: In the Johnson South Reef Skirmish Chinese forces defeat Vietnamese forces in an altercation over control of one of the Spratly Islands.
+- **2019**: Fifty-one people are killed in the Christchurch mosque shootings.
+- **1991**: Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
+- **1978**: Somalia and Ethiopia sign a truce to end the Ethio-Somali War.
 
 <br>
 
 **💬 Quote**<br>
-> "One is never afraid of the unknown; one is afraid of the known coming to an end."<br>
-> — **Jiddu Krishnamurti**
+> "Each time we don't say what we wanna say, we're dying."<br>
+> — **Yoko Ono**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you check if a webpage is HTML5?*<br>
-**Try it out on Internet Explorer**
+*What did the router say to the doctor?*<br>
+**It hurts when IP.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or much longer.*
+*All cats have claws, and all except the cheetah sheath them when at rest.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-- [Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/)
-- [Can I run AI locally?](https://www.canirun.ai/)
-- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
-- ["Added 1M context window for Opus 4.6 by default for Max, Team, and Enterprise"](https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/CHANGELOG.md)
-- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
+- [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
+- [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
+- [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
+- [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
+- [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
+- [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+- [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
+- [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Toolondo Totality Trails
+### 🌌 A Year for K2-315b
 
-> Source: Jason Perry
-<img src='https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
