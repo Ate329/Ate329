@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, March 15, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, March 16, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.7°C - ⛅ Partly cloudy
+6.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Fifty-one people are killed in the Christchurch mosque shootings.
-- **1991**: Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
-- **1978**: Somalia and Ethiopia sign a truce to end the Ethio-Somali War.
+- **2021**: Atlanta spa shootings: Eight people are killed and one is injured in a trio of shootings at spas in and near Atlanta, Georgia, U.S. A suspect is arrested the same day.
+- **2012**: Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
+- **1995**: Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
 
 <br>
 
 **💬 Quote**<br>
-> "Each time we don't say what we wanna say, we're dying."<br>
-> — **Yoko Ono**
+> "Look to the beauty of this day, miracles are all around you."<br>
+> — **Mary Engelbreit**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*How many programmers does it take to change a lightbulb?*<br>
+**None that's a hardware problem**
 
 <br>
 
 **🧠 Random Fact**<br>
-*All cats have claws, and all except the cheetah sheath them when at rest.*
+*The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
-- [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han)
-- [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
-- [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
-- [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/)
-- [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
-- [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network)
-- [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/)
+- [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
+- [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+- [The 49MB web page](https://thatshubham.com/blog/news-audit)
+- [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
+- [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+- [A new Bigfoot documentary helps explain our conspiracy-minded era](https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px)
+- [Separating the Wayland compositor and window manager](https://isaacfreund.com/blog/river-window-management/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Year for K2-315b
+### 🌌 Equinox at the Pyramid of the Feathered Serpent
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Robert Fedez
+<img src='https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
