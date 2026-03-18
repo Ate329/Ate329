@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, March 17, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, March 18, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.9°C - ☁️ Overcast
+8.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: Leader of the House of Commons and Lord President of the Council, Robin Cook, resigns from the British Cabinet in disagreement with government plans for the 2003 invasion of Iraq.
-- **1969**: Golda Meir becomes the first female Prime Minister of Israel.
-- **1968**: As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead.
+- **1990**: Germans in the German Democratic Republic vote in the first democratic elections in the former communist dictatorship.
+- **1990**: In the largest art theft in US history, 12 paintings, collectively worth around $500 million, are stolen from the Isabella Stewart Gardner Museum in Boston.
+- **1974**: Güzel İstanbul, a nude sculpture by Gürdal Duyar in Istanbul, is torn down in the middle of the night.
 
 <br>
 
 **💬 Quote**<br>
-> "Stay away from people who makes you feel like you are wasting their time."<br>
-> — **Paulo Coelho**
+> "While some of us act without thinking, too many of us think without acting."<br>
+> — **Dan Millman**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*Why did the developer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Jaguars are the only big cats that don't roar.*
+*Cats see six times better in the dark and at night than humans.*
 
 <br>
 
 **📰 Daily Tech News**
-- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
-- [Leanstral: Open-source code agent designed for Lean 4](https://mistral.ai/news/leanstral)
-- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
-- [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum)
-- [Show HN: Trackm, a personal finance web app](https://trackm.net)
-- [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860)
-- [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde)
+- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+- [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
+- [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
+- [It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]](https://www.youtube.com/watch?v=3Ploi723hg4)
+- [Kagi Small Web](https://kagi.com/smallweb/)
+- [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 1566: The Spanish Dancer Galaxy
+### 🌌 The Tadpoles of IC 410
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Nico Carver
+<img src='https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
