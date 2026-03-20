@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, March 19, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, March 20, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.6°C - 🌤️ Mainly clear
+7.4°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20.
-- **1998**: An Ariana Afghan Airlines Boeing 727 crashes on approach to Kabul International Airport, killing all 45 on board.
-- **1982**: Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom.
+- **2010**: Eyjafjallajökull in Iceland begins eruptions that would last for three months, heavily disrupting air travel in Europe.
+- **1995**: The Japanese cult Aum Shinrikyo carries out a sarin gas attack on the Tokyo subway, killing 14 and wounding over 6,200 people.
+- **1988**: Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet.
 
 <br>
 
 **💬 Quote**<br>
-> "Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."<br>
-> — **Elvis Presley**
+> "Until we can manage time, we can manage nothing else."<br>
+> — **Peter Drucker**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
+*On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-- [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
-- [OpenRocket](https://openrocket.info/)
-- [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-- [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/)
-- [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
-- [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
+- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+- [Astral to Join OpenAI](https://astral.sh/blog/openai)
+- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+- [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
+- [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+- [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS)
+- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Cygnus and the Solitary Tree
+### 🌌 Launch Plume: SpaceX Jellyfish
 
-> Source: 2025 Horacio Lander / AstroHoracio  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Michael Seeley
+<img src='https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
