@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, March 20, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, March 21, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.4°C - ⛅ Partly cloudy
+5.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2010**: Eyjafjallajökull in Iceland begins eruptions that would last for three months, heavily disrupting air travel in Europe.
-- **1995**: The Japanese cult Aum Shinrikyo carries out a sarin gas attack on the Tokyo subway, killing 14 and wounding over 6,200 people.
-- **1988**: Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet.
+- **2006**: The social media site Twitter (now officially named X) is founded.
+- **1983**: The first cases of the 1983 West Bank fainting epidemic begin; Israelis and Palestinians accuse each other of poison gas, but the cause is later determined mostly to be psychosomatic.
+- **1980**: Cold War: American President Jimmy Carter announces a United States boycott of the 1980 Summer Olympics in Moscow to protest the Soviet–Afghan War.
 
 <br>
 
 **💬 Quote**<br>
-> "Until we can manage time, we can manage nothing else."<br>
-> — **Peter Drucker**
+> "The wisdom of life consists in the elimination of the nonessentials."<br>
+> — **Lin Yutang**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*How do you comfort a designer?*<br>
+**You give them some space... between the elements.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.*
+*A cat has more bones than a human; humans have 206, and the cat - 230.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
-- [Astral to Join OpenAI](https://astral.sh/blog/openai)
-- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
-- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
-- [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/)
-- [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
-- [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS)
-- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
+- [OpenCode – The open source AI coding agent](https://opencode.ai/)
+- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
+- [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser)
+- [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)
+- [Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists](https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029)
+- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+- [Ghostling](https://github.com/ghostty-org/ghostling)
+- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Launch Plume: SpaceX Jellyfish
+### 🌌 Spring Equinox at Teide Observatory
 
-> Source: Michael Seeley
-<img src='https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Juan Carlos Casado
+<img src='https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
