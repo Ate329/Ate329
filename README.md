@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, March 21, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, March 22, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.5°C - ☁️ Overcast
+5.7°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2006**: The social media site Twitter (now officially named X) is founded.
-- **1983**: The first cases of the 1983 West Bank fainting epidemic begin; Israelis and Palestinians accuse each other of poison gas, but the cause is later determined mostly to be psychosomatic.
-- **1980**: Cold War: American President Jimmy Carter announces a United States boycott of the 1980 Summer Olympics in Moscow to protest the Soviet–Afghan War.
+- **2024**: At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia.
+- **2017**: Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa.
+- **2016**: Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station.
 
 <br>
 
 **💬 Quote**<br>
-> "The wisdom of life consists in the elimination of the nonessentials."<br>
-> — **Lin Yutang**
+> "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."<br>
+> — **Henry David Thoreau**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*What's the object-oriented way to become wealthy?*<br>
+**Inheritance**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat has more bones than a human; humans have 206, and the cat - 230.*
+*If they have ample water, cats can tolerate temperatures up to 133 °F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [OpenCode – The open source AI coding agent](https://opencode.ai/)
-- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
-- [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser)
-- [Why I'm Not Worried About Running Out of Work in the Age of AI](https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/)
-- [Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists](https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029)
-- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
-- [Ghostling](https://github.com/ghostty-org/ghostling)
-- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
+- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
+- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
+- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+- [Boomloom: Think with your hands](https://www.theboomloom.com)
+- [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
+- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+- [Trivy Security incident 2026-03-19](https://github.com/aquasecurity/trivy/discussions/10425)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Spring Equinox at Teide Observatory
+### 🌌 Galaxies in the River: NGC 1300 and NGC 1297
 
-> Source: Juan Carlos Casado
-<img src='https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Dietmar Hager and Eric Benson
+<img src='https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
