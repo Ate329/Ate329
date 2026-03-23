@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, March 22, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, March 23, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.7°C - ⛅ Partly cloudy
+6.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia.
-- **2017**: Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa.
-- **2016**: Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station.
+- **2020**: Prime Minister Boris Johnson puts the United Kingdom into its first national lockdown in response to COVID-19.
+- **2014**: The World Health Organization (WHO) reports cases of Ebola in the forested rural region of southeastern Guinea, marking the beginning of the largest Ebola outbreak in history.
+- **1999**: Gunmen assassinate Paraguay's Vice President Luis María Argaña.
 
 <br>
 
 **💬 Quote**<br>
-> "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."<br>
-> — **Henry David Thoreau**
+> "We shape clay into a pot, but it is the emptiness inside that holds whatever we want."<br>
+> — **Lao Tzu**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*If they have ample water, cats can tolerate temperatures up to 133 °F.*
+*A group of cats is called a “clowder.”*
 
 <br>
 
 **📰 Daily Tech News**
-- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
-- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
-- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
-- [Boomloom: Think with your hands](https://www.theboomloom.com)
-- [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/)
-- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
-- [Trivy Security incident 2026-03-19](https://github.com/aquasecurity/trivy/discussions/10425)
+- [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+- [The future of version control](https://bramcohen.com/p/manyana)
+- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
+- [LLMs Predict My Coffee](https://dynomight.net/coffee/)
+- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Galaxies in the River: NGC 1300 and NGC 1297
+### 🌌 Oddities of Star Cluster NGC 6397
 
-> Source: Dietmar Hager and Eric Benson
-<img src='https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0202/ngc6397_hst.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
