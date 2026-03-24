@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, March 23, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, March 24, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.8°C - ☀️ Clear sky
+8.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: Prime Minister Boris Johnson puts the United Kingdom into its first national lockdown in response to COVID-19.
-- **2014**: The World Health Organization (WHO) reports cases of Ebola in the forested rural region of southeastern Guinea, marking the beginning of the largest Ebola outbreak in history.
-- **1999**: Gunmen assassinate Paraguay's Vice President Luis María Argaña.
+- **2024**: The 2024 Senegalese presidential election is held following anti-government protests.
+- **1998**: Dr. Rüdiger Marmulla performs the first computer-assisted Bone Segment Navigation at the University of Regensburg, Germany.
+- **1993**: Comet Shoemaker–Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California.
 
 <br>
 
 **💬 Quote**<br>
-> "We shape clay into a pot, but it is the emptiness inside that holds whatever we want."<br>
-> — **Lao Tzu**
+> "If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."<br>
+> — **James Cameron**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*What do you call a computer mouse that swears a lot?*<br>
+**A cursor!**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A group of cats is called a “clowder.”*
+*Siamese kittens are born white because of the heat inside the mother's uterus before birth. This heat keeps the kittens' hair from darkening on the points.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
-- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-- [The future of version control](https://bramcohen.com/p/manyana)
-- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
-- [LLMs Predict My Coffee](https://dynomight.net/coffee/)
-- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
-- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
+- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+- [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
+- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
+- [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
+- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
+- [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/)
+- [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Oddities of Star Cluster NGC 6397
+### 🌌 Light Pillars and Orion over Mohe
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0202/ngc6397_hst.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Jeff Dai (TWAN)
+<img src='https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
