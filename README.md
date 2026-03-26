@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, March 25, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, March 26, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.0°C - ☁️ Overcast
+3.7°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **1996**: The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
-- **1979**: The first fully functional Space Shuttle orbiter, Columbia, is delivered to the John F. Kennedy Space Center to be prepared for its first launch.
-- **1959**: Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($58,072 in 2025).
+- **2017**: Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
+- **1991**: Singapore Airlines Flight 117 is hijacked by four Pakistani terrorists and diverted to Changi Airport.
+- **1971**: East Pakistan, then a province of Pakistan, declares its independence from Pakistan to form Bangladesh; the Bangladesh War of Independence begins.
 
 <br>
 
 **💬 Quote**<br>
-> "What the caterpillar calls the end of the world, the master calls a butterfly."<br>
-> — **Richard Bach**
+> "A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."<br>
+> — **D. H. Lawrence**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do programmers always get Christmas and Halloween mixed up?*<br>
-**Because DEC 25 = OCT 31**
+*Why do C# and Java developers keep breaking their keyboards?*<br>
+**Because they use a strongly typed language.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.*
+*The largest cat breed is the Ragdoll. Male Ragdolls weigh between 12 and 20 lbs (5.4-9.0 k). Females weigh between 10 and 15 lbs (4.5-6.8 k).*
 
 <br>
 
 **📰 Daily Tech News**
-- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-- [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
-- [We’re saying goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
-- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
-- [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
-- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
-- [What happened to GEM?](https://dfarq.homeip.net/whatever-happened-to-gem/)
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3)
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+- [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)
+- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/)
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
+- [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html)
+- [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 PanSTARRS from France
+### 🌌 The Guardians of Rapa Nui beneath the Milky Way
 
-> Source: Jean-Luc Dauvergne
-<img src='https://apod.nasa.gov/apod/image/1303/PanSTARRSdauvergne_32912S900.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Rositsa Dimitrova  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
