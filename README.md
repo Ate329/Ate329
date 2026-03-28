@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, March 27, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, March 28, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.8°C - ☀️ Clear sky
+6.0°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: The dam forming Situ Gintung, an artificial lake in Indonesia, fails, killing at least 99 people.
-- **2000**: A Phillips Petroleum plant explosion in Pasadena, Texas kills one person and injures 71 others.
-- **1993**: Italian former minister and Christian Democracy leader Giulio Andreotti is accused of mafia allegiance by the tribunal of Palermo.
+- **2001**: Athens International Airport Eleftherios Venizelos begins operation.
+- **1994**: In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
+- **1970**: An earthquake strikes western Turkey at about 23:05 local time, killing 1,086 and injuring at least 1,200.
 
 <br>
 
 **💬 Quote**<br>
-> "Comedy = tragedy + time."<br>
-> — **Carol Burnett**
+> "We take care of the future best by taking care of the present now."<br>
+> — **Jon Kabat-Zinn**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
+*A happy cat holds her tail high and steady.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
-- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
-- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
-- [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
-- [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
-- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
-- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
+- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
+- [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+- [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+- [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
+- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Black Holes and Neutron Stars: 218 Mergers and Counting
+### 🌌 Hickson 44 in Leo
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Peter Kennett
+<img src='https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
