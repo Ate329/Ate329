@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, March 28, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, March 29, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.0°C - 🌧️ Drizzle
+4.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: Athens International Airport Eleftherios Venizelos begins operation.
-- **1994**: In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
-- **1970**: An earthquake strikes western Turkey at about 23:05 local time, killing 1,086 and injuring at least 1,200.
+- **2016**: A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
+- **2015**: Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
+- **2002**: In reaction to the Passover massacre two days prior, Israel launches Operation Defensive Shield against Palestinian militants, its largest military operation in the West Bank since the 1967 Six-Day War.
 
 <br>
 
 **💬 Quote**<br>
-> "We take care of the future best by taking care of the present now."<br>
-> — **Jon Kabat-Zinn**
+> "Falling down is not failure. Failure comes when you stay where you have fallen."<br>
+> — **Socrates**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A happy cat holds her tail high and steady.*
+*A cat's nose is as unique as a human's fingerprint.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
-- [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
-- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
-- [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
-- [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies)
-- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+- [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
+- [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Hickson 44 in Leo
+### 🌌 Robert Goddard and Nell
 
-> Source: Peter Kennett
-<img src='https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
