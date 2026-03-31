@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, March 30, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, March 31, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.3°C - 🌧️ Drizzle
+3.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: Donald Trump becomes the first former United States president to be indicted by a grand jury.
-- **2008**: Drolma Kyi arrested by Chinese authorities.
-- **1972**: Vietnam War: The Easter Offensive begins after North Vietnamese forces cross into the Demilitarized Zone (DMZ) of South Vietnam.
+- **2005**: The dwarf planet Makemake is discovered by a team led by astronomer Michael E. Brown at the Palomar Observatory.
+- **2004**: Iraq War in Anbar Province: In Fallujah, Iraq, four American private military contractors working for Blackwater USA, are killed after being ambushed.
+- **1986**: Mexicana de Aviación Flight 940 crashes into the Sierra Madre Oriental mountain range near the Mexican town of Maravatío, killing 167.
 
 <br>
 
 **💬 Quote**<br>
-> "Honesty is the first chapter in the book of wisdom."<br>
-> — **Thomas Jefferson**
+> "Our stories may be singular, but our destination is shared."<br>
+> — **Barack Obama**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many React developers does it take to change a lightbulb?*<br>
-**None, they prefer dark mode.**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.*
+*A cat’s brain is biologically more similar to a human brain than it is to a dog’s. Both humans and cats have identical regions in their brains that are responsible for emotions.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
-- [I'll buy your electronics to feed our robot](https://www.dayworkx.com/)
-- [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
-- [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
-- [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/)
+- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
+- [How to turn anything into a router](https://nbailey.ca/post/router/)
+- [Agents of Chaos](https://agentsofchaos.baulab.info/report.html)
+- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Message from Earth
+### 🌌 Peculiar Elliptical Galaxy Centaurus A
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: SADR Observatory Team:   J-C Dalouzy,  P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy,  J-P Quéau, H. Talbot, & E. Valin
+<img src='https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
