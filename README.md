@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, March 31, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, April 01, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-3.7°C - ☀️ Clear sky
+4.9°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2005**: The dwarf planet Makemake is discovered by a team led by astronomer Michael E. Brown at the Palomar Observatory.
-- **2004**: Iraq War in Anbar Province: In Fallujah, Iraq, four American private military contractors working for Blackwater USA, are killed after being ambushed.
-- **1986**: Mexicana de Aviación Flight 940 crashes into the Sierra Madre Oriental mountain range near the Mexican town of Maravatío, killing 167.
+- **2006**: Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013.
+- **2001**: An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained.
+- **1989**: Margaret Thatcher's new local government tax, the Community Charge (commonly known as the "poll tax"), is introduced in Scotland.
 
 <br>
 
 **💬 Quote**<br>
-> "Our stories may be singular, but our destination is shared."<br>
-> — **Barack Obama**
+> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker."<br>
+> — **Eckhart Tolle**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat’s brain is biologically more similar to a human brain than it is to a dog’s. Both humans and cats have identical regions in their brains that are responsible for emotions.*
+*A cat's smell is their strongest sense, and they rely on this leading sense to identify people and objects; a feline's sense of smell is 14x better than a human's.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/)
-- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
-- [How to turn anything into a router](https://nbailey.ca/post/router/)
-- [Agents of Chaos](https://agentsofchaos.baulab.info/report.html)
-- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains)
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
+- [Ministack (Replacement for LocalStack)](https://ministack.org/)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
+- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
+- [4D Doom](https://github.com/danieldugas/HYPERHELL)
+- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+- [Slop is not necessarily the future](https://www.greptile.com/blog/ai-slopware-future)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Peculiar Elliptical Galaxy Centaurus A
+### 🌌 Uranus's Largest Moon: Titania
 
-> Source: SADR Observatory Team:   J-C Dalouzy,  P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy,  J-P Quéau, H. Talbot, & E. Valin
-<img src='https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
