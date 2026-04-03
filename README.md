@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, April 02, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, April 03, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.0°C - ☀️ Clear sky
+5.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: Liberation Day tariffs: U.S. President Donald Trump announces sweeping worldwide tariffs.
-- **2021**: At least 49 people are killed in a train derailment in Taiwan after a truck accidentally rolls onto the track.
-- **2002**: Israeli forces surround the Church of the Nativity in Bethlehem, into which armed Palestinians had retreated.
+- **2009**: Jiverly Antares Wong opens fire at the American Civic Association immigration center in Binghamton, New York, killing thirteen and wounding four before committing suicide.
+- **2008**: ATA Airlines, once one of the ten largest U.S. passenger airlines and largest charter airline, files for bankruptcy for the second time in five years and ceases all operations.
+- **1993**: The outcome of the Grand National horse race is declared void for the first (and only) time.
 
 <br>
 
 **💬 Quote**<br>
-> "The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."<br>
-> — **Yanni**
+> "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."<br>
+> — **Robert Frost**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*3 SQL statements walk into a NoSQL bar. Soon, they walk out*<br>
+**They couldn't find a table.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can be right-pawed or left-pawed.*
+*Cats make about 100 different sounds. Dogs make only about 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
-- [NASA’s Artemis II Crew Launches to the Moon](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
-- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
-- [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
-- [Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak)
-- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-- [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
-- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect)
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
+- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
+- [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
+- [Cursor 3](https://cursor.com/blog/cursor-3)
+- [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
+- [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
+- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Claw and Bubble Nebulae
+### 🌌 Liftoff! Returning to the Moon
 
-> Source: Richard Whitehead  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA/Bill Ingalls;  Text: Ogetay Kayali  (MTU)
+<img src='https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
