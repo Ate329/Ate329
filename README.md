@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, April 03, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, April 04, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.2°C - ⛅ Partly cloudy
+11.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Jiverly Antares Wong opens fire at the American Civic Association immigration center in Binghamton, New York, killing thirteen and wounding four before committing suicide.
-- **2008**: ATA Airlines, once one of the ten largest U.S. passenger airlines and largest charter airline, files for bankruptcy for the second time in five years and ceases all operations.
-- **1993**: The outcome of the Grand National horse race is declared void for the first (and only) time.
+- **2025**: The impeachment of President Yoon Suk Yeol of South Korea in response to his declaration of martial law is unanimously upheld by the country's Constitutional Court, ending his presidency.
+- **2024**: The Battle of Chasiv Yar begins.
+- **2010**: A magnitude 7.2 earthquake hits south of the Mexico-USA border, killing at least two and damaging buildings across the two countries.
 
 <br>
 
 **💬 Quote**<br>
-> "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."<br>
-> — **Robert Frost**
+> "Faith means believing the unbelievable."<br>
+> — **Gilbert Chesterton**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*3 SQL statements walk into a NoSQL bar. Soon, they walk out*<br>
-**They couldn't find a table.**
+*What did the router say to the doctor?*<br>
+**It hurts when IP.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats make about 100 different sounds. Dogs make only about 10.*
+*A form of AIDS exists in cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
-- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
-- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
-- [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
-- [Cursor 3](https://cursor.com/blog/cursor-3)
-- [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
-- [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
-- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
+- [iNaturalist](https://www.inaturalist.org/)
+- [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
+- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
+- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Liftoff! Returning to the Moon
+### 🌌 Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
 
-> Source: NASA/Bill Ingalls;  Text: Ogetay Kayali  (MTU)
-<img src='https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Carl Knox
+<img src='https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
