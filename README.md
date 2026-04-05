@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, April 04, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, April 05, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.6°C - ☁️ Overcast
+13.1°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: The impeachment of President Yoon Suk Yeol of South Korea in response to his declaration of martial law is unanimously upheld by the country's Constitutional Court, ending his presidency.
-- **2024**: The Battle of Chasiv Yar begins.
-- **2010**: A magnitude 7.2 earthquake hits south of the Mexico-USA border, killing at least two and damaging buildings across the two countries.
+- **2010**: Space Shuttle Discovery is launched on STS-131 to resupply the International Space Station.
+- **1999**: Two Libyans suspected of bringing down Pan Am Flight 103 in 1988 are handed over for eventual trial in the Netherlands.
+- **1991**: An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter.
 
 <br>
 
 **💬 Quote**<br>
-> "Faith means believing the unbelievable."<br>
-> — **Gilbert Chesterton**
+> "A hut full of laughter is richer than a palace full of sadness."<br>
+> — **Zen Proverb**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*What's the best part about TCP jokes?*<br>
+**I get to keep telling them until you get them.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A form of AIDS exists in cats.*
+*A cat can spend five or more hours a day grooming himself.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-- [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-- [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
-- [iNaturalist](https://www.inaturalist.org/)
-- [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
-- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
-- [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
-- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+- [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+- [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
+- [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
+- [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)
+- [Ruckus: Racket for iOS](https://ruckus.defn.io/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
+### 🌌 Hello World
 
-> Source: Carl Knox
-<img src='https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
