@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, April 07, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, April 08, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.4°C - ☀️ Clear sky
+8.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice.
-- **2018**: Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
-- **2005**: First release of Git distributed version control system.
+- **2010**: U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty.
+- **2002**: The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.
+- **1959**: A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL.
 
 <br>
 
 **💬 Quote**<br>
-> "Faith means believing the unbelievable."<br>
-> — **Gilbert Chesterton**
+> "We live only now. Everything else is either passed or is unknown."<br>
+> — **Marcus Aurelius**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the font always tired?*<br>
-**It was always bold.**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The cat who holds the record for the longest non-fatal fall is Andy. He fell from the 16th floor of an apartment building (about 200 ft/.06 km) and survived.*
+*The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.*
 
 <br>
 
 **📰 Daily Tech News**
-- [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- [Anthropic expands partnership w Google and Broadcom for multiple GW of compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
-- [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
-- [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
-- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
-- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+- [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
+- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+- [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
+- [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
+- [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo)
+- [Trump announces two-week ceasefire as Iran says talks to begin](https://www.reuters.com/world/iran-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NGC 346 in the Small Magellanic Cloud
-
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0501/ngc346_hst_c25.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
