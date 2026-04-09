@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, April 08, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, April 09, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.8°C - ☀️ Clear sky
+11.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2010**: U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty.
-- **2002**: The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.
-- **1959**: A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL.
+- **2017**: After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
+- **2013**: At least 13 people are killed and another three injured after a man goes on a spree shooting in the Serbian village of Velika Ivanča.
+- **1990**: An Embraer EMB 120 Brasilia collides in mid-air with a Cessna 172 over Gadsden, Alabama, killing both of the Cessna's occupants.
 
 <br>
 
 **💬 Quote**<br>
-> "We live only now. Everything else is either passed or is unknown."<br>
-> — **Marcus Aurelius**
+> "All religions, arts and sciences are branches of the same tree. "<br>
+> — **Albert Einstein**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What goes after USA?*<br>
-**USB.**
+*Why don't programmers like nature?*<br>
+**Too many bugs.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.*
+*Fossil records from two million years ago show evidence of jaguars.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
-- [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
-- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
-- [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
-- [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)
-- [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/)
-- [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo)
-- [Trump announces two-week ceasefire as Iran says talks to begin](https://www.reuters.com/world/iran-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07)
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+- [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
+- [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
+- [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
+- [ML promises to be profoundly weird](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Jupiter, Ganymede, Great Red Spot
+
+> Source: Damian Peach
+<img src='https://apod.nasa.gov/apod/image/1505/Jup2015_03_10rgb09Peach.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
