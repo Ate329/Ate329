@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, April 09, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, April 10, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.2°C - ☁️ Overcast
+11.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
-- **2013**: At least 13 people are killed and another three injured after a man goes on a spree shooting in the Serbian village of Velika Ivanča.
-- **1990**: An Embraer EMB 120 Brasilia collides in mid-air with a Cessna 172 over Gadsden, Alabama, killing both of the Cessna's occupants.
+- **2023**: A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
+- **2009**: President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.
+- **1981**: Imprisoned IRA hunger striker Bobby Sands was elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
 
 <br>
 
 **💬 Quote**<br>
-> "All religions, arts and sciences are branches of the same tree. "<br>
-> — **Albert Einstein**
+> "None are more hopelessly enslaved than those who falsely believe they are free."<br>
+> — **Johann Wolfgang von Goethe**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why don't programmers like nature?*<br>
-**Too many bugs.**
+*What's the object-oriented way to become wealthy?*<br>
+**Inheritance**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Fossil records from two million years ago show evidence of jaguars.*
+*A healthy cat has a temperature between 38 and 39 degrees Celcius.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
-- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
-- [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
-- [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
-- [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
-- [ML promises to be profoundly weird](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+- [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
+- [Robots Eat Cars](https://telemetry.endeff.com/p/robots-eat-cars)
+- [Instant 1.0, a backend for AI-coded apps](https://www.instantdb.com/essays/architecture)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Jupiter, Ganymede, Great Red Spot
+### 🌌 Sagittarius Dwarf Irregular Galaxy
 
-> Source: Damian Peach
-<img src='https://apod.nasa.gov/apod/image/1505/Jup2015_03_10rgb09Peach.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0411/sagdig_hst.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
