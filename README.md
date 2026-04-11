@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, April 10, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, April 11, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.7°C - ☁️ Overcast
+8.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
-- **2009**: President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.
-- **1981**: Imprisoned IRA hunger striker Bobby Sands was elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
+- **2023**: During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
+- **2008**: Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
+- **2001**: The Australia national men's soccer team sets a world record for the largest victory in an international association football match, winning the game 31–0 against American Samoa at the 2002 FIFA World Cup qualifiers for OFC. Australia's Archie Thompson also breaks the record for most goals scored by a player in an international match by scoring 13 goals.
 
 <br>
 
 **💬 Quote**<br>
-> "None are more hopelessly enslaved than those who falsely believe they are free."<br>
-> — **Johann Wolfgang von Goethe**
+> "Happiness is not the absence of problems, it's the ability to deal with them."<br>
+> — **Steve Maraboli**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A healthy cat has a temperature between 38 and 39 degrees Celcius.*
+*Heat occurs several times a year and can last anywhere from 3 to 15 days.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
-- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
-- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
-- [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
-- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
-- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
-- [Robots Eat Cars](https://telemetry.endeff.com/p/robots-eat-cars)
-- [Instant 1.0, a backend for AI-coded apps](https://www.instantdb.com/essays/architecture)
+- [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
+- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+- [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
+- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sagittarius Dwarf Irregular Galaxy
+### 🌌 Exploring the Antennae
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0411/sagdig_hst.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Mike Selby
+<img src='https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
