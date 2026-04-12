@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, April 11, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, April 12, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.9°C - ☁️ Overcast
+8.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
-- **2008**: Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
-- **2001**: The Australia national men's soccer team sets a world record for the largest victory in an international association football match, winning the game 31–0 against American Samoa at the 2002 FIFA World Cup qualifiers for OFC. Australia's Archie Thompson also breaks the record for most goals scored by a player in an international match by scoring 13 goals.
+- **2013**: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
+- **1999**: During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
+- **1983**: Harold Washington is elected as the first black mayor of Chicago.
 
 <br>
 
 **💬 Quote**<br>
-> "Happiness is not the absence of problems, it's the ability to deal with them."<br>
-> — **Steve Maraboli**
+> "To be calm is the highest achievement of the self."<br>
+> — **Zen Proverb**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Heat occurs several times a year and can last anywhere from 3 to 15 days.*
+*The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/)
-- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
-- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
-- [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
-- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
-- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+- [Dark Castle](https://darkcastle.co.uk/)
+- [Pijul a FOSS distributed version control system](https://pijul.org/)
+- [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
+- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Exploring the Antennae
+### 🌌 Artificial Night Sky Brightness
 
-> Source: Mike Selby
-<img src='https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: P. Cinzano
+<img src='https://apod.nasa.gov/apod/image/0108/artificialnight_dmsp.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
