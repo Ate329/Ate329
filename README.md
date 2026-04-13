@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, April 12, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, April 13, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.2°C - ⛅ Partly cloudy
+8.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
-- **1999**: During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
-- **1983**: Harold Washington is elected as the first black mayor of Chicago.
+- **2025**: Rory McIlroy wins the Masters Tournament, becoming just the sixth person to complete the Grand Slam in golf.
+- **1972**: The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
+- **1972**: Vietnam War: The Battle of An Lộc begins.
 
 <br>
 
 **💬 Quote**<br>
-> "To be calm is the highest achievement of the self."<br>
-> — **Zen Proverb**
+> "Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."<br>
+> — **J.R.R. Tolkien**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
+**the rest of them will write Perl**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years.*
+*A cat's nose is as unique as a human's fingerprint.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-- [Dark Castle](https://darkcastle.co.uk/)
-- [Pijul a FOSS distributed version control system](https://pijul.org/)
-- [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/)
-- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
+- [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
+- [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
+- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+- [I gave every train in New York an instrument](https://www.trainjazz.com/)
+- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Artificial Night Sky Brightness
-
-> Source: P. Cinzano
-<img src='https://apod.nasa.gov/apod/image/0108/artificialnight_dmsp.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
