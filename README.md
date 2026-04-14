@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, April 13, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, April 14, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.7°C - ☁️ Overcast
+7.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: Rory McIlroy wins the Masters Tournament, becoming just the sixth person to complete the Grand Slam in golf.
-- **1972**: The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
-- **1972**: Vietnam War: The Battle of An Lộc begins.
+- **2023**: The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
+- **2022**: 2022 Russian invasion of Ukraine: The Russian warship Moskva sinks.
+- **1999**: A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
 
 <br>
 
 **💬 Quote**<br>
-> "Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."<br>
-> — **J.R.R. Tolkien**
+> "We can see through others only when we can see through ourselves."<br>
+> — **Bruce Lee**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
-**the rest of them will write Perl**
+*Why do C# and Java developers keep breaking their keyboards?*<br>
+**Because they use a strongly typed language.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's nose is as unique as a human's fingerprint.*
+*The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).*
 
 <br>
 
 **📰 Daily Tech News**
-- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
-- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
-- [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
-- [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)
-- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
-- [I gave every train in New York an instrument](https://www.trainjazz.com/)
-- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+- [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- [(AMD) Build AI Agents That Run Locally](https://amd-gaia.ai/docs)
+- [An Introduction to Obsidian](https://bryanhogan.com/blog/obsidian-introduction)
+- [The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Mars at the Moon's Edge
+
+> Source: Ron Dantowitz, Clay Center Observatory at Dexter and Southfield Schools
+<img src='https://apod.nasa.gov/apod/image/0307/moonmars_dantowitz_c1.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
