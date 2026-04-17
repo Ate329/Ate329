@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, April 16, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, April 17, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.5°C - ☁️ Overcast
+13.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Ecuador's worst earthquake in nearly 40 years kills 676 and injures more than 230,000.
-- **2013**: The 2013 Baga massacre is started when Boko Haram militants engage government soldiers in Baga.
-- **1972**: Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida.
+- **2014**: NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
+- **1992**: The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
+- **1970**: Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
 
 <br>
 
 **💬 Quote**<br>
-> "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."<br>
-> — **Sydney Smith**
+> "When you love someone, you love the person as they are, and not as you'd like them to be."<br>
+> — **Leo Tolstoy**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the functions stop calling each other?*<br>
-**Because they had constant arguments.**
+*How do you comfort a designer?*<br>
+**You give them some space... between the elements.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Edward Lear, author of \The Owl and the Pussycat\"", is said to have had his new house in San Remo built to exactly the same specification as his previous residence, so that his much-loved tabby, Foss, would immediately feel at home."""*
+*The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”*
 
 <br>
 
 **📰 Daily Tech News**
-- [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
-- [I made a terminal pager](https://theleo.zone/posts/pager/)
-- [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
-- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
-- [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394)
-- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
-- [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
-- [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why)
+- [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o)
+- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+- [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
+- [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
+- [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 The ISS Transits the Moon
-
-> Source: Sébastien Borie  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
