@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, April 17, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, April 18, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.7°C - ☁️ Overcast
+14.8°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
-- **1992**: The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
-- **1970**: Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
+- **1996**: The Israeli military commits the Qana massacre in a deliberate shelling of a United Nations compound near the village of Qana in southern Lebanon, killing 106 Lebanese civilians who were taking shelter there and wounding over 100 more.
+- **1972**: East African Airways Flight 720 crashes during a rejected takeoff from Addis Ababa Bole International Airport in Addis Ababa, Ethiopia, killing 43.
+- **1954**: Gamal Abdel Nasser seizes power in Egypt.
 
 <br>
 
 **💬 Quote**<br>
-> "When you love someone, you love the person as they are, and not as you'd like them to be."<br>
-> — **Leo Tolstoy**
+> "What would life be if we had no courage to attempt anything? "<br>
+> — **Vincent van Gogh**
 
 <br>
 </td>
@@ -33,31 +33,29 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*To understand what recursion is...*<br>
+**You must first understand what recursion is**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”*
+*In relation to their body size, cats have the largest eyes of any mammal.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o)
-- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
-- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
-- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
-- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
-- [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
-- [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary)
-- [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
+- Failed to fetch news
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 M82: Starburst Galaxy with a Superwind
+
+> Source: Arnaud Malleval
+<img src='https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
