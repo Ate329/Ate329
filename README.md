@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, April 19, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, April 20, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.7°C - ☀️ Clear sky
+7.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: Space Shuttle Endeavour is launched on STS-100 carrying the Canadarm2 to the International Space Station.
-- **1995**: Oklahoma City bombing: The Alfred P. Murrah Federal Building in Oklahoma City, US, is bombed, killing 168 people including 19 children under the age of six.
-- **1989**: A gun turret explodes on the USS Iowa, killing 47 sailors.
+- **2015**: Ten people are killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland.
+- **2013**: A 6.6-magnitude earthquake strikes Lushan County, Ya'an, in China's Sichuan province, killing at least 193 people and injuring thousands.
+- **2004**: The Nicoll Highway in Singapore collapses, killing four workers.
 
 <br>
 
 **💬 Quote**<br>
-> "Smell the cheese often so you know when it is getting old."<br>
-> — **Spencer Johnson**
+> "Greatness comes from living with purpose and passion."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Approximately 24 cat skins can make a coat.*
+*Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.*
 
 <br>
 
 **📰 Daily Tech News**
-- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
-- [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)
-- [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
-- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
-- [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
-- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
-- [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
-- [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
+- [Show HN: How context engineering works, a runnable reference](https://github.com/outcomeops/context-engineering)
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
+- [Aliens.gov will be running as a WordPress multisite](https://aliens.gov/)
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 PanSTARRS and Planets
+### 🌌 Verona Rupes: Tallest Known Cliff in the Solar System
 
-> Source: Luc Perrot
-<img src='https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/1104/mirandascarp_vg2_900.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
