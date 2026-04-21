@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, April 20, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, April 21, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.2°C - ☀️ Clear sky
+7.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Ten people are killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland.
-- **2013**: A 6.6-magnitude earthquake strikes Lushan County, Ya'an, in China's Sichuan province, killing at least 193 people and injuring thousands.
-- **2004**: The Nicoll Highway in Singapore collapses, killing four workers.
+- **2004**: Five suicide car bombers target police stations in and around Basra, killing 74 people and wounding 160.
+- **1989**: Tiananmen Square protests of 1989: In Beijing, around 100,000 students gather in Tiananmen Square to commemorate Chinese reform leader Hu Yaobang.
+- **1975**: Vietnam War: President of South Vietnam Nguyễn Văn Thiệu flees Saigon, as Xuân Lộc, the last South Vietnamese outpost blocking a direct North Vietnamese assault on Saigon, falls.
 
 <br>
 
 **💬 Quote**<br>
-> "Greatness comes from living with purpose and passion."<br>
-> — **Ralph Marston**
+> "Character is destiny."<br>
+> — **Heraclitus**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.*
+*A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
-- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
-- [Show HN: How context engineering works, a runnable reference](https://github.com/outcomeops/context-engineering)
-- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
-- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
-- [Aliens.gov will be running as a WordPress multisite](https://aliens.gov/)
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
+- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
+- [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
+- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
+- [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)
+- [Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html)
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Verona Rupes: Tallest Known Cliff in the Solar System
+### 🌌 Comet R3 PanSTARRS over a Himalayan Valley
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/1104/mirandascarp_vg2_900.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Basudeb Chakrabarti &  Samit Saha
+<img src='https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
