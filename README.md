@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, April 22, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, April 23, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.4°C - ☀️ Clear sky
+7.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: Four police officers are killed after being struck by a truck on the Eastern Freeway in Melbourne while speaking to a speeding driver, marking the largest loss of police lives in Victoria Police history.
-- **1992**: A series of gas explosions rip through the streets in Guadalajara, Mexico, killing 206.
-- **1970**: Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park.
+- **2018**: A vehicle-ramming attack kills 11 people and injures 15 in Toronto. A 25-year-old suspect, Alek Minassian, is arrested.
+- **1985**: Coca-Cola changes its formula and releases New Coke. The response is overwhelmingly negative, and the original formula is back on the market in less than three months.
+- **1968**: Vietnam War: Student protesters at Columbia University in New York City take over administration buildings and shut down the university.
 
 <br>
 
 **💬 Quote**<br>
-> "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."<br>
-> — **Tony Robbins**
+> "Behind every cloud is another cloud."<br>
+> — **Judy Garland**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*The punchline often arrives before the set-up.*<br>
-**Do you know the problem with UDP jokes?**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*According to a Gallup poll, most American pet owners obtain their cats by adopting strays.*
+*The Maine Coone is the only native American long haired breed.*
 
 <br>
 
 **📰 Daily Tech News**
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
-- [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
-- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
-- [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-- [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
+- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
+- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/)
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Red Sprite and the Tree
+### 🌌 Europa's Surface
 
-> Source: Maxime Villaeys
-<img src='https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/europa3_vg.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
