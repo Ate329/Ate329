@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, April 26, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, April 27, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.6°C - ☀️ Clear sky
+8.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1994**: South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress.
-- **1991**: Fifty-five tornadoes break out in the central United States. Before the outbreak's end, Andover, Kansas, would record the year's only F5 tornado.
-- **1970**: The Convention Establishing the World Intellectual Property Organization enters into force.
+- **2012**: At least four explosions hit the Ukrainian city of Dnipropetrovsk with at least 27 people injured.
+- **2007**: Israeli archaeologists discover the tomb of Herod the Great south of Jerusalem.
+- **1992**: The Russian Federation and 12 other former Soviet republics become members of the International Monetary Fund and the World Bank.
 
 <br>
 
 **💬 Quote**<br>
-> "If you have only one smile in you give it to the people you love."<br>
-> — **Maya Angelou**
+> "Educating the mind without educating the heart is no education at all."<br>
+> — **Aristotle**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*What do you call a computer mouse that swears a lot?*<br>
+**A cursor!**
 
 <br>
 
 **🧠 Random Fact**<br>
-*It may take as long as 2 weeks for a kitten to be able to hear well.  Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days.*
+*Cats should not be fed tuna exclusively, as it lacks taurine, an essential nutrient required for good feline health.  Make sure you have the proper Pet supplies to keep your cat happy and healthy.*
 
 <br>
 
 **📰 Daily Tech News**
-- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)
-- [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
-- [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
-- [Why Has There Been So Little Progress on Alzheimer's Disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-- [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
-- [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
-- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
-- [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html)
+- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+- [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/)
+- [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
+- [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
+- [Box to Save Memory in Rust](https://dystroy.org/blog/box-to-save-memory/)
+- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+- [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Persistence of Sunlight
+### 🌌 Mystic Mountain Monster being Destroyed
 
-> Source: Lorenzo Busilacchi
-<img src='https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
