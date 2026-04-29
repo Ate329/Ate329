@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, April 28, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, April 29, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.3°C - ☁️ Overcast
+11.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1983**: The West German news magazine Stern begins publishing excerpts from the purported diaries of Adolf Hitler, later revealed to be forgeries.
-- **1977**: The Red Army Faction trial ends, with Andreas Baader, Gudrun Ensslin and Jan-Carl Raspe found guilty of four counts of murder and more than 30 counts of attempted murder.
-- **1970**: Vietnam War: US President Richard Nixon formally authorizes American combat troops to take part in the Cambodian campaign.
+- **2015**: A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests.
+- **1991**: The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people.
+- **1991**: A cyclone strikes the Chittagong district of southeastern Bangladesh with winds of around 155 miles per hour (249 km/h), killing at least 138,000 people and leaving as many as ten million homeless.
 
 <br>
 
 **💬 Quote**<br>
-> "What people say, what people do, and what they say they do are entirely different things. "<br>
-> — **Margaret Mead**
+> "If you spend too much time thinking about a thing, you'll never get it done. "<br>
+> — **Bruce Lee**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the JavaScript developer sad?*<br>
-**He didn't know how to null his feelings.**
+*Why did the developer go broke buying Bitcoin?*<br>
+**He kept calling it bytecoin and didn't get any.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A group of cats is called a “clowder.”*
+*There are up to 60 million feral cats in the United States alone.*
 
 <br>
 
 **📰 Daily Tech News**
-- [To My Students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
-- [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
-- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
-- [Meetings Are Forcing Functions](https://www.mooreds.com/wordpress/archives/3734)
-- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
-- [Is my blue your blue?](https://ismy.blue/)
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+- [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)
+- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
+- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Comet R3 PanSTARRS Behind Satellite Trails
+### 🌌 CG 30: Cometary Globules
 
-> Source: Uli Fehr
-<img src='https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Marcelo Salemme
+<img src='https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
