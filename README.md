@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, April 29, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, April 30, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.2°C - ☀️ Clear sky
+11.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests.
-- **1991**: The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people.
-- **1991**: A cyclone strikes the Chittagong district of southeastern Bangladesh with winds of around 155 miles per hour (249 km/h), killing at least 138,000 people and leaving as many as ten million homeless.
+- **2021**: Forty-five men and boys are killed in the Meron stampede in Israel.
+- **2012**: An overloaded ferry capsizes on the Brahmaputra River in India killing at least 108 people. At least 150 more are missing and presumed dead.
+- **2009**: Chrysler files for Chapter 11 bankruptcy.
 
 <br>
 
 **💬 Quote**<br>
-> "If you spend too much time thinking about a thing, you'll never get it done. "<br>
-> — **Bruce Lee**
+> "Why do you stay in prison when the door is so wide open?"<br>
+> — **Rumi**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke buying Bitcoin?*<br>
-**He kept calling it bytecoin and didn't get any.**
+*Why did the programmer go broke?*<br>
+**He used up all his cache**
 
 <br>
 
 **🧠 Random Fact**<br>
-*There are up to 60 million feral cats in the United States alone.*
+*When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-- [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
-- [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)
-- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
-- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
-- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
+- [Zed 1.0](https://zed.dev/blog/zed-1-0)
+- [Copy Fail – CVE-2026-31431](https://copy.fail/)
+- [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
+- [OpenTrafficMap](https://opentrafficmap.org/)
+- [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262)
+- [Cursor Camp](https://neal.fun/cursor-camp/)
+- [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
+- [DRAM Crunch: Lessons for System Design](https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 CG 30: Cometary Globules
+### 🌌 The Moon, Venus, and the Pleiades
 
-> Source: Marcelo Salemme
-<img src='https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Gianni Tumino  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
