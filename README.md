@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, April 30, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, May 01, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.7°C - ☀️ Clear sky
+12.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Forty-five men and boys are killed in the Meron stampede in Israel.
-- **2012**: An overloaded ferry capsizes on the Brahmaputra River in India killing at least 108 people. At least 150 more are missing and presumed dead.
-- **2009**: Chrysler files for Chapter 11 bankruptcy.
+- **2004**: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin.
+- **1991**: Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
+- **1982**: Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
 
 <br>
 
 **💬 Quote**<br>
-> "Why do you stay in prison when the door is so wide open?"<br>
-> — **Rumi**
+> "You can have the mind or you can have the moment."<br>
+> — **Naval Ravikant**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer go broke?*<br>
-**He used up all his cache**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.*
+*The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Zed 1.0](https://zed.dev/blog/zed-1-0)
-- [Copy Fail – CVE-2026-31431](https://copy.fail/)
-- [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
-- [OpenTrafficMap](https://opentrafficmap.org/)
-- [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262)
-- [Cursor Camp](https://neal.fun/cursor-camp/)
-- [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
-- [DRAM Crunch: Lessons for System Design](https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/)
+- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
+- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)
+- [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10)
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
+- [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Moon, Venus, and the Pleiades
+### 🌌 Columbus Laboratory Installed on Space Station
 
-> Source: Gianni Tumino  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0802/columbus_sts122.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
