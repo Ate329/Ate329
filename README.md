@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, May 01, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, May 02, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.5°C - ☀️ Clear sky
+15.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin.
-- **1991**: Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
-- **1982**: Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
+- **2011**: An E. coli outbreak strikes Europe, mostly in Germany, leaving more than 30 people dead and many others are taken ill.
+- **1999**: Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.
+- **1982**: Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.
 
 <br>
 
 **💬 Quote**<br>
-> "You can have the mind or you can have the moment."<br>
-> — **Naval Ravikant**
+> "The smallest act of kindness is worth more than the greatest intention.  "<br>
+> — **Kahlil Gibran**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*There are 10 types of people in this world...*<br>
-**Those who understand binary and those who don't**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.*
+*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
-- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
-- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
-- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)
-- [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10)
-- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
-- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
-- [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
+- [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
+- [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
+- [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)
+- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
+- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Columbus Laboratory Installed on Space Station
+### 🌌 Markarian's Chain
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0802/columbus_sts122.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Chuck Ayoub
+<img src='https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
