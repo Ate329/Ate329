@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, May 02, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, May 03, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.0°C - ☀️ Clear sky
+15.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: An E. coli outbreak strikes Europe, mostly in Germany, leaving more than 30 people dead and many others are taken ill.
-- **1999**: Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.
-- **1982**: Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.
+- **2006**: Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people.
+- **2001**: The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947.
+- **1986**: Twenty-one people are killed and forty-one are injured after a bomb explodes on Air Lanka Flight 512 at Colombo airport in Sri Lanka.
 
 <br>
 
 **💬 Quote**<br>
-> "The smallest act of kindness is worth more than the greatest intention.  "<br>
-> — **Kahlil Gibran**
+> "The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."<br>
+> — **James Allen**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*Why did the programmer go broke?*<br>
+**He used up all his cache**
 
 <br>
 
 **🧠 Random Fact**<br>
-*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
+*During the time of the Spanish Inquisition, Pope Innocent VIII condemned cats as evil and thousands of cats were burned. Unfortunately, the widespread killing of cats led to an explosion of the rat population, which exacerbated the effects of the Black Death.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
-- [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
-- [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
-- [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)
-- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571)
-- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
-- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
+- [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+- [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
+- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
+- [The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
+- [Dav2d](https://code.videolan.org/videolan/dav2d)
+- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
+- [Do_not_track](https://donottrack.sh/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Markarian's Chain
+### 🌌 Seeing Titan
 
-> Source: Chuck Ayoub
-<img src='https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
