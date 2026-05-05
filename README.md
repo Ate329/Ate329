@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, May 04, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, May 05, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -16,15 +16,15 @@
 <br>
 
 **💥 On This Day**<br>
-- **2019**: The inaugural all-female motorsport series, W Series, takes place at Hockenheimring. The race was won by Jamie Chadwick, who would go on to become the inaugural series champion.
-- **1998**: A federal judge in Sacramento, California, gives "Unabomber" Theodore Kaczynski four life sentences plus 30 years after Kaczynski accepts a plea agreement sparing him from the death penalty.
-- **1982**: Twenty sailors are killed when the British Type 42 destroyer HMS Sheffield is hit by an Argentinian Exocet missile during the Falklands War.
+- **2023**: The World Health Organization declares the end of the COVID-19 pandemic as a global health emergency.
+- **1987**: Iran–Contra affair: Start of Congressional televised hearings in the United States.
+- **1973**: Secretariat wins the 1973 Kentucky Derby in 1:59.4, an as-yet-unbeaten record.
 
 <br>
 
 **💬 Quote**<br>
-> "Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."<br>
-> — **Richard Bach**
+> "Believe in one thing too much and you have no room for new ideas.  "<br>
+> — **Ray Bradbury**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Knock-knock.*<br>
-**A race condition. Who is there?**
+*A user interface is like a joke.*<br>
+**If you have to explain it then it is not that good.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.*
+*A female cat is called a queen or a molly.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
-- [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
-- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
-- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
-- [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html)
+- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+- [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
+- [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+- [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+- [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
+- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+- [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+- [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Trifid Pillars and Jets
+### 🌌 Mercury and Crescent Moon Set
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Miguel Claro
+<img src='https://apod.nasa.gov/apod/image/1604/EarthshineVsMercury_8168-netClaro1048.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
