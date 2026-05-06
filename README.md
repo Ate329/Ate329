@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, May 05, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, May 06, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.0°C - ☁️ Overcast
+9.0°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: The World Health Organization declares the end of the COVID-19 pandemic as a global health emergency.
-- **1987**: Iran–Contra affair: Start of Congressional televised hearings in the United States.
-- **1973**: Secretariat wins the 1973 Kentucky Derby in 1:59.4, an as-yet-unbeaten record.
+- **2023**: Eight people are killed and seven injured in a mass shooting in Allen, Texas. The perpetrator is killed by a police officer.
+- **2023**: The coronation of Charles III and Camilla as King and Queen of the United Kingdom and the other Commonwealth realms is held in Westminster Abbey, London.
+- **1988**: All thirty-six passengers and crew are killed when Widerøe Flight 710 crashes into Mt. Torghatten in Brønnøy.
 
 <br>
 
 **💬 Quote**<br>
-> "Believe in one thing too much and you have no room for new ideas.  "<br>
-> — **Ray Bradbury**
+> "Failure is an option here. If things are not failing, you are not innovating enough."<br>
+> — **Elon Musk**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A user interface is like a joke.*<br>
-**If you have to explain it then it is not that good.**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A female cat is called a queen or a molly.*
+*Retractable claws are a physical phenomenon that sets cats apart from the rest of the animal kingdom. I n the cat family, only cheetahs cannot retract their claws.*
 
 <br>
 
 **📰 Daily Tech News**
-- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-- [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
-- [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
-- [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
-- [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
-- [Agent Skills](https://addyosmani.com/blog/agent-skills/)
-- [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
-- [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+- [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+- [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+- [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
+- [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI)
+- [NPR finds "no sign" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
+- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Mercury and Crescent Moon Set
+### 🌌 Orion over Mount Teide
 
-> Source: Miguel Claro
-<img src='https://apod.nasa.gov/apod/image/1604/EarthshineVsMercury_8168-netClaro1048.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Marcin Rosadziński
+<img src='https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
