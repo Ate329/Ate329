@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, May 06, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, May 07, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.0°C - 🌧️ Drizzle
+9.0°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: Eight people are killed and seven injured in a mass shooting in Allen, Texas. The perpetrator is killed by a police officer.
-- **2023**: The coronation of Charles III and Camilla as King and Queen of the United Kingdom and the other Commonwealth realms is held in Westminster Abbey, London.
-- **1988**: All thirty-six passengers and crew are killed when Widerøe Flight 710 crashes into Mt. Torghatten in Brønnøy.
+- **2002**: An EgyptAir Boeing 737-500 crashes on approach to Tunis–Carthage International Airport, killing 14 people.
+- **1994**: Edvard Munch's painting The Scream is recovered undamaged after being stolen from the National Gallery of Norway in February.
+- **1992**: Three employees at a McDonald's Restaurant in Sydney, Nova Scotia, Canada, are brutally murdered and a fourth permanently disabled after a botched robbery. It is the first "fast-food murder" in Canada.
 
 <br>
 
 **💬 Quote**<br>
-> "Failure is an option here. If things are not failing, you are not innovating enough."<br>
-> — **Elon Musk**
+> "Loss is nothing else but change and change is nature's delight."<br>
+> — **Marcus Aurelius**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where do programmers like to hangout?*<br>
-**The Foo Bar.**
+*Why was the font always tired?*<br>
+**It was always bold.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Retractable claws are a physical phenomenon that sets cats apart from the rest of the animal kingdom. I n the cat family, only cheetahs cannot retract their claws.*
+*Cats only sweat through their paws and nowhere else on their body*
 
 <br>
 
 **📰 Daily Tech News**
-- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
-- [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
-- [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
-- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-- [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
-- [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI)
-- [NPR finds "no sign" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
-- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
+- [They Don't Look Like Me](https://niccolorastrelli.com/they-dont-look-like-me)
+- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
+- [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
+- [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
+- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Orion over Mount Teide
+### 🌌 The Retrograde Dance of Saturn and Neptune
 
-> Source: Marcin Rosadziński
-<img src='https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Tunç Tezel (TWAN)  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
