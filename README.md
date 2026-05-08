@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, May 07, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, May 08, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.0°C - 🌤️ Mainly clear
+9.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2002**: An EgyptAir Boeing 737-500 crashes on approach to Tunis–Carthage International Airport, killing 14 people.
-- **1994**: Edvard Munch's painting The Scream is recovered undamaged after being stolen from the National Gallery of Norway in February.
-- **1992**: Three employees at a McDonald's Restaurant in Sydney, Nova Scotia, Canada, are brutally murdered and a fourth permanently disabled after a botched robbery. It is the first "fast-food murder" in Canada.
+- **1984**: The Thames Barrier is officially opened, preventing the floodplain of most of Greater London from being flooded except under extreme circumstances.
+- **1978**: The first ascent of Mount Everest without supplemental oxygen, by Reinhold Messner and Peter Habeler.
+- **1976**: The rollercoaster The New Revolution, the first steel coaster with a vertical loop, opens at Six Flags Magic Mountain.
 
 <br>
 
 **💬 Quote**<br>
-> "Loss is nothing else but change and change is nature's delight."<br>
-> — **Marcus Aurelius**
+> "The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "<br>
+> — **Henry Ford**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the font always tired?*<br>
-**It was always bold.**
+*Why did the programmer always carry a pencil?*<br>
+**They preferred to write in C#.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats only sweat through their paws and nowhere else on their body*
+*All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
-- [They Don't Look Like Me](https://niccolorastrelli.com/they-dont-look-like-me)
-- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
-- [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
-- [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
-- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
+- [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/)
+- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+- [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
+- [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 The Retrograde Dance of Saturn and Neptune
-
-> Source: Tunç Tezel (TWAN)  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
