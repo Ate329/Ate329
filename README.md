@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, May 08, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, May 09, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.9°C - ☀️ Clear sky
+10.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1984**: The Thames Barrier is officially opened, preventing the floodplain of most of Greater London from being flooded except under extreme circumstances.
-- **1978**: The first ascent of Mount Everest without supplemental oxygen, by Reinhold Messner and Peter Habeler.
-- **1976**: The rollercoaster The New Revolution, the first steel coaster with a vertical loop, opens at Six Flags Magic Mountain.
+- **2020**: The COVID-19 recession causes the U.S. unemployment rate to hit 14.9 percent, its worst rate since the Great Depression.
+- **1988**: New Parliament House, Canberra officially opens.
+- **1969**: Carlos Lamarca leads the first urban guerrilla action against the military dictatorship of Brazil in São Paulo, by robbing two banks.
 
 <br>
 
 **💬 Quote**<br>
-> "The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "<br>
-> — **Henry Ford**
+> "We are all born ignorant, but one must work hard to remain stupid."<br>
+> — **Benjamin Franklin**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer always carry a pencil?*<br>
-**They preferred to write in C#.**
+*Which song would an exception sing?*<br>
+**Can't catch me - Avicii**
 
 <br>
 
 **🧠 Random Fact**<br>
-*All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.*
+*The leopard is the most widespread of all big cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
-- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-- [The Burning Man MOOP Map](https://www.not-ship.com/burning-man-moop/)
-- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
-- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
-- [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
-- [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
+- [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
+- [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/)
+- [AWS North Virginia data center outage – recovery to take hours](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)
+- [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Comet R3 PanSTARRS Before Rigel
+
+> Source: Jakub Kuřák &  Martin Mašek  (FZU of the Czech Academy of Sciences)
+<img src='https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
