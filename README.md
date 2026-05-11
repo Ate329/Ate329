@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, May 10, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, May 11, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.3°C - ☀️ Clear sky
+10.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2002**: FBI agent Robert Hanssen is sentenced to life imprisonment without the possibility of parole for selling United States secrets to Russia for $1.4 million in cash and diamonds.
-- **1996**: A blizzard strikes Mount Everest, killing eight climbers by the next day.
-- **1962**: Marvel Comics publishes the first issue of The Incredible Hulk.
+- **2022**: Palestinian-American journalist Shireen Abu Akleh is killed while covering a raid in Jenin. Israel eventually admitted and apologized for the murder, after initial denials.
+- **2009**: Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.
+- **1997**: Deep Blue, a chess-playing supercomputer, defeats Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.
 
 <br>
 
 **💬 Quote**<br>
-> "Who looks outside, dreams; who looks inside, awakes."<br>
-> — **Lolly Daskal**
+> "Only those who do nothing at all make no mistakes."<br>
+> — **Unknown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*How many programmers does it take to change a lightbulb?*<br>
+**None that's a hardware problem**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Today there are about 100 distinct breeds of the domestic cat.*
+*Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
-- [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)
-- [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/)
-- [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
-- [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
-- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
-- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
-- [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
+- [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
+- [First tunnel element of the Fehmarnbelt Tunnel immersed](https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/)
+- [Guy Goma's Accidental BBC Interview Lives on After 20 Years](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Messier Craters in Stereo
+### 🌌 Comet R3 PanSTARRS and Orion
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Luc Perrot (TWAN)
+<img src='https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
