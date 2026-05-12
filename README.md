@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, May 11, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, May 12, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.0°C - ☁️ Overcast
+7.2°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Palestinian-American journalist Shireen Abu Akleh is killed while covering a raid in Jenin. Israel eventually admitted and apologized for the murder, after initial denials.
-- **2009**: Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.
-- **1997**: Deep Blue, a chess-playing supercomputer, defeats Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.
+- **2024**: Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+- **2017**: The WannaCry ransomware attack impacts over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.
+- **2006**: Iranian Azeris interpret a cartoon published in an Iranian magazine as insulting, resulting in massive riots throughout the country.
 
 <br>
 
 **💬 Quote**<br>
-> "Only those who do nothing at all make no mistakes."<br>
-> — **Unknown**
+> "To forgive means pardoning the unpardonable."<br>
+> — **Gilbert Chesterton**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many programmers does it take to change a lightbulb?*<br>
-**None that's a hardware problem**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.*
+*70% of your cat's life is spent asleep.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
-- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
-- [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
-- [First tunnel element of the Fehmarnbelt Tunnel immersed](https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/)
-- [Guy Goma's Accidental BBC Interview Lives on After 20 Years](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html)
+- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
+- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
+- [GitLab announces workforce reduction and end of their CREDIT values](https://about.gitlab.com/blog/gitlab-act-2/)
+- [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+- [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html)
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Comet R3 PanSTARRS and Orion
+### 🌌 Aurora in the Night
 
-> Source: Luc Perrot (TWAN)
-<img src='https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Juha Kinnunen
+<img src='https://apod.nasa.gov/apod/image/0210/aurora_Kinnunen6.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
