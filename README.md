@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, May 12, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, May 13, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.2°C - 🌧️ Drizzle
+9.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
-- **2017**: The WannaCry ransomware attack impacts over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.
-- **2006**: Iranian Azeris interpret a cartoon published in an Iranian magazine as insulting, resulting in massive riots throughout the country.
+- **2014**: An explosion at an underground coal mine in southwest Turkey kills 301 miners.
+- **2011**: Two bombs explode in the Charsadda District of Pakistan killing 98 people and wounding 140 others.
+- **2000**: A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
 
 <br>
 
 **💬 Quote**<br>
-> "To forgive means pardoning the unpardonable."<br>
-> — **Gilbert Chesterton**
+> "Engage in those actions and thoughts that nurture the good qualities you want to have."<br>
+> — **Paramahansa Yogananda**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*70% of your cat's life is spent asleep.*
+*Since cats are so good at hiding illness, even a single instance of a symptom should be taken very seriously.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
-- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
-- [GitLab announces workforce reduction and end of their CREDIT values](https://about.gitlab.com/blog/gitlab-act-2/)
-- [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
-- [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html)
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+- [Googlebook](https://googlebook.google/)
+- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
+- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
+- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+- [Tell NYT, Atlantic, USA Today to Keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Aurora in the Night
+### 🌌 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
 
-> Source: Juha Kinnunen
-<img src='https://apod.nasa.gov/apod/image/0210/aurora_Kinnunen6.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Julien De Winter,  Sascha Ebeler  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
