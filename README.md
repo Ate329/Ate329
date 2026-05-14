@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, May 13, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, May 14, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.5°C - ☁️ Overcast
+7.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: An explosion at an underground coal mine in southwest Turkey kills 301 miners.
-- **2011**: Two bombs explode in the Charsadda District of Pakistan killing 98 people and wounding 140 others.
-- **2000**: A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
+- **2021**: China successfully lands Zhurong, the country's first Mars rover.
+- **1977**: A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people.
+- **1973**: Skylab, the United States' first space station, is launched.
 
 <br>
 
 **💬 Quote**<br>
-> "Engage in those actions and thoughts that nurture the good qualities you want to have."<br>
-> — **Paramahansa Yogananda**
+> "Animals don't hate, and we're supposed to be better than them."<br>
+> — **Elvis Presley**
 
 <br>
 </td>
@@ -33,8 +33,8 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*Hey, wanna hear a joke?*<br>
+**Parsing HTML with regex.**
 
 <br>
 
@@ -44,14 +44,14 @@
 <br>
 
 **📰 Daily Tech News**
-- [Googlebook](https://googlebook.google/)
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
-- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
-- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
-- [Tell NYT, Atlantic, USA Today to Keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
-- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
+- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+- [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
+- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
+- [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
+- [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo)
+- [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+- [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+### 🌌 NGC 188: Old Cluster in the New General Catalog
 
-> Source: Julien De Winter,  Sascha Ebeler  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Neven Krcmarek
+<img src='https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
