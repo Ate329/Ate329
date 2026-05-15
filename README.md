@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, May 14, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, May 15, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.4°C - ☁️ Overcast
+5.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: China successfully lands Zhurong, the country's first Mars rover.
-- **1977**: A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people.
-- **1973**: Skylab, the United States' first space station, is launched.
+- **1988**: Soviet–Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
+- **1976**: Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernihiv Oblast, killing 52.
+- **1970**: President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
 
 <br>
 
 **💬 Quote**<br>
-> "Animals don't hate, and we're supposed to be better than them."<br>
-> — **Elvis Presley**
+> "We are all self-made, but only the successful will admit it."<br>
+> — **Earl Nightingale**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Hey, wanna hear a joke?*<br>
-**Parsing HTML with regex.**
+*Why was the designer always cold?*<br>
+**Because they always used too much ice-olation.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Since cats are so good at hiding illness, even a single instance of a symptom should be taken very seriously.*
+*Cat's urine glows under a black light.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
-- [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
-- [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
-- [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
-- [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo)
-- [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
-- [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+- [A few words on DS4](https://antirez.com/news/165)
+- [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+- [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/)
+- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+- [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
+- [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 188: Old Cluster in the New General Catalog
+### 🌌 Messier Catalog at Uniform Scale
 
-> Source: Neven Krcmarek
-<img src='https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
