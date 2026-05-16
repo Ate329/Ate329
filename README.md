@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, May 15, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, May 16, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-5.3°C - ☀️ Clear sky
+6.7°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **1988**: Soviet–Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
-- **1976**: Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernihiv Oblast, killing 52.
-- **1970**: President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
+- **1988**: A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
+- **1974**: Josip Broz Tito is elected president for life of Yugoslavia.
+- **1960**: Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
 
 <br>
 
 **💬 Quote**<br>
-> "We are all self-made, but only the successful will admit it."<br>
-> — **Earl Nightingale**
+> "You play the hand you're dealt. I think the game's worthwhile.  "<br>
+> — **Christopher Reeve**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the designer always cold?*<br>
-**Because they always used too much ice-olation.**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cat's urine glows under a black light.*
+*Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
-- [A few words on DS4](https://antirez.com/news/165)
-- [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
-- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
-- [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/)
-- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
-- [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
-- [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
+- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
+- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
+- [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/)
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Messier Catalog at Uniform Scale
+### 🌌 R3 PanSTARRS: An Orion Comet
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Chester Hall-Fernandez
+<img src='https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
