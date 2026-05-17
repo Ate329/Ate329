@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, May 16, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, May 17, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.7°C - ⛅ Partly cloudy
+9.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1988**: A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
-- **1974**: Josip Broz Tito is elected president for life of Yugoslavia.
-- **1960**: Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
+- **2010**: Pamir Airways Flight 112 crashes in Afghanistan's Shakardara District, killing 44.
+- **1992**: Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.
+- **1990**: The General Assembly of the World Health Organization (WHO) eliminates homosexuality from the list of psychiatric diseases.
 
 <br>
 
 **💬 Quote**<br>
-> "You play the hand you're dealt. I think the game's worthwhile.  "<br>
-> — **Christopher Reeve**
+> "Becoming a great leader doesn't mean being perfect. it means living with your imperfections."<br>
+> — **Lolly Daskal**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.*
+*The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).*
 
 <br>
 
 **📰 Daily Tech News**
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
-- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
-- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
-- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-- [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/)
-- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
+- [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321)
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
+- [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem)
+- [Content-defined chunking added to Bazel](https://www.buildbuddy.io/blog/content-defined-chunking/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 R3 PanSTARRS: An Orion Comet
+### 🌌 Aurora Slathers Up the Sky
 
-> Source: Chester Hall-Fernandez
-<img src='https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
