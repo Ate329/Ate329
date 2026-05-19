@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, May 18, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, May 19, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.8°C - ☁️ Overcast
+9.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Cubana de Aviación Flight 972 crashes in Santiago de las Vegas after takeoff from José Martí International Airport in Havana, Cuba, killing 112 of the 113 people on board.
-- **2005**: A second photo from the Hubble Space Telescope confirms that Pluto has two additional moons, Nix and Hydra.
-- **1980**: Students in Gwangju, South Korea begin demonstrations calling for democratic reforms.
+- **2007**: A mass shooting starts in Moscow, Idaho, which would leave 3 non-shooters dead and 3 more injured, before the shooter committed suicide the next day.
+- **1991**: Croatians vote for independence in a referendum.
+- **1986**: The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan.
 
 <br>
 
 **💬 Quote**<br>
-> "Where violence reigns, reason is weak."<br>
-> — **Nicolas Chamfort**
+> "The only way to do great work is to love what you do."<br>
+> — **Steve Jobs**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many React developers does it take to change a lightbulb?*<br>
-**None, they prefer dark mode.**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Most cats adore sardines.*
+*Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.*
 
 <br>
 
 **📰 Daily Tech News**
-- [GenCAD](https://gencad.github.io/)
-- [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
-- [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
-- [Jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
-- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
+- [Click](https://clickclickclick.click/)
+- [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
+- [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+- [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
+- [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
+- [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
+- [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 1300: Barred Spiral Galaxy
+### 🌌 Unraveling NGC 3169
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Simone Curzi
+<img src='https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
