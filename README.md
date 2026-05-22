@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, May 21, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, May 22, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.3°C - ☁️ Overcast
+14.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: Random killings occurred on the Bannan Line of the Taipei MRT, killing four and injuring 24.
-- **2010**: JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year.
-- **2006**: The Republic of Montenegro holds a referendum proposing independence from the State Union of Serbia and Montenegro; 55% of Montenegrins vote for independence.
+- **2015**: The Republic of Ireland becomes the first nation in the world to utilise a public referendum to legalise gay marriage.
+- **2014**: An explosion occurs in Ürümqi, capital of China's far-western Xinjiang region, resulting in at least 43 deaths and 91 injuries.
+- **2002**: Civil rights movement: A jury in Birmingham, Alabama, convicts former Ku Klux Klan member Bobby Frank Cherry of the 1963 murder of four girls in the 16th Street Baptist Church bombing.
 
 <br>
 
 **💬 Quote**<br>
-> "An intelligent person hires people who are more intelligent than he is."<br>
-> — **Robert Kiyosaki**
+> "Passion creates, addiction consumes."<br>
+> — **Gabor Mate**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*Why did the functions stop calling each other?*<br>
+**Because they had constant arguments.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).*
+*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
 
 <br>
 
 **📰 Daily Tech News**
-- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
-- [DOS Zone](https://dos.zone/)
-- [Anthropic is expanding to Colossus2. Will use GB200](https://xcancel.com/nottombrown/status/2057194829986300375)
-- [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
-- [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
-- [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/)
-- [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+- [AI is killing the cheap smartphone](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
+- [We're testing new ad formats in Search and expanding our Direct Offers pilot](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
+- [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
+- [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
+- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Dark Wolf Nebula
+### 🌌 A Collision of Galaxy Clusters
 
-> Source: William Vrbasso  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2605/a2029.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
