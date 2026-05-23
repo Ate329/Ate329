@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, May 22, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, May 23, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.5°C - ☀️ Clear sky
+18.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: The Republic of Ireland becomes the first nation in the world to utilise a public referendum to legalise gay marriage.
-- **2014**: An explosion occurs in Ürümqi, capital of China's far-western Xinjiang region, resulting in at least 43 deaths and 91 injuries.
-- **2002**: Civil rights movement: A jury in Birmingham, Alabama, convicts former Ku Klux Klan member Bobby Frank Cherry of the 1963 murder of four girls in the 16th Street Baptist Church bombing.
+- **2016**: Two suicide bombings, conducted by the Islamic State of Iraq and Syria, kill at least 45 potential army recruits in Aden, Yemen.
+- **2016**: Eight bombings are carried out by the Islamic State of Iraq and Syria in Jableh and Tartus, coastline cities in Syria. One hundred eighty-four people are killed and at least 200 people injured.
+- **2015**: At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico.
 
 <br>
 
 **💬 Quote**<br>
-> "Passion creates, addiction consumes."<br>
-> — **Gabor Mate**
+> "Work for something because it is good, not just because it stands a chance to succeed."<br>
+> — **Vaclav Havel**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the functions stop calling each other?*<br>
-**Because they had constant arguments.**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
+*Female cats are polyestrous*
 
 <br>
 
 **📰 Daily Tech News**
-- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
-- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
-- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-- [AI is killing the cheap smartphone](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
-- [We're testing new ad formats in Search and expanding our Direct Offers pilot](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
-- [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
-- [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
-- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+- [Don't just paste the AI at me](https://dontquotetheai.com/)
+- [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
+- [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Collision of Galaxy Clusters
+### 🌌 The Nebulous Realm of WR 134
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/a2029.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Luigi Morrone
+<img src='https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
