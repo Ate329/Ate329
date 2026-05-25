@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, May 24, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, May 25, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.4°C - ⛅ Partly cloudy
+18.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1999**: The International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands indicts Slobodan Milošević and four others for war crimes and crimes against humanity committed in Kosovo.
-- **1995**: While attempting to return to Leeds Bradford Airport in the United Kingdom, Knight Air Flight 816 crashes in Dunkeswick, North Yorkshire, killing all 12 people on board.
-- **1992**: The ethnic cleansing in Kozarac, Bosnia and Herzegovina begins when Serbian militia and police forces enter the town.
+- **2018**: Ireland votes to repeal the Eighth Amendment of their constitution that prohibits abortion in all but a few cases, choosing to replace it with the Thirty-sixth Amendment of the Constitution of Ireland.
+- **1997**: A military coup in Sierra Leone replaces President Ahmad Tejan Kabbah with Major Johnny Paul Koroma.
+- **1982**: Falklands War: HMS Coventry is sunk by Argentine Air Force A-4 Skyhawks.
 
 <br>
 
 **💬 Quote**<br>
-> "Every drop in the ocean counts."<br>
-> — **Yoko Ono**
+> "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."<br>
+> — **Martin Luther King, Jr.**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*Why did the programmer go broke?*<br>
+**He used up all his cache**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Every year, nearly four million cats are eaten in Asia.*
+*Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.*
 
 <br>
 
 **📰 Daily Tech News**
-- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
-- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
-- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
-- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
-- [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
-- [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
-- [Byrne's Euclid](https://www.c82.net/euclid/)
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+- [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run)
+- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
+- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
+- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Messier 2
+### 🌌 Dark Clouds in Aquila
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Adam Block
+<img src='https://apod.nasa.gov/apod/image/1206/ldn673s_block1123.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
