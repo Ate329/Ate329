@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, May 25, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, May 26, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.2°C - ☁️ Overcast
+20.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Ireland votes to repeal the Eighth Amendment of their constitution that prohibits abortion in all but a few cases, choosing to replace it with the Thirty-sixth Amendment of the Constitution of Ireland.
-- **1997**: A military coup in Sierra Leone replaces President Ahmad Tejan Kabbah with Major Johnny Paul Koroma.
-- **1982**: Falklands War: HMS Coventry is sunk by Argentine Air Force A-4 Skyhawks.
+- **2021**: Ten people are killed in a shooting at a VTA rail yard in San Jose, California, United States.
+- **1998**: A MIAT Mongolian Airlines Harbin Y-12 crashes near Erdenet, Orkhon Province, Mongolia, resulting in 28 deaths.
+- **1991**: Lauda Air Flight 004 breaks apart in mid-air and crashes in the Phu Toei National Park in the Suphan Buri province of Thailand, killing all 223 people on board.
 
 <br>
 
 **💬 Quote**<br>
-> "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."<br>
-> — **Martin Luther King, Jr.**
+> "The opposite of courage in our society is not cowardice... it is conformity."<br>
+> — **Earl Nightingale**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer go broke?*<br>
-**He used up all his cache**
+*Why did the developer go broke?*<br>
+**They kept spending all their cache.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.*
+*A cat's field of vision is about 200 degrees.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
-- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
-- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-- [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run)
-- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
-- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+- [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee)
+- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+- [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Dark Clouds in Aquila
+### 🌌 Thackeray's Globules
 
-> Source: Adam Block
-<img src='https://apod.nasa.gov/apod/image/1206/ldn673s_block1123.jpg' width='100%' style='border-radius: 8px;'>
+> Source: John Hayes
+<img src='https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
