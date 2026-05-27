@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, May 26, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, May 27, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.3°C - ☀️ Clear sky
+20.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Ten people are killed in a shooting at a VTA rail yard in San Jose, California, United States.
-- **1998**: A MIAT Mongolian Airlines Harbin Y-12 crashes near Erdenet, Orkhon Province, Mongolia, resulting in 28 deaths.
-- **1991**: Lauda Air Flight 004 breaks apart in mid-air and crashes in the Phu Toei National Park in the Suphan Buri province of Thailand, killing all 223 people on board.
+- **2001**: Members of Abu Sayyaf, an Islamist separatist group, seize twenty hostages from an affluent island resort on Palawan in the Philippines; the hostage crisis would not be resolved until June 2002.
+- **1996**: First Chechen War: Russian president Boris Yeltsin meets with Chechen rebels for the first time and negotiates a cease-fire.
+- **1980**: The Gwangju Massacre: Airborne and army troops of South Korea retake the city of Gwangju from civil militias, killing at least 207 and possibly many more.
 
 <br>
 
 **💬 Quote**<br>
-> "The opposite of courage in our society is not cowardice... it is conformity."<br>
-> — **Earl Nightingale**
+> "Trust, but verify."<br>
+> — **Ronald Reagan**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke?*<br>
-**They kept spending all their cache.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's field of vision is about 200 degrees.*
+*There are approximately 100 breeds of cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
-- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
-- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
-- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
-- [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee)
-- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-- [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
-- [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
+- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
+- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
+- [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)
+- [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/)
+- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Thackeray's Globules
+### 🌌 NGC 3660 and Burçin's Galaxy
 
-> Source: John Hayes
-<img src='https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Adam Block,  El Sauce Obs.
+<img src='https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
