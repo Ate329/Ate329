@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, May 27, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, May 28, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.6°C - ☀️ Clear sky
+16.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: Members of Abu Sayyaf, an Islamist separatist group, seize twenty hostages from an affluent island resort on Palawan in the Philippines; the hostage crisis would not be resolved until June 2002.
-- **1996**: First Chechen War: Russian president Boris Yeltsin meets with Chechen rebels for the first time and negotiates a cease-fire.
-- **1980**: The Gwangju Massacre: Airborne and army troops of South Korea retake the city of Gwangju from civil militias, killing at least 207 and possibly many more.
+- **2017**: Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
+- **1998**: Nuclear testing: Pakistan responds to a series of nuclear tests by India with five of its own codenamed Chagai-I, prompting the United States, Japan, and other nations to impose economic sanctions. Pakistan celebrates Youm-e-Takbir annually.
+- **1995**: The 7.0 Mw  Neftegorsk earthquake shakes the former Russian settlement of Neftegorsk with a maximum Mercalli intensity of IX (Violent). Total damage was $64.1–300 million, with 1,989 deaths and 750 injured. The settlement was not rebuilt.
 
 <br>
 
 **💬 Quote**<br>
-> "Trust, but verify."<br>
-> — **Ronald Reagan**
+> "Normal is the average of deviance."<br>
+> — **Rita Mae Brown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*I was gonna tell you a joke about UDP...*<br>
+**...but you might not get it.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*There are approximately 100 breeds of cat.*
+*Baking chocolate is the most dangerous chocolate to your cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
-- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
-- [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)
-- [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/)
-- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-- [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
+- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
+- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
+- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
+- [You Should Not Update Your Dependencies](https://www.mendral.com/blog/you-should-not-update)
+- [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 3660 and Burçin's Galaxy
+### 🌌 PK 164 +31.1: The Headphone Nebula
 
-> Source: Adam Block,  El Sauce Obs.
-<img src='https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Bernard Miller  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
