@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, May 28, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, May 29, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.1°C - ☀️ Clear sky
+19.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
-- **1998**: Nuclear testing: Pakistan responds to a series of nuclear tests by India with five of its own codenamed Chagai-I, prompting the United States, Japan, and other nations to impose economic sanctions. Pakistan celebrates Youm-e-Takbir annually.
-- **1995**: The 7.0 Mw  Neftegorsk earthquake shakes the former Russian settlement of Neftegorsk with a maximum Mercalli intensity of IX (Violent). Total damage was $64.1–300 million, with 1,989 deaths and 750 injured. The settlement was not rebuilt.
+- **2022**: Tara Air Flight 197 crashes in Nepal's Mustang District, killing 22.
+- **2012**: A 5.8-magnitude earthquake hits northern Italy near Bologna, killing at least 24 people.
+- **2005**: France rejects the Constitution of the European Union in a national referendum.
 
 <br>
 
 **💬 Quote**<br>
-> "Normal is the average of deviance."<br>
-> — **Rita Mae Brown**
+> "We will act consistently with our view of who we truly are, whether that view is accurate or not."<br>
+> — **Tony Robbins**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I was gonna tell you a joke about UDP...*<br>
-**...but you might not get it.**
+*Why do programmers always get Christmas and Halloween mixed up?*<br>
+**Because DEC 25 = OCT 31**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Baking chocolate is the most dangerous chocolate to your cat.*
+*On average, a cat will sleep for 16 hours a day.*
 
 <br>
 
 **📰 Daily Tech News**
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
-- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
-- [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
-- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
-- [You Should Not Update Your Dependencies](https://www.mendral.com/blog/you-should-not-update)
-- [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
-- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+- [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/)
+- [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
+- [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds)
+- [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
+- [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
+- [I hated writing until I learned there’s a science to it (2024)](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 PK 164 +31.1: The Headphone Nebula
+### 🌌 NGC 1514: The Crystal Ball Nebula
 
-> Source: Bernard Miller  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
