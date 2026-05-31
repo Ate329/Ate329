@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, May 30, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, May 31, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.9°C - ☁️ Overcast
+21.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: The Crew Dragon Demo-2 launches from the Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
-- **2008**: TACA Flight 390 overshoots the runway at Toncontín International Airport in Tegucigalpa, Honduras and crashes, killing five people.
-- **1998**: Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.
+- **2019**: A shooting occurs inside a municipal building at Virginia Beach, Virginia, leaving 13 people dead, including the shooter, and four others injured.
+- **1997**: The Confederation Bridge opens, linking Prince Edward Island with mainland New Brunswick.
+- **1977**: The Trans-Alaska Pipeline System is completed.
 
 <br>
 
 **💬 Quote**<br>
-> "He who permits himself to tell a lie once, finds it much easier to do it the second time."<br>
-> — **Thomas Jefferson**
+> "Life must be a constant education; one must learn everything, from speaking to dying."<br>
+> — **Gustave Flaubert**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The first commercially cloned pet was a cat named "Little Nicky." He cost his owner $50,000, making him one of the most expensive cats ever.*
+*Female cats are polyestrous*
 
 <br>
 
 **📰 Daily Tech News**
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
-- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)
-- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/)
-- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
-- [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
-- [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
+- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert)
+- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
+- [Shantell Sans](https://shantellsans.com/process)
+- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Messier 104
+### 🌌 Supermoon Versus Micromoon
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
