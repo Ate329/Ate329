@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, May 31, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, June 01, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-21.2°C - ⛅ Partly cloudy
+17.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: A shooting occurs inside a municipal building at Virginia Beach, Virginia, leaving 13 people dead, including the shooter, and four others injured.
-- **1997**: The Confederation Bridge opens, linking Prince Edward Island with mainland New Brunswick.
-- **1977**: The Trans-Alaska Pipeline System is completed.
+- **2009**: Air France Flight 447 crashes into the Atlantic Ocean off the coast of Brazil on a flight from Rio de Janeiro to Paris. All 228 passengers and crew are killed.
+- **2008**: A fire on the back lot of Universal Studios breaks out, destroying the attraction King Kong Encounter and a large archive of master tapes for music and film, the full extent of which was not revealed until 2019.
+- **1988**: The Intermediate-Range Nuclear Forces Treaty comes into effect.
 
 <br>
 
 **💬 Quote**<br>
-> "Life must be a constant education; one must learn everything, from speaking to dying."<br>
-> — **Gustave Flaubert**
+> "If it is here, it is everywhere. If it is not here, it is nowhere."<br>
+> — **Tibetan Proverb**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What goes after USA?*<br>
-**USB.**
+*Why was the JavaScript developer sad?*<br>
+**He didn't know how to null his feelings.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Female cats are polyestrous*
+*Blue-eyed, pure white cats are frequently deaf.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
-- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert)
-- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
-- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
-- [Shantell Sans](https://shantellsans.com/process)
-- [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+- [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
+- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+- [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
+- [Reconciling Kubernetes cost estimates with CUR / FOCUS billing data](https://github.com/tanrikuluozlem/burn)
+- [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from)
+- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Supermoon Versus Micromoon
+### 🌌 Eagle Nebula Pillars in Infrared from Hubble
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
