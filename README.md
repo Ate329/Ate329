@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, June 01, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, June 02, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.8°C - ☁️ Overcast
+19.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Air France Flight 447 crashes into the Atlantic Ocean off the coast of Brazil on a flight from Rio de Janeiro to Paris. All 228 passengers and crew are killed.
-- **2008**: A fire on the back lot of Universal Studios breaks out, destroying the attraction King Kong Encounter and a large archive of master tapes for music and film, the full extent of which was not revealed until 2019.
-- **1988**: The Intermediate-Range Nuclear Forces Treaty comes into effect.
+- **2023**: A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
+- **1966**: Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
+- **1964**: The Palestine Liberation Organization (PLO) is formed.
 
 <br>
 
 **💬 Quote**<br>
-> "If it is here, it is everywhere. If it is not here, it is nowhere."<br>
-> — **Tibetan Proverb**
+> "Always turn a negative situation into a positive situation."<br>
+> — **Michael Jordan**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the JavaScript developer sad?*<br>
-**He didn't know how to null his feelings.**
+*Why did the developer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Blue-eyed, pure white cats are frequently deaf.*
+*Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
-- [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
-- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
-- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
-- [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
-- [Reconciling Kubernetes cost estimates with CUR / FOCUS billing data](https://github.com/tanrikuluozlem/burn)
-- [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from)
-- [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+- [Debug Project](https://debug.com/)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
+- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Eagle Nebula Pillars in Infrared from Hubble
+### 🌌 In the Center of the Trifid Nebula
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2011/Trifid_HubbleGendler_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
