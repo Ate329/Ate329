@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, June 02, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, June 03, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.0°C - ☁️ Overcast
+14.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
-- **1966**: Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
-- **1964**: The Palestine Liberation Organization (PLO) is formed.
+- **2012**: A plane carrying 153 people crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board plus six people on the ground.
+- **1984**: Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000.
+- **1979**: A blowout at the Ixtoc I oil well in the southern Gulf of Mexico causes at least 3,000,000 barrels (480,000 m3) of oil to be spilled into the waters, the second-worst accidental oil spill ever recorded.
 
 <br>
 
 **💬 Quote**<br>
-> "Always turn a negative situation into a positive situation."<br>
-> — **Michael Jordan**
+> "First learn the meaning of what you say, and then speak."<br>
+> — **Epictetus**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer quit his job?*<br>
-**Because he didn't get arrays.**
+*I was gonna tell you a joke about UDP...*<br>
+**...but you might not get it.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can be taught to walk on a leash, but a lot of time and patience is required to teach them. The younger the cat is, the easier it will be for them to learn.*
+*The lightest cat on record is a blue point Himalayan called Tinker Toy, who weighed 1 pound, 6 ounces (616 g). Tinker Toy was 2.75 inches (7 cm) tall and 7.5 inches (19 cm) long.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
-- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
-- [Debug Project](https://debug.com/)
-- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
-- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
-- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+- [AI Outperforms Law Professors in Stanford Law Study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+- [My Students Can't Read](https://www.chronicle.com/article/my-students-cant-read)
+- [California’s university system went all in on AI, now it's tearing itself apart](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)
+- [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
+- [More than 6 out of 10 people turn to AI for psychological support](https://www.axa.com/en/press/press-releases/2026-mind-health-report)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 In the Center of the Trifid Nebula
+### 🌌 Rectangular Ridges on Mars
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2011/Trifid_HubbleGendler_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/0210/incacity_msss.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
