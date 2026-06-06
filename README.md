@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, June 05, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, June 06, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.4°C - ☁️ Overcast
+13.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: Last transit of Venus until the year 2117.
-- **2009**: A fire at a day-care center kills 49 people in Hermosillo, Mexico.
-- **2006**: Serbia declares independence from the State Union of Serbia and Montenegro.
+- **1993**: Punsalmaagiin Ochirbat wins the first presidential election in Mongolia.
+- **1985**: The grave of "Wolfgang Gerhard" is opened in Embu, Brazil; the exhumed remains are later proven to be those of Josef Mengele, Auschwitz's "Angel of Death"; Mengele is thought to have drowned while swimming in February 1979.
+- **1975**: British referendum results in continued membership of the European Economic Community, with 67% of votes in favour.
 
 <br>
 
 **💬 Quote**<br>
-> "No one ever said life was fair. Just Eventful."<br>
-> — **Carol Burnett**
+> "If you see yourself as prosperous, you will be."<br>
+> — **Robert Collier**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a ladder to work?*<br>
-**They heard the code needed to be debugged from a higher level.**
+*Why was the JavaScript developer sad?*<br>
+**He didn't know how to null his feelings.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The claws on the cat’s back paws aren’t as sharp as the claws on the front paws because the claws in the back don’t retract and, consequently, become worn.*
+*Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
-- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
-- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
-- [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort)
-- [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06)
-- [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
-- [I'm skeptical about efforts to revolutionize schooling](https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/)
+- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+- [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
+- [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/)
+- [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
+- [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
+- [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
+- [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Planetary Nebula with Cosmic Buckyballs
+### 🌌 The Hydra Cluster of Galaxies
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Rafael Sampaio
+<img src='https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
