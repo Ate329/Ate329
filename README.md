@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, June 06, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, June 07, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.6°C - ☀️ Clear sky
+13.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1993**: Punsalmaagiin Ochirbat wins the first presidential election in Mongolia.
-- **1985**: The grave of "Wolfgang Gerhard" is opened in Embu, Brazil; the exhumed remains are later proven to be those of Josef Mengele, Auschwitz's "Angel of Death"; Mengele is thought to have drowned while swimming in February 1979.
-- **1975**: British referendum results in continued membership of the European Economic Community, with 67% of votes in favour.
+- **2000**: The United Nations defines the Blue Line as the border between Israel and Lebanon.
+- **1965**: The Supreme Court of the United States hands down its decision in Griswold v. Connecticut, prohibiting the states from criminalizing the use of contraception by married couples.
+- **1962**: The Organisation Armée Secrète (OAS) sets fire to the University of Algiers library building, destroying about 500,000 books.
 
 <br>
 
 **💬 Quote**<br>
-> "If you see yourself as prosperous, you will be."<br>
-> — **Robert Collier**
+> "A lot of people have gone further than they thought they could because someone else thought they could."<br>
+> — **Zig Ziglar**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the JavaScript developer sad?*<br>
-**He didn't know how to null his feelings.**
+*To understand what recursion is...*<br>
+**You must first understand what recursion is**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.*
+*The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
-- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
-- [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
-- [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/)
-- [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
-- [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
-- [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
-- [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
+- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+- [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
+- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
+- [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
+- [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Hydra Cluster of Galaxies
+### 🌌 Charon: Moon of Pluto
 
-> Source: Rafael Sampaio
-<img src='https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
