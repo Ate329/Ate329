@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, June 07, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, June 08, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.8°C - ☁️ Overcast
+13.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2000**: The United Nations defines the Blue Line as the border between Israel and Lebanon.
-- **1965**: The Supreme Court of the United States hands down its decision in Griswold v. Connecticut, prohibiting the states from criminalizing the use of contraception by married couples.
-- **1962**: The Organisation Armée Secrète (OAS) sets fire to the University of Algiers library building, destroying about 500,000 books.
+- **2007**: Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station.
+- **1983**: Reeve Aleutian Airways Flight 8 loses one of its propellers in flight resulting in damage to the flight controls. The Lockheed L-188 Electra makes an emergency landing at Anchorage International Airport and there are no injuries.
+- **1982**: Bluff Cove Air Attacks during the Falklands War: Fifty-six British servicemen are killed by an Argentine air attack on two landing ships, RFA Sir Galahad and RFA Sir Tristram.
 
 <br>
 
 **💬 Quote**<br>
-> "A lot of people have gone further than they thought they could because someone else thought they could."<br>
-> — **Zig Ziglar**
+> "A mistake is only an error, it becomes a mistake when you fail to correct it."<br>
+> — **John Lennon**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*To understand what recursion is...*<br>
-**You must first understand what recursion is**
+*Hey, wanna hear a joke?*<br>
+**Parsing HTML with regex.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.*
+*The claws on the cat’s back paws aren’t as sharp as the claws on the front paws because the claws in the back don’t retract and, consequently, become worn.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
-- [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
-- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
-- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
-- [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
-- [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+- [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
+- [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
+- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
+- [Learn PHP in 2026 (Yes, Really)](https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84)
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+- [Do we fear the serializable isolation level more than we fear subtle bugs (2024)](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
+- [What is the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Charon: Moon of Pluto
-
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
