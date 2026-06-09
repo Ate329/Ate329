@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, June 08, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, June 09, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.6°C - ☁️ Overcast
+13.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2007**: Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station.
-- **1983**: Reeve Aleutian Airways Flight 8 loses one of its propellers in flight resulting in damage to the flight controls. The Lockheed L-188 Electra makes an emergency landing at Anchorage International Airport and there are no injuries.
-- **1982**: Bluff Cove Air Attacks during the Falklands War: Fifty-six British servicemen are killed by an Argentine air attack on two landing ships, RFA Sir Galahad and RFA Sir Tristram.
+- **2008**: Two bombs explode at a train station near Algiers, Algeria, killing at least 13 people.
+- **1999**: Kosovo War: The Federal Republic of Yugoslavia and NATO sign a peace treaty.
+- **1967**: Six-Day War: Israel captures the Golan Heights from Syria.
 
 <br>
 
 **💬 Quote**<br>
-> "A mistake is only an error, it becomes a mistake when you fail to correct it."<br>
-> — **John Lennon**
+> "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."<br>
+> — **Martin Luther King, Jr.**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Hey, wanna hear a joke?*<br>
-**Parsing HTML with regex.**
+*Why did the programmer bring a broom to work?*<br>
+**To clean up all the bugs.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The claws on the cat’s back paws aren’t as sharp as the claws on the front paws because the claws in the back don’t retract and, consequently, become worn.*
+*Cat's urine glows under a black light.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
-- [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
-- [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
-- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
-- [Learn PHP in 2026 (Yes, Really)](https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84)
-- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- [Do we fear the serializable isolation level more than we fear subtle bugs (2024)](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
-- [What is the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
+- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
+- [Siri AI](https://www.apple.com/apple-intelligence/)
+- [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
+- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
+- [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
+- [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Comet R3 PanSTARRS Through Time
+
+> Source: Jakub Kuřák &  Martin Mašek  (FZU of the Czech Academy of Sciences)
+<img src='https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
