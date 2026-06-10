@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, June 09, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, June 10, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.5°C - ☁️ Overcast
+11.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: Two bombs explode at a train station near Algiers, Algeria, killing at least 13 people.
-- **1999**: Kosovo War: The Federal Republic of Yugoslavia and NATO sign a peace treaty.
-- **1967**: Six-Day War: Israel captures the Golan Heights from Syria.
+- **2018**: Opportunity rover, sends it last message back to Earth. The mission was finally declared over on February 13, 2019.
+- **1994**: China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
+- **1987**: June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
 
 <br>
 
 **💬 Quote**<br>
-> "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."<br>
-> — **Martin Luther King, Jr.**
+> "If you have only one smile in you give it to the people you love."<br>
+> — **Maya Angelou**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a broom to work?*<br>
-**To clean up all the bugs.**
+*Where did the API go to eat?*<br>
+**To the RESTaurant.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cat's urine glows under a black light.*
+*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
 
 <br>
 
 **📰 Daily Tech News**
-- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
-- [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
-- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
-- [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
-- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
-- [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
-- [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+- [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+- [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+- [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
+- [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+- [It's Death](https://jesseduffield.com/ITS-DEATH/)
+- [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Comet R3 PanSTARRS Through Time
+### 🌌 Thor's Helmet
 
-> Source: Jakub Kuřák &  Martin Mašek  (FZU of the Czech Academy of Sciences)
-<img src='https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Josep Drudis, Christian Sasse
+<img src='https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
