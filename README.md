@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, June 10, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, June 11, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.5°C - ☀️ Clear sky
+11.4°C - 🌧️ Rain
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Opportunity rover, sends it last message back to Earth. The mission was finally declared over on February 13, 2019.
-- **1994**: China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
-- **1987**: June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
+- **1981**: A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
+- **1978**: Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
+- **1970**: After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
 
 <br>
 
 **💬 Quote**<br>
-> "If you have only one smile in you give it to the people you love."<br>
-> — **Maya Angelou**
+> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."<br>
+> — **Oprah Winfrey**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where did the API go to eat?*<br>
-**To the RESTaurant.**
+*Why did the programmer bring a ladder to work?*<br>
+**They heard the code needed to be debugged from a higher level.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
+*Abraham Lincoln loved cats. He had four of them while he lived in the White House.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-- [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
-- [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-- [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-- [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
-- [It's Death](https://jesseduffield.com/ITS-DEATH/)
-- [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/)
+- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- [πFS](https://github.com/philipl/pifs)
+- [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
+- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
+- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
+- [I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135)
+- [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Thor's Helmet
-
-> Source: Josep Drudis, Christian Sasse
-<img src='https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
