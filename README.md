@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, June 11, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, June 12, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.4°C - 🌧️ Rain
+13.1°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1981**: A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
-- **1978**: Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
-- **1970**: After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
+- **2025**: Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
+- **1999**: Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force, Kosovo Force (KFor), enters the province of Kosovo in the Federal Republic of Yugoslavia.
+- **1990**: Russia Day: The parliament of the Russian Federation formally declares its sovereignty.
 
 <br>
 
 **💬 Quote**<br>
-> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."<br>
-> — **Oprah Winfrey**
+> "It is often safer to be in chains than to be free."<br>
+> — **Franz Kafka**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a ladder to work?*<br>
-**They heard the code needed to be debugged from a higher level.**
+*A programmer puts two glasses on his bedside table before going to sleep.*<br>
+**A full one, in case he gets thirsty, and an empty one, in case he doesn’t.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Abraham Lincoln loved cats. He had four of them while he lived in the White House.*
+*The first true cats came into existence about 12 million years ago and were the Proailurus.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-- [πFS](https://github.com/philipl/pifs)
-- [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
-- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
-- [I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135)
-- [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
+- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
+- [A greyscale iPhone setup that works in everyday life](https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life)
+- [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
+- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
 
 <br>
 </td>
