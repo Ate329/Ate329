@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, June 12, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, June 13, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.1°C - ☁️ Overcast
+15.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
-- **1999**: Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force, Kosovo Force (KFor), enters the province of Kosovo in the Federal Republic of Yugoslavia.
-- **1990**: Russia Day: The parliament of the Russian Federation formally declares its sovereignty.
+- **2018**: Volkswagen is fined one billion euros over the emissions scandal.
+- **2015**: A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
+- **2010**: A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
 
 <br>
 
 **💬 Quote**<br>
-> "It is often safer to be in chains than to be free."<br>
-> — **Franz Kafka**
+> "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."<br>
+> — **Colin R. Davis**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A programmer puts two glasses on his bedside table before going to sleep.*<br>
-**A full one, in case he gets thirsty, and an empty one, in case he doesn’t.**
+*What's the best part about TCP jokes?*<br>
+**I get to keep telling them until you get them.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The first true cats came into existence about 12 million years ago and were the Proailurus.*
+*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
-- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
-- [A greyscale iPhone setup that works in everyday life](https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life)
-- [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
-- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
+- [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+- [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+- [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
+- [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
+- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
 
 <br>
 </td>
