@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, June 13, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, June 14, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.9°C - ☁️ Overcast
+15.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: Volkswagen is fined one billion euros over the emissions scandal.
-- **2015**: A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
-- **2010**: A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
+- **1972**: Japan Air Lines Flight 471 crashes on approach to Palam International Airport (now Indira Gandhi International Airport) in New Delhi, India, killing 82 of the 87 people on board and four more people on the ground.
+- **1967**: Mariner program: Mariner 5 is launched towards Venus.
+- **1966**: The Vatican announces the abolition of the Index Librorum Prohibitorum ("index of prohibited books"), which was originally instituted in 1557.
 
 <br>
 
 **💬 Quote**<br>
-> "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."<br>
-> — **Colin R. Davis**
+> "If you're really truthful with yourself, it's a wonderful guidance."<br>
+> — **Charlie Chaplin**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best part about TCP jokes?*<br>
-**I get to keep telling them until you get them.**
+*Why did the programmer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
+*At 4 weeks, it is important to play with kittens so that they do not develope a fear of people.*
 
 <br>
 
 **📰 Daily Tech News**
-- [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
-- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
-- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
-- [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
-- [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
-- [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
-- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
+- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
+- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
+- [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
+- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
+- [ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
+- [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
+- [GameBoy Workboy](https://tcrf.net/Workboy)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Interplanetary Earth
+
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
