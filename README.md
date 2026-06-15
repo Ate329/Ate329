@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, June 14, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, June 15, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.4°C - ☁️ Overcast
+12.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1972**: Japan Air Lines Flight 471 crashes on approach to Palam International Airport (now Indira Gandhi International Airport) in New Delhi, India, killing 82 of the 87 people on board and four more people on the ground.
-- **1967**: Mariner program: Mariner 5 is launched towards Venus.
-- **1966**: The Vatican announces the abolition of the Index Librorum Prohibitorum ("index of prohibited books"), which was originally instituted in 1557.
+- **2013**: A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
+- **1972**: Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
+- **1944**: In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
 
 <br>
 
 **💬 Quote**<br>
-> "If you're really truthful with yourself, it's a wonderful guidance."<br>
-> — **Charlie Chaplin**
+> "If you don't break your ropes while you're alive, do you think ghosts will do it after?"<br>
+> — **Kabir**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit his job?*<br>
-**Because he didn't get arrays.**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*At 4 weeks, it is important to play with kittens so that they do not develope a fear of people.*
+*A cat's smell is their strongest sense, and they rely on this leading sense to identify people and objects; a feline's sense of smell is 14x better than a human's.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
-- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
-- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
-- [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
-- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
-- [ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-- [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
-- [GameBoy Workboy](https://tcrf.net/Workboy)
+- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
+- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
+- [Firewood Splitting Simulator](https://screen.toys/firewood/)
+- [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info)
+- [Chopped, Stored, Secured – The Story of the Hash Function](https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Interplanetary Earth
+### 🌌 10 Days of Venus and Jupiter
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Aditya Pawar
+<img src='https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
