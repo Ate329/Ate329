@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, June 15, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, June 16, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.5°C - ☁️ Overcast
+16.1°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
-- **1972**: Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
-- **1944**: In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
+- **2012**: China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
+- **2010**: Bhutan becomes the first country to institute a total ban on tobacco.
+- **2000**: The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
 
 <br>
 
 **💬 Quote**<br>
-> "If you don't break your ropes while you're alive, do you think ghosts will do it after?"<br>
-> — **Kabir**
+> "You will succeed because most people are lazy."<br>
+> — **Shahir Zag**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*Why was the JavaScript developer sad?*<br>
+**He didn't know how to null his feelings.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's smell is their strongest sense, and they rely on this leading sense to identify people and objects; a feline's sense of smell is 14x better than a human's.*
+*A cat's nose is as unique as a human's fingerprint.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
-- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
-- [Firewood Splitting Simulator](https://screen.toys/firewood/)
-- [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info)
-- [Chopped, Stored, Secured – The Story of the Hash Function](https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html)
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+- [Iroh 1.0](https://www.iroh.computer/blog/v1)
+- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
+- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
+- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+- [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 10 Days of Venus and Jupiter
+### 🌌 Triple Shockwave from Sun Crossing Rocket
 
-> Source: Aditya Pawar
-<img src='https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: John Winkopp   (WAI Media)
+<img src='https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
