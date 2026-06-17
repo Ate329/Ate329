@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, June 16, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, June 17, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.1°C - ☁️ Overcast
+16.9°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
-- **2010**: Bhutan becomes the first country to institute a total ban on tobacco.
-- **2000**: The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
+- **1985**: Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist.
+- **1972**: Watergate scandal: Five White House operatives are arrested for burgling the offices of the Democratic National Committee during an attempt by members of the administration of President Richard M. Nixon to illegally wiretap the political opposition as part of a broader campaign to subvert the democratic process.
+- **1971**: U.S. president Richard Nixon in a televised press conference called drug abuse "America's public enemy number one", starting the war on drugs.
 
 <br>
 
 **💬 Quote**<br>
-> "You will succeed because most people are lazy."<br>
-> — **Shahir Zag**
+> "Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."<br>
+> — **Benjamin Mays**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the JavaScript developer sad?*<br>
-**He didn't know how to null his feelings.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's nose is as unique as a human's fingerprint.*
+*Normal body temperature for a cat is 102 degrees F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-- [Iroh 1.0](https://www.iroh.computer/blog/v1)
-- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
-- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
-- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
-- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
-- [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
+- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+- [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+- [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
+- [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+- [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+- [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
+- [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Triple Shockwave from Sun Crossing Rocket
-
-> Source: John Winkopp   (WAI Media)
-<img src='https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
