@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, June 19, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, June 20, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.4°C - ☁️ Overcast
+22.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: The 10,000,000th United States Patent is issued.
-- **1988**: Pope John Paul II canonizes 117 Vietnamese Martyrs.
-- **1985**: Members of the Revolutionary Party of Central American Workers, dressed as Salvadoran soldiers, attack the Zona Rosa area of San Salvador.
+- **2019**: Iran's Air Defense Forces shoot down an American surveillance drone over the Strait of Hormuz amid rising tensions between the two countries.
+- **1990**: The 7.4 Mw Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X (Extreme), killing 35,000–50,000, and injuring 60,000–105,000.
+- **1982**: The International Conference on the Holocaust and Genocide opens in Tel Aviv, despite attempts by the Turkish government to cancel it, as it included presentations on the Armenian genocide.
 
 <br>
 
 **💬 Quote**<br>
-> "If you care about someone enough, you'll always be there for them no matter what."<br>
-> — **Roy T. Bennett**
+> "You can't climb the ladder of success with your hands in your pockets."<br>
+> — **Arnold Schwarzenegger**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the font always tired?*<br>
-**It was always bold.**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)*
+*Cats can judge within 3 inches the precise location of a sound being made 1 yard away.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
-- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
-- [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
-- [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
-- [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-- [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)
-- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+- [Hey, N00B, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
+- [Think of the Children: How to Force Real ID for All Internet Traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
+- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
+- [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+- [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Possible Supernova Remnant in Galactic Center
+### 🌌 Starry Night II
 
-> Source: X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2606/sgrc.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Rodrigo Guerra,    Original Painting:  Vincent van Gogh
+<img src='https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
