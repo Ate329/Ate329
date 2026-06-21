@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, June 20, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, June 21, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.0°C - ☁️ Overcast
+22.1°C - 🌧️ Rain
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Iran's Air Defense Forces shoot down an American surveillance drone over the Strait of Hormuz amid rising tensions between the two countries.
-- **1990**: The 7.4 Mw Manjil–Rudbar earthquake affects northern Iran with a maximum Mercalli intensity of X (Extreme), killing 35,000–50,000, and injuring 60,000–105,000.
-- **1982**: The International Conference on the Holocaust and Genocide opens in Tel Aviv, despite attempts by the Turkish government to cancel it, as it included presentations on the Armenian genocide.
+- **2012**: An Indonesian Air Force Fokker F27 Friendship crashes near Halim Perdanakusuma International Airport, killing 11.
+- **2006**: Pluto's newly discovered moons are officially named Nix and Hydra.
+- **1982**: John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.
 
 <br>
 
 **💬 Quote**<br>
-> "You can't climb the ladder of success with your hands in your pockets."<br>
-> — **Arnold Schwarzenegger**
+> "Life's too mysterious to take too serious."<br>
+> — **Mary Engelbreit**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can judge within 3 inches the precise location of a sound being made 1 yard away.*
+*A kitten will typically weigh about 3 ounces at birth.  The typical male housecat will weigh between  7 and 9 pounds, slightly less for female housecats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
-- [Hey, N00B, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
-- [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
-- [Think of the Children: How to Force Real ID for All Internet Traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
-- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
-- [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929)
-- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
-- [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
+- [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
+- [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Starry Night II
+### 🌌 Daytime Moon Meets Evening Star
 
-> Source: Rodrigo Guerra,    Original Painting:  Vincent van Gogh
-<img src='https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Debra Ceravolo
+<img src='https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
