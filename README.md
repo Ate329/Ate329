@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, June 21, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, June 22, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,19 +11,19 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.1°C - 🌧️ Rain
+22.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: An Indonesian Air Force Fokker F27 Friendship crashes near Halim Perdanakusuma International Airport, killing 11.
-- **2006**: Pluto's newly discovered moons are officially named Nix and Hydra.
-- **1982**: John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.
+- **2012**: A Turkish Air Force McDonnell Douglas F-4 Phantom II fighter plane is shot down by the Syrian Armed Forces, killing both of the plane's pilots and worsening already-strained relations between Turkey and Syria.
+- **2012**: Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.
+- **1986**: The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2–1 and later goes on to win the World Cup.
 
 <br>
 
 **💬 Quote**<br>
-> "Life's too mysterious to take too serious."<br>
+> "Don't look back - you're not going that way."<br>
 > — **Mary Engelbreit**
 
 <br>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*Why did the developer go to therapy?*<br>
+**They had too many unresolved issues.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A kitten will typically weigh about 3 ounces at birth.  The typical male housecat will weigh between  7 and 9 pounds, slightly less for female housecats.*
+*A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
-- [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
-- [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
-- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
-- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
-- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
-- [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- [Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6](https://status.claude.com/incidents/lv35v0q9nsj2)
+- [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
+- [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
+- [JSON-LD explained for personal websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
+- [PowerFox Browser](https://powerfox.jazzzny.me/)
+- [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Daytime Moon Meets Evening Star
+### 🌌 Keogram: The Sky in 2025
 
-> Source: Debra Ceravolo
-<img src='https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
