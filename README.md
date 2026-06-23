@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, June 22, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, June 23, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.2°C - ☁️ Overcast
+20.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: A Turkish Air Force McDonnell Douglas F-4 Phantom II fighter plane is shot down by the Syrian Armed Forces, killing both of the plane's pilots and worsening already-strained relations between Turkey and Syria.
-- **2012**: Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.
-- **1986**: The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2–1 and later goes on to win the World Cup.
+- **2001**: The 8.4 Mw southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
+- **1985**: A terrorist bomb explodes at Narita International Airport near Tokyo, killing two and injuring four. An hour later, the same group detonates a second bomb aboard Air India Flight 182, bringing the Boeing 747 down off the coast of Ireland killing all 329 aboard.
+- **1972**: Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't look back - you're not going that way."<br>
-> — **Mary Engelbreit**
+> "For every minute you are angry you lose sixty seconds of happiness."<br>
+> — **Ralph Waldo Emerson**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go to therapy?*<br>
-**They had too many unresolved issues.**
+*What did the router say to the doctor?*<br>
+**It hurts when IP.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.*
+*Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- [Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6](https://status.claude.com/incidents/lv35v0q9nsj2)
-- [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
-- [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
-- [JSON-LD explained for personal websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
-- [PowerFox Browser](https://powerfox.jazzzny.me/)
-- [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
+- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
+- [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/)
+- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
+- [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Keogram: The Sky in 2025
+### 🌌 M27: The Dumbbell Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Francesco Antonucci
+<img src='https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
