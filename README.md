@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, June 23, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, June 24, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.5°C - ☀️ Clear sky
+22.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: The 8.4 Mw southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
-- **1985**: A terrorist bomb explodes at Narita International Airport near Tokyo, killing two and injuring four. An hour later, the same group detonates a second bomb aboard Air India Flight 182, bringing the Boeing 747 down off the coast of Ireland killing all 329 aboard.
-- **1972**: Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins.
+- **2022**: In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992).
+- **1995**: Rugby World Cup: South Africa defeats New Zealand and Nelson Mandela presents Francois Pienaar with the Webb Ellis Cup in an iconic post-apartheid moment.
+- **1989**: Jiang Zemin succeeds Zhao Ziyang to become the General Secretary of the Chinese Communist Party after the 1989 Tiananmen Square protests and massacre.
 
 <br>
 
 **💬 Quote**<br>
-> "For every minute you are angry you lose sixty seconds of happiness."<br>
-> — **Ralph Waldo Emerson**
+> "You don't have to control your thoughts; you just have to stop letting them control you."<br>
+> — **Dan Millman**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*Why was the font always tired?*<br>
+**It was always bold.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours.*
+*A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-- [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
-- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
-- [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/)
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
-- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
-- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
-- [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
+- [Jerry's Map](http://www.jerrysmap.com/the-map)
+- [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
+- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+- [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338)
+- [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
+- [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 M27: The Dumbbell Nebula
-
-> Source: Francesco Antonucci
-<img src='https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
