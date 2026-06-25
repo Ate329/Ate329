@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, June 24, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, June 25, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.8°C - ☀️ Clear sky
+25.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992).
-- **1995**: Rugby World Cup: South Africa defeats New Zealand and Nelson Mandela presents Francois Pienaar with the Webb Ellis Cup in an iconic post-apartheid moment.
-- **1989**: Jiang Zemin succeeds Zhao Ziyang to become the General Secretary of the Chinese Communist Party after the 1989 Tiananmen Square protests and massacre.
+- **2024**: Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
+- **1996**: The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.
+- **1978**: The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
 
 <br>
 
 **💬 Quote**<br>
-> "You don't have to control your thoughts; you just have to stop letting them control you."<br>
-> — **Dan Millman**
+> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."<br>
+> — **Walt Disney**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the font always tired?*<br>
-**It was always bold.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat named Dusty, aged 1 7, living in Bonham, Texas, USA, gave birth to her 420th kitten on June 23, 1952.*
+*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Jerry's Map](http://www.jerrysmap.com/the-map)
-- [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
-- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
-- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
-- [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338)
-- [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
-- [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Blogging Can Just Be Stating the Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
+- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+- [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/)
+- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
+- [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
+- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+- [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
 
 <br>
 </td>
