@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, June 25, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, June 26, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-25.8°C - ☀️ Clear sky
+25.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
-- **1996**: The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.
-- **1978**: The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
+- **2015**: Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
+- **1995**: Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
+- **1991**: Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
 
 <br>
 
 **💬 Quote**<br>
-> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."<br>
-> — **Walt Disney**
+> "Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."<br>
+> — **Sydney Smith**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
+*A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-- [Blogging Can Just Be Stating the Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
-- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-- [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/)
-- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
-- [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
-- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
-- [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
+- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
+- [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/)
+- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Anticrepuscular Rays over Sicily
+
+> Source: Marcella Giulia Pace  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
