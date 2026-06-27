@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, June 26, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, June 27, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-25.9°C - ☀️ Clear sky
+27.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
-- **1995**: Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
-- **1991**: Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
+- **2013**: NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
+- **2007**: The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
+- **1988**: The Gare de Lyon rail accident in Paris, France, kills 56 people.
 
 <br>
 
 **💬 Quote**<br>
-> "Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."<br>
-> — **Sydney Smith**
+> "In order to be walked over, you have to be lying down."<br>
+> — **Celestine Chua**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*Why was the designer always cold?*<br>
+**Because they always used too much ice-olation.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.*
+*When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.*
 
 <br>
 
 **📰 Daily Tech News**
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
-- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
-- [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
-- [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
-- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/)
-- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
-- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
+- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
+- [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
+- [We can still stop California's 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Anticrepuscular Rays over Sicily
+### 🌌 Milky Way Urban Style
 
-> Source: Marcella Giulia Pace  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Shingoo Lee
+<img src='https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
