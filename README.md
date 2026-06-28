@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, June 27, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, June 28, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-27.7°C - ☁️ Overcast
+22.1°C - 🌧️ Rain
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
-- **2007**: The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
-- **1988**: The Gare de Lyon rail accident in Paris, France, kills 56 people.
+- **2012**: The United States Supreme Court upholds the constitutionality of the Affordable Care Act's individual mandate in National Federation of Independent Business v. Sebelius.
+- **2004**: Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
+- **2001**: Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
 
 <br>
 
 **💬 Quote**<br>
-> "In order to be walked over, you have to be lying down."<br>
-> — **Celestine Chua**
+> "Winners are not people who never fail, but people who never quit."<br>
+> — **Arnold Schwarzenegger**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the designer always cold?*<br>
-**Because they always used too much ice-olation.**
+*Why did the programmer always mix up Halloween and Christmas?*<br>
+**Because Oct 31 equals Dec 25.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.*
+*A cat has more bones than a human; humans have 206, and the cat - 230.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
-- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
-- [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
-- [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
-- [We can still stop California's 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
+- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
+- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
+- [OpenRA](https://www.openra.net/)
+- [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
+- [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Milky Way Urban Style
+### 🌌 Mars Marathon by Perseverance
 
-> Source: Shingoo Lee
-<img src='https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
