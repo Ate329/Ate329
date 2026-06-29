@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, June 28, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, June 29, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.1°C - 🌧️ Rain
+22.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: The United States Supreme Court upholds the constitutionality of the Affordable Care Act's individual mandate in National Federation of Independent Business v. Sebelius.
-- **2004**: Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
-- **2001**: Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
+- **2014**: The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
+- **2012**: A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
+- **1972**: The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
 
 <br>
 
 **💬 Quote**<br>
-> "Winners are not people who never fail, but people who never quit."<br>
-> — **Arnold Schwarzenegger**
+> "What is planted in each person's soul will sprout."<br>
+> — **Rumi**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer always mix up Halloween and Christmas?*<br>
-**Because Oct 31 equals Dec 25.**
+*Why don't React developers like nature?*<br>
+**They prefer the virtual DOM.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat has more bones than a human; humans have 206, and the cat - 230.*
+*The leopard is the most widespread of all big cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
-- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
-- [OpenRA](https://www.openra.net/)
-- [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
-- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
-- [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
-- [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
-- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
+- [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
+- [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
+- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+- [Professor denounces mass AI fraud on an exam at Brown](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
+- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Mars Marathon by Perseverance
-
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
