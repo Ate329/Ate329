@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, June 29, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, June 30, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.0°C - ☀️ Clear sky
+17.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
-- **2012**: A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
-- **1972**: The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
+- **2015**: A Hercules C-130 military aircraft with 113 people on board crashes in a residential area in Medan, Indonesia, resulting in at least 116 deaths.
+- **2013**: Nineteen firefighters die controlling a wildfire near Yarnell, Arizona.
+- **1985**: Thirty-nine American hostages from the hijacked TWA Flight 847 are freed in Beirut after being held for 17 days.
 
 <br>
 
 **💬 Quote**<br>
-> "What is planted in each person's soul will sprout."<br>
-> — **Rumi**
+> "An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."<br>
+> — **Eric Hoffer**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why don't React developers like nature?*<br>
-**They prefer the virtual DOM.**
+*Where did the API go to eat?*<br>
+**To the RESTaurant.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The leopard is the most widespread of all big cats.*
+*Your cat's heart beats at a rate almost double that of yours, from 110-140 beats per minute.*
 
 <br>
 
 **📰 Daily Tech News**
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-- [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
-- [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
-- [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
-- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-- [Professor denounces mass AI fraud on an exam at Brown](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
-- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
-- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+- [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
+- [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
+- [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
+- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
+- [SQLite improving performance with pre-sort](https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html)
+- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
 
 <br>
 </td>
