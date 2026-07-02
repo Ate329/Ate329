@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, July 01, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, July 02, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.6°C - ☀️ Clear sky
+17.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: Riots erupt in Mongolia in response to allegations of fraud surrounding the 2008 legislative elections.
-- **2006**: The first operation of Qinghai–Tibet Railway is conducted in China.
-- **2003**: Over 500,000 people protest against efforts to pass anti-sedition legislation in Hong Kong.
+- **1993**: A mob sets fire to the Hotel Madımak in Sivas, Turkey, where a Alevi cultural festival was taking place, killing 37 people.
+- **1986**: Rodrigo Rojas and Carmen Gloria Quintana are burnt alive during a street demonstration against the dictatorship of General Augusto Pinochet in Chile in the Quemados case.
+- **1976**: End of South Vietnam; Communist North Vietnam annexes the former South Vietnam to form the unified Socialist Republic of Vietnam.
 
 <br>
 
 **💬 Quote**<br>
-> "Code is like humor. When you have to explain it, it's bad."<br>
-> — **Cory House**
+> "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."<br>
+> — **Bhagavad Gita**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do programmers prefer dark chocolate?*<br>
-**Because it's bitter like their code.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The smallest wildcat today is the Black-footed cat. The females are less than 20 inches (50 cm) long and can weigh as little as 2.5 lbs (1.2 kg).*
+*A healthy cat has a temperature between 38 and 39 degrees Celcius.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
-- [Google copybara: moving code between repositories](https://github.com/google/copybara)
-- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
-- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
-- [Claude Science](https://claude.com/product/claude-science)
-- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
+- [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
+- [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
+- [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+- [The Underhanded C Contest](https://underhanded-c.org/)
+- [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
+- [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 The Cotton Candy Clouds of Rho Ophiuchi
+
+> Source: Ángel Molina  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
