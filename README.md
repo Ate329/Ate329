@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, July 02, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, July 03, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.8°C - ☀️ Clear sky
+14.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1993**: A mob sets fire to the Hotel Madımak in Sivas, Turkey, where a Alevi cultural festival was taking place, killing 37 people.
-- **1986**: Rodrigo Rojas and Carmen Gloria Quintana are burnt alive during a street demonstration against the dictatorship of General Augusto Pinochet in Chile in the Quemados case.
-- **1976**: End of South Vietnam; Communist North Vietnam annexes the former South Vietnam to form the unified Socialist Republic of Vietnam.
+- **1979**: U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul.
+- **1970**: Dan-Air Flight 1903 crashes into the Les Agudes mountain in the Montseny Massif near the village of Arbúcies in Catalonia, Spain, killing all 112 people aboard.
+- **1940**: World War II: The Royal Navy attacks the French naval squadron in Algeria, to ensure that it will not fall under German control. Of the four French battleships present, one is sunk, two are damaged, and one escapes back to France.
 
 <br>
 
 **💬 Quote**<br>
-> "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."<br>
-> — **Bhagavad Gita**
+> "Each path to knowledge involves different rules and these rules are not interchangeable."<br>
+> — **Barack Obama**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*What do you call a computer mouse that swears a lot?*<br>
+**A cursor!**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A healthy cat has a temperature between 38 and 39 degrees Celcius.*
+*The most expensive cat was an Asian Leopard cat (ALC)-Domestic Shorthair (DSH) hybrid named Zeus. Zeus, who is 90% ALC and 10% DSH, has an asking price of £100,000 ($154,000).*
 
 <br>
 
 **📰 Daily Tech News**
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
-- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
-- [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
-- [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-- [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
-- [The Underhanded C Contest](https://underhanded-c.org/)
-- [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
-- [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
+- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
+- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+- [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Cotton Candy Clouds of Rho Ophiuchi
+### 🌌 Sibling Supernova Remnants
 
-> Source: Ángel Molina  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
