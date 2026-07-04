@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, July 03, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, July 04, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.7°C - ☀️ Clear sky
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **1979**: U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul.
-- **1970**: Dan-Air Flight 1903 crashes into the Les Agudes mountain in the Montseny Massif near the village of Arbúcies in Catalonia, Spain, killing all 112 people aboard.
-- **1940**: World War II: The Royal Navy attacks the French naval squadron in Algeria, to ensure that it will not fall under German control. Of the four French battleships present, one is sunk, two are damaged, and one escapes back to France.
+- **2024**: The Labour Party, led by Keir Starmer, wins a landslide majority in the 2024 United Kingdom general election, ending 14 years of Conservative government.
+- **2009**: The first of four days of bombings begins on the southern Philippine island group of Mindanao.
+- **2004**: The cornerstone of the Freedom Tower is laid on the World Trade Center site in New York City.
 
 <br>
 
 **💬 Quote**<br>
-> "Each path to knowledge involves different rules and these rules are not interchangeable."<br>
-> — **Barack Obama**
+> "Never do to others what you would not like them to do to you."<br>
+> — **Confucius**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you call a computer mouse that swears a lot?*<br>
-**A cursor!**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most expensive cat was an Asian Leopard cat (ALC)-Domestic Shorthair (DSH) hybrid named Zeus. Zeus, who is 90% ALC and 10% DSH, has an asking price of £100,000 ($154,000).*
+*The Maine Coone is the only native American long haired breed.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-- [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
-- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
-- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
-- [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
+- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+- [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
+- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+- [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
+- [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+- [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sibling Supernova Remnants
+### 🌌 Three Galaxies in Pavo
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Mike Selby
+<img src='https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
