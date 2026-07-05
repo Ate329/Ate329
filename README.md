@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, July 04, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, July 05, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-Weather unavailable
+20.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: The Labour Party, led by Keir Starmer, wins a landslide majority in the 2024 United Kingdom general election, ending 14 years of Conservative government.
-- **2009**: The first of four days of bombings begins on the southern Philippine island group of Mindanao.
-- **2004**: The cornerstone of the Freedom Tower is laid on the World Trade Center site in New York City.
+- **2024**: Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election
+- **2022**: British government ministers Sajid Javid and Rishi Sunak resign from the second Johnson ministry, beginning the July 2022 United Kingdom government crisis.
+- **1996**: Dolly the sheep becomes the first mammal cloned from an adult cell.
 
 <br>
 
 **💬 Quote**<br>
-> "Never do to others what you would not like them to do to you."<br>
-> — **Confucius**
+> "Great ones are willing to get burned time and again as they sharpen their swords in the fire."<br>
+> — **Josh Waitzkin**
 
 <br>
 </td>
@@ -33,25 +33,25 @@ Weather unavailable
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*['hip', 'hip']*<br>
+**(hip hip array)**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Maine Coone is the only native American long haired breed.*
+*The way you treat kittens in the early stages of it's life will render it's personality traits later in life.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
-- [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
-- [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
-- [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
-- [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
-- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
-- [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
-- [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
+- [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
+- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
+- [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
+- [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
+- [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
+- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 
 <br>
 </td>
@@ -59,10 +59,10 @@ Weather unavailable
 </table>
 <br>
 
-### 🌌 Three Galaxies in Pavo
+### 🌌 Pathfinder on Mars
 
-> Source: Mike Selby
-<img src='https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
