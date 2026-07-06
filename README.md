@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, July 05, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, July 06, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.6°C - ☁️ Overcast
+18.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election
-- **2022**: British government ministers Sajid Javid and Rishi Sunak resign from the second Johnson ministry, beginning the July 2022 United Kingdom government crisis.
-- **1996**: Dolly the sheep becomes the first mammal cloned from an adult cell.
+- **2013**: A 73-car oil train derails in the town of Lac-Mégantic, Quebec and explodes into flames, killing at least 47 people and destroying more than 30 buildings in the town's central area.
+- **1997**: The Troubles: In response to the Drumcree dispute, five days of mass protests, riots and gun battles begin in Irish nationalist districts of Northern Ireland.
+- **1989**: The Tel Aviv–Jerusalem bus 405 suicide attack: Sixteen bus passengers are killed when a member of the Palestinian Islamic Jihad took control of the bus and drove it over a cliff.
 
 <br>
 
 **💬 Quote**<br>
-> "Great ones are willing to get burned time and again as they sharpen their swords in the fire."<br>
-> — **Josh Waitzkin**
+> "All problems are illusions of the mind."<br>
+> — **Eckhart Tolle**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*['hip', 'hip']*<br>
-**(hip hip array)**
+*A user interface is like a joke.*<br>
+**If you have to explain it then it is not that good.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The way you treat kittens in the early stages of it's life will render it's personality traits later in life.*
+*A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
-- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
-- [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
-- [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
-- [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
+- [OpenPrinter](https://www.opentools.studio/)
+- [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+- [Organic Maps](https://organicmaps.app/)
+- [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
+- [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
+- [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
+- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Pathfinder on Mars
+### 🌌 Saturn's Iapetus: Painted Moon
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
