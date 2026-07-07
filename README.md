@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, July 06, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, July 07, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.5°C - ☁️ Overcast
+23.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: A 73-car oil train derails in the town of Lac-Mégantic, Quebec and explodes into flames, killing at least 47 people and destroying more than 30 buildings in the town's central area.
-- **1997**: The Troubles: In response to the Drumcree dispute, five days of mass protests, riots and gun battles begin in Irish nationalist districts of Northern Ireland.
-- **1989**: The Tel Aviv–Jerusalem bus 405 suicide attack: Sixteen bus passengers are killed when a member of the Palestinian Islamic Jihad took control of the bus and drove it over a cliff.
+- **2017**: The Treaty on the Prohibition of Nuclear Weapons was adopted with 122 countries voting in favour.
+- **2006**: A shootout happens in Spiritwood, Canada, killing 2 Royal Canadian Mounted Police and wounding a 3rd officer.
+- **1992**: The New York Court of Appeals rules that women have the same right as men to go topless in public.
 
 <br>
 
 **💬 Quote**<br>
-> "All problems are illusions of the mind."<br>
-> — **Eckhart Tolle**
+> "Discontent is the first necessity of progress."<br>
+> — **Thomas Edison**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A user interface is like a joke.*<br>
-**If you have to explain it then it is not that good.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.*
+*A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.*
 
 <br>
 
 **📰 Daily Tech News**
-- [OpenPrinter](https://www.opentools.studio/)
-- [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-- [Organic Maps](https://organicmaps.app/)
-- [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
-- [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
-- [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
-- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+- [Fable turned remarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+- [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Saturn's Iapetus: Painted Moon
+### 🌌 Dueling Bands over the Atacama Desert
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Julien Looten
+<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
