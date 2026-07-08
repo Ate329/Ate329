@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, July 07, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, July 08, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-23.2°C - ☁️ Overcast
+19.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: The Treaty on the Prohibition of Nuclear Weapons was adopted with 122 countries voting in favour.
-- **2006**: A shootout happens in Spiritwood, Canada, killing 2 Royal Canadian Mounted Police and wounding a 3rd officer.
-- **1992**: The New York Court of Appeals rules that women have the same right as men to go topless in public.
+- **2011**: Space Shuttle Atlantis is launched in the final mission of the U.S. Space Shuttle program.
+- **2003**: Sudan Airways Flight 139 crashes near Port Sudan Airport during an emergency landing attempt, killing 116 of the 117 people on board.
+- **1994**: Space Shuttle Columbia is launched on an international science mission.
 
 <br>
 
 **💬 Quote**<br>
-> "Discontent is the first necessity of progress."<br>
-> — **Thomas Edison**
+> "I must also have a dark side if I am to be whole."<br>
+> — **Carl Jung**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*A programmer puts two glasses on his bedside table before going to sleep.*<br>
+**A full one, in case he gets thirsty, and an empty one, in case he doesn’t.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.*
+*Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Fable turned remarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
-- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
-- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
-- [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
+- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
+- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
+- [Show HN: Davit, a Apple Containers UI](https://davit.app)
+- [Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)](https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php)
+- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
+- [First Principles of Model Routing](https://try.works/first-principles-of-model-routing)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Dueling Bands over the Atacama Desert
+### 🌌 NGC 6188: Dragons of Ara
 
-> Source: Julien Looten
-<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Rod Prazeres
+<img src='https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
