@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, July 08, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, July 09, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.8°C - ☁️ Overcast
+18.0°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: Space Shuttle Atlantis is launched in the final mission of the U.S. Space Shuttle program.
-- **2003**: Sudan Airways Flight 139 crashes near Port Sudan Airport during an emergency landing attempt, killing 116 of the 117 people on board.
-- **1994**: Space Shuttle Columbia is launched on an international science mission.
+- **2004**: The Senate Report on Iraqi WMD Intelligence is released by the United States Senate Select Committee on Intelligence, casting doubt on the rationale for the Iraq War.
+- **1999**: Days of student protests begin after Iranian police and hardliners attack a student dormitory at the University of Tehran.
+- **1979**: A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge and Beate Klarsfeld outside their home in France in an unsuccessful assassination attempt.
 
 <br>
 
 **💬 Quote**<br>
-> "I must also have a dark side if I am to be whole."<br>
-> — **Carl Jung**
+> "Stop wasting time looking at someone else's reality while doing nothing about yours."<br>
+> — **Steve Harvey**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A programmer puts two glasses on his bedside table before going to sleep.*<br>
-**A full one, in case he gets thirsty, and an empty one, in case he doesn’t.**
+*Why did the developer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.*
+*Relative to its body size, the clouded leopard has the biggest canines of all animals’ canines. Its dagger-like teeth can be as long as 1.8 inches (4.5 cm).*
 
 <br>
 
 **📰 Daily Tech News**
-- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
-- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
-- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
-- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
-- [Show HN: Davit, a Apple Containers UI](https://davit.app)
-- [Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)](https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php)
-- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
-- [First Principles of Model Routing](https://try.works/first-principles-of-model-routing)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
+- [Cloudflare Drop](https://www.cloudflare.com/drop/)
+- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
+- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+- [Grok 4.5](https://x.ai/news/grok-4-5)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 6188: Dragons of Ara
+### 🌌 SDSSJ1430: A Galaxy Einstein Ring
 
-> Source: Rod Prazeres
-<img src='https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0807/j1430lens_sdss.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
