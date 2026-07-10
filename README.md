@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, July 09, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, July 10, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.0°C - ⛅ Partly cloudy
+19.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: The Senate Report on Iraqi WMD Intelligence is released by the United States Senate Select Committee on Intelligence, casting doubt on the rationale for the Iraq War.
-- **1999**: Days of student protests begin after Iranian police and hardliners attack a student dormitory at the University of Tehran.
-- **1979**: A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge and Beate Klarsfeld outside their home in France in an unsuccessful assassination attempt.
+- **2016**: Portugal defeats France in the UEFA Euro 2016 Final to win their first European title.
+- **2008**: Former Macedonian Interior Minister Ljube Boškoski is acquitted of all war-crimes charges by a United Nations tribunal.
+- **2002**: The Massacre of the Innocents, a painting by Peter Paul Rubens, is sold at a Sotheby's auction for £49.5 million (US$76.2 million) to Lord Thomson.
 
 <br>
 
 **💬 Quote**<br>
-> "Stop wasting time looking at someone else's reality while doing nothing about yours."<br>
-> — **Steve Harvey**
+> "Code is like humor. When you have to explain it, it's bad."<br>
+> — **Cory House**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer quit his job?*<br>
-**Because he didn't get arrays.**
+*Why did the programmer go to art school?*<br>
+**He wanted to learn how to code outside the box.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Relative to its body size, the clouded leopard has the biggest canines of all animals’ canines. Its dagger-like teeth can be as long as 1.8 inches (4.5 cm).*
+*A cat's cerebral cortex contains about twice as many neurons as that of dogs. Cats have 300 million neurons, whereas dogs have about 160 million. See, cats rule, dogs drool!*
 
 <br>
 
 **📰 Daily Tech News**
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-- [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
-- [Cloudflare Drop](https://www.cloudflare.com/drop/)
-- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-- [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
-- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
-- [Grok 4.5](https://x.ai/news/grok-4-5)
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Show HN: 18 Words](https://18words.com/)
+- [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+- [Hy3](https://hy.tencent.com/research/hy3)
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 SDSSJ1430: A Galaxy Einstein Ring
+### 🌌 The Red Glow of the Cosmic Bat Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0807/j1430lens_sdss.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Humbert Cédric  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
