@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, July 10, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, July 11, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.2°C - ⛅ Partly cloudy
+20.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Portugal defeats France in the UEFA Euro 2016 Final to win their first European title.
-- **2008**: Former Macedonian Interior Minister Ljube Boškoski is acquitted of all war-crimes charges by a United Nations tribunal.
-- **2002**: The Massacre of the Innocents, a painting by Peter Paul Rubens, is sold at a Sotheby's auction for £49.5 million (US$76.2 million) to Lord Thomson.
+- **2010**: The Islamist militia group Al-Shabaab carries out multiple suicide bombings in Kampala, Uganda, killing 74 people and injuring 85 others.
+- **2010**: In Johannesburg, Spain defeat the Netherlands 1–0 after extra time to win their first FIFA World Cup title.
+- **1991**: Nigeria Airways Flight 2120 crashes in Jeddah, Saudi Arabia, killing all 261 passengers and crew on board.
 
 <br>
 
 **💬 Quote**<br>
-> "Code is like humor. When you have to explain it, it's bad."<br>
-> — **Cory House**
+> "What's the point in being smart enough to read, if everything you read makes you dumb?"<br>
+> — **C. Sean McGee**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer go to art school?*<br>
-**He wanted to learn how to code outside the box.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's cerebral cortex contains about twice as many neurons as that of dogs. Cats have 300 million neurons, whereas dogs have about 160 million. See, cats rule, dogs drool!*
+*Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
-- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [Show HN: 18 Words](https://18words.com/)
-- [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-- [Hy3](https://hy.tencent.com/research/hy3)
-- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
+- [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
+- [Combustion engine web-based simulator](https://combustionlab.net)
+- [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Red Glow of the Cosmic Bat Nebula
+### 🌌 Western Moon, Eastern Sea
 
-> Source: Humbert Cédric  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: The Mare Orientale
+<img src='https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
