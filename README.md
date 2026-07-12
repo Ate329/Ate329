@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, July 11, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, July 12, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.1°C - ☀️ Clear sky
+21.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2010**: The Islamist militia group Al-Shabaab carries out multiple suicide bombings in Kampala, Uganda, killing 74 people and injuring 85 others.
-- **2010**: In Johannesburg, Spain defeat the Netherlands 1–0 after extra time to win their first FIFA World Cup title.
-- **1991**: Nigeria Airways Flight 2120 crashes in Jeddah, Saudi Arabia, killing all 261 passengers and crew on board.
+- **1998**: The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
+- **1975**: São Tomé and Príncipe declare independence from Portugal.
+- **1971**: The Australian Aboriginal flag is flown for the first time.
 
 <br>
 
 **💬 Quote**<br>
-> "What's the point in being smart enough to read, if everything you read makes you dumb?"<br>
-> — **C. Sean McGee**
+> "Life is like underwear, should be changed twice a day."<br>
+> — **Ray Bradbury**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*I was gonna tell you a joke about UDP...*<br>
+**...but you might not get it.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.*
+*Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.*
 
 <br>
 
 **📰 Daily Tech News**
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
-- [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
-- [Combustion engine web-based simulator](https://combustionlab.net)
-- [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
+- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
+- [Odyssey Linux](https://odysseylinux.org)
+- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
+- [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+- [The fine print that follows you out the door: non-compete clauses are spreading](https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Western Moon, Eastern Sea
+### 🌌 Messier 24: Sagittarius Star Cloud
 
-> Source: The Mare Orientale
-<img src='https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Chuck Ayoub
+<img src='https://apod.nasa.gov/apod/image/2607/M24_1088.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
