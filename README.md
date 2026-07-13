@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, July 12, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, July 13, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-21.1°C - ☀️ Clear sky
+18.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1998**: The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
-- **1975**: São Tomé and Príncipe declare independence from Portugal.
-- **1971**: The Australian Aboriginal flag is flown for the first time.
+- **2016**: Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
+- **2013**: Typhoon Soulik kills at least nine people and affects more than 160 million in East China and Taiwan.
+- **2011**: United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
 
 <br>
 
 **💬 Quote**<br>
-> "Life is like underwear, should be changed twice a day."<br>
-> — **Ray Bradbury**
+> "People do not decide their futures, they decide their habits and their habits decide their futures."<br>
+> — **Gary Keller**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I was gonna tell you a joke about UDP...*<br>
-**...but you might not get it.**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.*
+*A cat's field of vision is about 200 degrees.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
-- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
-- [Odyssey Linux](https://odysseylinux.org)
-- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
-- [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
-- [The fine print that follows you out the door: non-compete clauses are spreading](https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/)
+- [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
+- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
+- [Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Messier 24: Sagittarius Star Cloud
+### 🌌 Galaxy NGC 474: Shells and Star Streams
 
-> Source: Chuck Ayoub
-<img src='https://apod.nasa.gov/apod/image/2607/M24_1088.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
