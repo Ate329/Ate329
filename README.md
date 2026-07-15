@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, July 14, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, July 15, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-21.8°C - ☀️ Clear sky
+22.3°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: A man ploughs a truck into a Bastille Day celebration in Nice, France, killing 86 people and injuring another 434 before being shot by police.
-- **1983**: Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.
-- **1950**: Korean War: beginning of the Battle of Taejon.
+- **2002**: The Anti-Terrorism Court of Pakistan sentences British born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
+- **2002**: "American Taliban" John Walker Lindh pleads guilty to supplying aid to the enemy and possession of explosives during the commission of a felony.
+- **1983**: An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't let the noise of others' opinions drown out your own inner voice."<br>
-> — **Steve Jobs**
+> "No matter how great the talent or efforts, some things just take time."<br>
+> — **Warren Buffett**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*What do you call a computer mouse that swears a lot?*<br>
+**A cursor!**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The world’s rarest coffee, Kopi Luwak, comes from Indonesia where a wildcat known as the luwak lives. The cat eats coffee berries and the coffee beans inside pass through the stomach. The beans are harvested from the cat’s dung heaps and then cleaned and roasted. Kopi Luwak sells for about $500 for a 450 g (1 lb) bag.*
+*In Holland’s embassy in Moscow, Russia, the staff noticed that the two Siamese cats kept meowing and clawing at the walls of the building. Their owners finally investigated, thinking they would find mice. Instead, they discovered microphones hidden by Russian spies. The cats heard the microphones when they turned on.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
-- [Building and shipping Mac and iOS apps without ever opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
-- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
-- [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
-- [What are Forward Deployed Engineers, and why are they so in demand? (2025)](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)
-- [N+1](https://www.woman-of-letters.com/p/n1)
-- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
-- [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
+- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+- [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
+- [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
+- [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Hello World
+### 🌌 Double Lobed Asteroid Torifune
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg' width='100%' style='border-radius: 8px;'>
+> Source: JAXA,  U. of Tokyo,  Chiba Tech,  Tokyo U. of Science,  AIST,  Paris Obs.,  IAC
+<img src='https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
