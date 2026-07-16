@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, July 15, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, July 16, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.3°C - 🌤️ Mainly clear
+21.2°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2002**: The Anti-Terrorism Court of Pakistan sentences British born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
-- **2002**: "American Taliban" John Walker Lindh pleads guilty to supplying aid to the enemy and possession of explosives during the commission of a felony.
-- **1983**: An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.
+- **2013**: Syrian civil war: The Battle of Ras al-Ayn resumes between the People's Protection Units (YPG) and Islamist forces, beginning the Rojava–Islamist conflict.
+- **1990**: The Luzon earthquake strikes the Philippines with an intensity of 7.7, affecting Benguet, Pangasinan, Nueva Ecija, La Union, Aurora, Bataan, Zambales and Tarlac.
+- **1979**: Iraqi President Ahmed Hassan al-Bakr resigns and is replaced by Saddam Hussein.
 
 <br>
 
 **💬 Quote**<br>
-> "No matter how great the talent or efforts, some things just take time."<br>
-> — **Warren Buffett**
+> "Fear does not have any special power unless you empower it by submitting to it."<br>
+> — **Les Brown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you call a computer mouse that swears a lot?*<br>
-**A cursor!**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In Holland’s embassy in Moscow, Russia, the staff noticed that the two Siamese cats kept meowing and clawing at the walls of the building. Their owners finally investigated, thinking they would find mice. Instead, they discovered microphones hidden by Russian spies. The cats heard the microphones when they turned on.*
+*In 1888, more than 300,000 mummified cats were found an Egyptian cemetery. They were stripped of their wrappings and carted off to be used by farmers in England and the U.S. for fertilizer.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
-- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
-- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
-- [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
-- [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
-- [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
+- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
+- [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
+- [Grok Build is open source](https://github.com/xai-org/grok-build)
+- [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
+- [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+- [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
+- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Double Lobed Asteroid Torifune
+### 🌌 Red Sprites in the Tatacoa Desert
 
-> Source: JAXA,  U. of Tokyo,  Chiba Tech,  Tokyo U. of Science,  AIST,  Paris Obs.,  IAC
-<img src='https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Mario Vargas  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
