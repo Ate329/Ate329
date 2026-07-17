@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, July 16, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, July 17, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-21.2°C - 🌤️ Mainly clear
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Syrian civil war: The Battle of Ras al-Ayn resumes between the People's Protection Units (YPG) and Islamist forces, beginning the Rojava–Islamist conflict.
-- **1990**: The Luzon earthquake strikes the Philippines with an intensity of 7.7, affecting Benguet, Pangasinan, Nueva Ecija, La Union, Aurora, Bataan, Zambales and Tarlac.
-- **1979**: Iraqi President Ahmed Hassan al-Bakr resigns and is replaced by Saddam Hussein.
+- **2014**: A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries.
+- **1997**: After takeoff from Husein Sastranegara International Airport, Sempati Air Flight 304 crashes into a residential neighborhood in Bandung, killing 28 people.
+- **1976**: The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.
 
 <br>
 
 **💬 Quote**<br>
-> "Fear does not have any special power unless you empower it by submitting to it."<br>
-> — **Les Brown**
+> "Everyone you meet is fighting a battle you know nothing about. Be kind. Always."<br>
+> — **Robin Williams**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*How do you comfort a designer?*<br>
+**You give them some space... between the elements.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In 1888, more than 300,000 mummified cats were found an Egyptian cemetery. They were stripped of their wrappings and carted off to be used by farmers in England and the U.S. for fertilizer.*
+*Cats have the largest eyes of any mammal.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-- [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
-- [Grok Build is open source](https://github.com/xai-org/grok-build)
-- [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
-- [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
-- [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
-- [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+- [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
+- [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Red Sprites in the Tatacoa Desert
+### 🌌 Star Factory Messier 17
 
-> Source: Mario Vargas  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Ignacio de la Cueva Torregrosa
+<img src='https://apod.nasa.gov/apod/image/0708/m17x800ignacio.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
