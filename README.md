@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, July 18, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, July 19, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.9°C - ☀️ Clear sky
+15.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2002**: A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
-- **1994**: Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
-- **1984**: McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
+- **2011**: Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.
+- **1989**: United Airlines Flight 232 crashes in Sioux City, Iowa, killing 111.
+- **1985**: The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
 
 <br>
 
 **💬 Quote**<br>
-> "Peace of mind is that mental condition in which you have accepted the worst."<br>
-> — **Lin Yutang**
+> "Go confidently in the direction of your dreams! Live the life you've imagined."<br>
+> — **Henry David Thoreau**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*Why did the programmer bring a ladder to work?*<br>
+**They heard the code needed to be debugged from a higher level.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In Japan, cats are thought to have the power to turn into super spirits when they die. This may be because according to the Buddhist religion, the body of the cat is the temporary resting place of very spiritual people.i*
+*Unlike humans, cats cannot detect sweetness which likely explains why they are not drawn to it at all.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-- [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
-- [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
-- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
+- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
+- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
+- [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
+- [Judge a book by its first pages](https://uncovered.ink)
+- [Codex Resets](https://codex-resets.com/)
+- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+- [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Dust Trail of Comet Tempel 2
+### 🌌 Shadow and Rainbow
 
-> Source: Dan Bartlett
-<img src='https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
