@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, July 19, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, July 20, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.6°C - ☀️ Clear sky
+14.7°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.
-- **1989**: United Airlines Flight 232 crashes in Sioux City, Iowa, killing 111.
-- **1985**: The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
+- **2019**: Soyuz MS-13 is launched to the International Space Station on the 50th anniversary of the Apollo 11 moon landing.
+- **2013**: Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.
+- **1999**: The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.
 
 <br>
 
 **💬 Quote**<br>
-> "Go confidently in the direction of your dreams! Live the life you've imagined."<br>
-> — **Henry David Thoreau**
+> "If it is here, it is everywhere. If it is not here, it is nowhere."<br>
+> — **Tibetan Proverb**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a ladder to work?*<br>
-**They heard the code needed to be debugged from a higher level.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Unlike humans, cats cannot detect sweetness which likely explains why they are not drawn to it at all.*
+*In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
-- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
-- [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
-- [Judge a book by its first pages](https://uncovered.ink)
-- [Codex Resets](https://codex-resets.com/)
-- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-- [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
+- [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+- [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
+- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+- [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/)
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Shadow and Rainbow
+### 🌌 Flying Saucer Crash Lands in Utah Desert
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
