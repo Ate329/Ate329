@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, July 20, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, July 21, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.7°C - ⛅ Partly cloudy
+14.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Soyuz MS-13 is launched to the International Space Station on the 50th anniversary of the Apollo 11 moon landing.
-- **2013**: Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.
-- **1999**: The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.
+- **2010**: U.S. President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
+- **1979**: Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
+- **1977**: The start of the four-day-long Libyan–Egyptian War.
 
 <br>
 
 **💬 Quote**<br>
-> "If it is here, it is everywhere. If it is not here, it is nowhere."<br>
-> — **Tibetan Proverb**
+> "Those who know, do. Those that understand, teach."<br>
+> — **Aristotle**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*Why did the developer go broke?*<br>
+**They kept spending all their cache.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.*
+*A cat will tremble or shiver when it is extreme pain.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
-- [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
-- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-- [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
-- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
-- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
-- [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/)
-- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+- [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+- [Kimi Work](https://www.kimi.com/products/kimi-work)
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
+- [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Flying Saucer Crash Lands in Utah Desert
+### 🌌 NGC 3576: The Statue of Liberty Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Logan Carpenter
+<img src='https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
