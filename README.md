@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, July 21, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, July 22, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.6°C - ☀️ Clear sky
+15.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2010**: U.S. President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
-- **1979**: Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
-- **1977**: The start of the four-day-long Libyan–Egyptian War.
+- **2013**: Dingxi earthquakes: A series of earthquakes in Dingxi, China, kills at least 89 people and injures more than 500 others.
+- **2005**: Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.
+- **2003**: Iraq War: Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
 
 <br>
 
 **💬 Quote**<br>
-> "Those who know, do. Those that understand, teach."<br>
-> — **Aristotle**
+> "The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."<br>
+> — **Norman Vincent Peale**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke?*<br>
-**They kept spending all their cache.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat will tremble or shiver when it is extreme pain.*
+*The largest breed of cat is the Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.*
 
 <br>
 
 **📰 Daily Tech News**
-- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
-- [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-- [Kimi Work](https://www.kimi.com/products/kimi-work)
-- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
-- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
-- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
-- [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+- [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+- [Advertise in ChatGPT](https://ads.openai.com/)
+- ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+- [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 3576: The Statue of Liberty Nebula
+### 🌌 Turtle Rock on Mars
 
-> Source: Logan Carpenter
-<img src='https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
