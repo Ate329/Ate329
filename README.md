@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, July 22, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, July 23, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.9°C - ☁️ Overcast
+16.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Dingxi earthquakes: A series of earthquakes in Dingxi, China, kills at least 89 people and injures more than 500 others.
-- **2005**: Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.
-- **2003**: Iraq War: Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
+- **2014**: TransAsia Airways Flight 222 crashes in Xixi village near Huxi, Penghu, during approach to Penghu Airport. Forty-eight of the 58 people on board are killed and five more people on the ground are injured.
+- **2001**: Megawati Sukarnoputri was sworn in as the first female president of Indonesia following her predecessor's impeachment.
+- **1992**: Abkhazia declares independence from Georgia.
 
 <br>
 
 **💬 Quote**<br>
-> "The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."<br>
-> — **Norman Vincent Peale**
+> "If your happiness depends on what somebody else does, I guess you do have a problem."<br>
+> — **Richard Bach**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The largest breed of cat is the Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.*
+*While many parts of Europe and North America consider the black cat a sign of bad luck, in Britain and Australia, black cats are considered lucky.*
 
 <br>
 
 **📰 Daily Tech News**
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
-- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
-- [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
-- [Advertise in ChatGPT](https://ads.openai.com/)
-- ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
-- [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Turtle Rock on Mars
+### 🌌 The Corona Australis Molecular Cloud and the Chandelier Cluster
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
