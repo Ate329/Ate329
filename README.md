@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, July 23, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, July 24, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.2°C - ☁️ Overcast
+17.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: TransAsia Airways Flight 222 crashes in Xixi village near Huxi, Penghu, during approach to Penghu Airport. Forty-eight of the 58 people on board are killed and five more people on the ground are injured.
-- **2001**: Megawati Sukarnoputri was sworn in as the first female president of Indonesia following her predecessor's impeachment.
-- **1992**: Abkhazia declares independence from Georgia.
+- **2009**: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.
+- **1983**: The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
+- **1982**: Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
 
 <br>
 
 **💬 Quote**<br>
-> "If your happiness depends on what somebody else does, I guess you do have a problem."<br>
-> — **Richard Bach**
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."<br>
+> — **Dalai Lama**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit their job?*<br>
-**They didn't get arrays.**
+*What is the most used language in programming?*<br>
+**Profanity.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*While many parts of Europe and North America consider the black cat a sign of bad luck, in Britain and Australia, black cats are considered lucky.*
+*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
-- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
-- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+- [98.css](https://jdan.github.io/98.css/#status-bar)
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
+- [The Beam Engine](https://glinscott.github.io/beam-engine/)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Corona Australis Molecular Cloud and the Chandelier Cluster
+### 🌌 Beautiful Albireo AB
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Robert Eder
+<img src='https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
