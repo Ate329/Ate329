@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, July 24, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, July 25, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.2°C - ⛅ Partly cloudy
+18.3°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.
-- **1983**: The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
-- **1982**: Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
+- **2019**: National extreme heat records set this day in the UK, Belgium, The Netherlands and Germany during the July 2019 European heat wave.
+- **2010**: WikiLeaks publishes classified documents about the War in Afghanistan, one of the largest leaks in U.S. military history.
+- **2007**: Pratibha Patil is sworn in as India's first female president.
 
 <br>
 
 **💬 Quote**<br>
-> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."<br>
-> — **Dalai Lama**
+> "If you've never eaten while crying you don t know what life tastes like."<br>
+> — **Johann Wolfgang von Goethe**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What is the most used language in programming?*<br>
-**Profanity.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
+*Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.*
 
 <br>
 
 **📰 Daily Tech News**
-- [98.css](https://jdan.github.io/98.css/#status-bar)
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
-- [The Beam Engine](https://glinscott.github.io/beam-engine/)
-- [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+- [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+- [AIs don't do what you want. This is bad](https://rewardhacking.org)
+- [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+- [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Beautiful Albireo AB
+### 🌌 RCW 86: Historical Supernova Remnant
 
-> Source: Robert Eder
-<img src='https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Chinese astronomers
+<img src='https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
