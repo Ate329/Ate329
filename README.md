@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, July 26, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, July 27, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.9°C - ☁️ Overcast
+17.9°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: Fifty-six people are killed and over 200 people are injured, in the Ahmedabad bombings in India.
-- **1990**: The Americans with Disabilities Act of 1990 is signed into law by President George H. W. Bush.
-- **1971**: Apollo program: Launch of Apollo 15 on the first Apollo "J-Mission", and first use of a Lunar Roving Vehicle.
+- **2015**: Seven people are killed and many injured after gunmen attack an Indian police station in Punjab.
+- **1983**: Black July: Eighteen Tamil political prisoners at the Welikada high security prison in Colombo are massacred by Sinhalese prisoners, the second such massacre in two days.
+- **1981**: While landing at Chihuahua International Airport, Aeromexico Flight 230 overshoots the runway. Thirty-two of the 66 passengers and crew on board the DC-9 are killed.
 
 <br>
 
 **💬 Quote**<br>
-> "It is passion that makes man live; wisdom makes one only last."<br>
-> — **Nicolas Chamfort**
+> "Love is the absence of judgment."<br>
+> — **Dalai Lama**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the router say to the doctor?*<br>
-**It hurts when IP.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The domestic cat is the only species able to hold its tail vertically while walking. You can also learn about your cat's present state of mind by observing the posture of his tail.*
+*Cats have "nine lives" thanks to a flexible spine and powerful leg and back muscles*
 
 <br>
 
 **📰 Daily Tech News**
-- [Did They Ghost You?](https://didtheyghostyou.com/)
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
-- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-- [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
-- [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
-- [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
-- [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/)
+- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
+- [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
+- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
+- [Design is compromise](https://stephango.com/design-is-compromise)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Tranquility and Serenity
+### 🌌 N11: A Giant Ring of Emission Nebulas
 
-> Source: Tranquility
-<img src='https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg' width='100%' style='border-radius: 8px;'>
+> Source: C. Smith
+<img src='https://apod.nasa.gov/apod/image/0410/n11lmc_noao.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
