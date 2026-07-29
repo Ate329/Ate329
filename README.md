@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, July 28, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, July 29, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.2°C - ☀️ Clear sky
+22.5°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Catastrophic floods devastate Eastern Kentucky, resulting in 45 fatalities and causing damage to thousands of homes and businesses.
-- **2018**: Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.
-- **2017**: Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.
+- **2024**: Three children are stabbed to death and 10 other people injured at a dance studio in Southport, England. This incident, coupled with widespread online misinformation, leads to various racially motivated riots across the UK.
+- **2021**: The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.
+- **1981**: A worldwide television audience of around 750 million people watch the wedding of Charles, Prince of Wales, and Lady Diana Spencer at St Paul's Cathedral in London.
 
 <br>
 
 **💬 Quote**<br>
-> "We need never be ashamed of our tears."<br>
-> — **Charles Dickens**
+> "Money poisons you when you've got it, and starves you when you haven't."<br>
+> — **D. H. Lawrence**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Florence Nightingale owned more than 60 cats in her lifetime.*
+*A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
-- [DConf 2026 in London](https://dconf.org/2026/index.html)
-- [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
-- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
-- [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
-- [Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS](https://www.dowe.dev)
-- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
-- [Hard Road – A beautiful procedural post-apocalyptic game](https://hardroad.xyz/)
+- [Codex Security](https://github.com/openai/codex-security)
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
+- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+- [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html)
+- [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/)
+- [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 560 Kilometers Above Europa
+### 🌌 Barnards Loop over Twin Volcanoes
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/9803/europaclose_gal_big.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Gonzalo Laserna Vargas
+<img src='https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
