@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, July 30, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, July 31, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-25.6°C - ☀️ Clear sky
+20.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Pacific Ocean.
-- **2014**: Twenty killed and 150 are trapped after a landslide in Maharashtra, India.
-- **2006**: The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years.
+- **2007**: Operation Banner, the presence of the British Army in Northern Ireland, and the longest-running British Army operation ever, comes to an end.
+- **2006**: Fidel Castro hands over power to his brother, Raúl.
+- **1992**: The nation of Georgia joins the United Nations.
 
 <br>
 
 **💬 Quote**<br>
-> "Better than the young man's knowledge is the old man's experience."<br>
-> — **Tibetan Proverb**
+> "Go and do the things you can't. That is how you get to do them."<br>
+> — **Pablo Picasso**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where did the API go to eat?*<br>
-**To the RESTaurant.**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can jump up to 7 times their tail length.*
+*Cats prefer to remain non-confrontational. They will not fight to show dominance, but rather to stake their territory. Cats will actually go to extremes to avoid one another in order to prevent a possible confrontation.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
-- [Superlogical](https://www.superlogical.com/)
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
-- [The Cold Email](https://zachholman.com/posts/cold-email)
-- [Sell Your AI Skills?](https://capabase.ai/learn/sell-your-ai-skills)
-- [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
+- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
+- [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Welcome to a Comet
+### 🌌 Dueling Bands over the Atacama Desert
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/1411/Welcome_to_a_comet700.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Julien Looten
+<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
