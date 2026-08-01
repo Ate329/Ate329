@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, July 31, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, August 01, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.2°C - ☁️ Overcast
+17.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2007**: Operation Banner, the presence of the British Army in Northern Ireland, and the longest-running British Army operation ever, comes to an end.
-- **2006**: Fidel Castro hands over power to his brother, Raúl.
-- **1992**: The nation of Georgia joins the United Nations.
+- **2008**: Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
+- **2008**: The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
+- **1980**: A train crash kills 18 people and injures over 170 more in County Cork, Ireland.
 
 <br>
 
 **💬 Quote**<br>
-> "Go and do the things you can't. That is how you get to do them."<br>
-> — **Pablo Picasso**
+> "Expect the best of yourself, and then do what is necessary to make it a reality."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*Why did the functions stop calling each other?*<br>
+**Because they had constant arguments.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats prefer to remain non-confrontational. They will not fight to show dominance, but rather to stake their territory. Cats will actually go to extremes to avoid one another in order to prevent a possible confrontation.*
+*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
-- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
-- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
-- [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
+- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+- [Elevators](https://john.fun/elevators)
+- [qm](https://github.com/yc-software/qm)
+- [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
+- [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+- [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Dueling Bands over the Atacama Desert
+### 🌌 NGC 4372 and the Dark Doodad
 
-> Source: Julien Looten
-<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Alessandro Cipolat Bares
+<img src='https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
