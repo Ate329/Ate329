@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, August 01, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, August 02, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.6°C - ☀️ Clear sky
+18.6°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
-- **2008**: The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
-- **1980**: A train crash kills 18 people and injures over 170 more in County Cork, Ireland.
+- **2014**: At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+- **1999**: The Gaisal train disaster claims 285 lives in Assam, India.
+- **1944**: ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
 
 <br>
 
 **💬 Quote**<br>
-> "Expect the best of yourself, and then do what is necessary to make it a reality."<br>
-> — **Ralph Marston**
+> "People think about what they don't want and attract more of the same."<br>
+> — **Unknown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the functions stop calling each other?*<br>
-**Because they had constant arguments.**
+*What do you get when you cross a React developer with a mathematician?*<br>
+**A function component.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.*
+*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-- [Elevators](https://john.fun/elevators)
-- [qm](https://github.com/yc-software/qm)
-- [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
-- [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
-- [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
-- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
-- [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
+- [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+- [Diátaxis](https://diataxis.fr/)
+- [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
+- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+- [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
+- [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 NGC 4372 and the Dark Doodad
+### 🌌 Buck Moon and Belt of Venus
 
-> Source: Alessandro Cipolat Bares
-<img src='https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Branko Nadj
+<img src='https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
