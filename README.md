@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, August 02, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, August 03, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.6°C - ⛅ Partly cloudy
+22.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
-- **1999**: The Gaisal train disaster claims 285 lives in Assam, India.
-- **1944**: ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
+- **2023**: Worst floods hit major parts of Slovenia.
+- **2019**: Twenty-three people are killed and 22 injured in a mass shooting at a Walmart in El Paso, Texas.
+- **1981**: Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.
 
 <br>
 
 **💬 Quote**<br>
-> "People think about what they don't want and attract more of the same."<br>
-> — **Unknown**
+> "Awakening is possible only for those who seek it and want it."<br>
+> — **G.I. Gurdjieff**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you get when you cross a React developer with a mathematician?*<br>
-**A function component.**
+*Why don't programmers like nature?*<br>
+**There's too many bugs.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
+*Mohammed loved cats and reportedly his favorite cat, Muezza, was a tabby. Legend says that tabby cats have an “M” for Mohammed on top of their heads because Mohammad would often rest his hand on the cat’s head.*
 
 <br>
 
 **📰 Daily Tech News**
-- [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-- [Diátaxis](https://diataxis.fr/)
-- [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
-- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
-- [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
-- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
-- [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
+- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
+- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
+- [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
+- [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
+- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+- [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
+- [Read the Novels and Forget Everything Else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else)
+- [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Buck Moon and Belt of Venus
+### 🌌 A Fire Rainbow over West Virginia
 
-> Source: Branko Nadj
-<img src='https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Christa Harbig
+<img src='https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
