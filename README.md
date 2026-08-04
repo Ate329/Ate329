@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, August 03, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, August 04, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-22.4°C - ☁️ Overcast
+24.3°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: Worst floods hit major parts of Slovenia.
-- **2019**: Twenty-three people are killed and 22 injured in a mass shooting at a Walmart in El Paso, Texas.
-- **1981**: Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.
+- **1984**: The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit.
+- **1983**: Jean-Baptiste Ouédraogo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Captain Thomas Sankara.
+- **1972**: Ugandan President Idi Amin announces that Uganda is no longer responsible for the care of British subjects of Asian origin, beginning the expulsions of Ugandan Asians.
 
 <br>
 
 **💬 Quote**<br>
-> "Awakening is possible only for those who seek it and want it."<br>
-> — **G.I. Gurdjieff**
+> "Action is the foundational key to all success."<br>
+> — **Pablo Picasso**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why don't programmers like nature?*<br>
-**There's too many bugs.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Mohammed loved cats and reportedly his favorite cat, Muezza, was a tabby. Legend says that tabby cats have an “M” for Mohammed on top of their heads because Mohammad would often rest his hand on the cat’s head.*
+*If they have ample water, cats can tolerate temperatures up to 133 °F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
-- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
-- [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
-- [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
-- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
-- [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
-- [Read the Novels and Forget Everything Else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else)
-- [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683)
+- [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682)
+- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
+- [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Fire Rainbow over West Virginia
+### 🌌 Vaporizing Meteor Photobombs the Lacerta Nebula
 
-> Source: Christa Harbig
-<img src='https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Tom Burnett
+<img src='https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
