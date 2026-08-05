@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, August 04, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, August 05, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-24.3°C - ⛅ Partly cloudy
+23.5°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **1984**: The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit.
-- **1983**: Jean-Baptiste Ouédraogo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Captain Thomas Sankara.
-- **1972**: Ugandan President Idi Amin announces that Uganda is no longer responsible for the care of British subjects of Asian origin, beginning the expulsions of Ugandan Asians.
+- **1984**: A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.
+- **1981**: President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.
+- **1973**: Mars 6 is launched from the USSR.
 
 <br>
 
 **💬 Quote**<br>
-> "Action is the foundational key to all success."<br>
-> — **Pablo Picasso**
+> "Truth is like most opinions - best unexpressed."<br>
+> — **Kenneth Branagh**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*Why did the developer go to therapy?*<br>
+**They had too many unresolved issues.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*If they have ample water, cats can tolerate temperatures up to 133 °F.*
+*Blue-eyed, white cats are often prone to deafness.*
 
 <br>
 
 **📰 Daily Tech News**
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
-- [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683)
-- [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682)
-- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
-- [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
+- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+- [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837)
+- [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
+- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+- [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/)
+- [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
+- [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Vaporizing Meteor Photobombs the Lacerta Nebula
+### 🌌 Curious Cometary Knots in the Helix Nebula
 
-> Source: Tom Burnett
-<img src='https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
