@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, August 05, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, August 06, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-23.5°C - 🌤️ Mainly clear
+17.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1984**: A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.
-- **1981**: President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.
-- **1973**: Mars 6 is launched from the USSR.
+- **1996**: NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.
+- **1991**: Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.
+- **1965**: US President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law.
 
 <br>
 
 **💬 Quote**<br>
-> "Truth is like most opinions - best unexpressed."<br>
-> — **Kenneth Branagh**
+> "You may be disappointed if you fail, but you are doomed if you don't try."<br>
+> — **Beverly Sills**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go to therapy?*<br>
-**They had too many unresolved issues.**
+*What do you call a computer mouse that swears a lot?*<br>
+**A cursor!**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Blue-eyed, white cats are often prone to deafness.*
+*Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.*
 
 <br>
 
 **📰 Daily Tech News**
-- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
-- [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837)
-- [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
-- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
-- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
-- [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/)
-- [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
-- [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/)
+- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+- [Discovery Loop](https://www.discoveryloop.com/)
+- [Zed DeltaDB](https://zed.dev/deltadb)
+- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
+- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+- [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Curious Cometary Knots in the Helix Nebula
+### 🌌 Spokes on Saturn's B Ring
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Brad Croslin  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
