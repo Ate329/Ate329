@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, August 06, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, August 07, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.7°C - ☀️ Clear sky
+14.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1996**: NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.
-- **1991**: Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.
-- **1965**: US President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law.
+- **1999**: The Chechnya-based Islamic International Brigade invades neighboring Dagestan.
+- **1997**: Fine Air Flight 101 crashes after takeoff from Miami International Airport, killing five people.
+- **1995**: The Chilean government declares state of emergency in the southern half of the country in response to an event of intense, cold, wind, rain and snowfall known as the White Earthquake.
 
 <br>
 
 **💬 Quote**<br>
-> "You may be disappointed if you fail, but you are doomed if you don't try."<br>
-> — **Beverly Sills**
+> "Nothing in this universe occurs by accident."<br>
+> — **Neale Donald Walsch**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you call a computer mouse that swears a lot?*<br>
-**A cursor!**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.*
+*The normal body temperature of a cat is between 100.5 ° and 102.5 °F. A cat is sick if its temperature goes below 100 ° or above 103 °F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
-- [Discovery Loop](https://www.discoveryloop.com/)
-- [Zed DeltaDB](https://zed.dev/deltadb)
-- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
-- [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
-- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
-- [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
-- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
+- [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
+- [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
+- [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
+- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
+- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
+- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Spokes on Saturn's B Ring
+### 🌌 A Plutonian Landscape
 
-> Source: Brad Croslin  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/1509/nh-apluto-mountains-plains-9-17-15.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
