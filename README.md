@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, August 07, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, August 08, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.9°C - ☀️ Clear sky
+15.4°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1999**: The Chechnya-based Islamic International Brigade invades neighboring Dagestan.
-- **1997**: Fine Air Flight 101 crashes after takeoff from Miami International Airport, killing five people.
-- **1995**: The Chilean government declares state of emergency in the southern half of the country in response to an event of intense, cold, wind, rain and snowfall known as the White Earthquake.
+- **2008**: A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
+- **2007**: An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
+- **2007**: Space Shuttle program: STS-118 Mission: Endeavour takes off on a mission to the International Space Station.
 
 <br>
 
 **💬 Quote**<br>
-> "Nothing in this universe occurs by accident."<br>
-> — **Neale Donald Walsch**
+> "Fear can hold you prisoner. Hope can set you free."<br>
+> — **Stephen King**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The normal body temperature of a cat is between 100.5 ° and 102.5 °F. A cat is sick if its temperature goes below 100 ° or above 103 °F.*
+*Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours.*
 
 <br>
 
 **📰 Daily Tech News**
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
-- [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
-- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-- [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
-- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
-- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
-- [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
+- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 A Plutonian Landscape
-
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/1509/nh-apluto-mountains-plains-9-17-15.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
